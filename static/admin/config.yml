@@ -116,5 +116,6 @@ collections:
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "album-listing"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Artwork", name: "artwork", widget: "image"}
       - {label: "Release Year", name: "release-year", widget: "string"}
       - {label: "Track Listing", name: "body", widget: "markdown"}
