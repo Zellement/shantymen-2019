@@ -6,53 +6,115 @@ media_folder: static/img
 public_folder: /img
 
 collections:
+
+  - name: "pages"
+    label: "Pages"
+    description: >
+      These are all the standard pages of the website.
+    editor:
+     preview: false
+    files:
+      - file: "src/pages/index.md"
+        label: "Home"
+        name: "index"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "standard-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Main Image", name: "image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/about.md"
+        label: "About"
+        name: "about"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "standard-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Main Image", name: "image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/oddfellows-hall.md"
+        label: "Oddfellows Hall"
+        name: "oddfellows-hall"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "standard-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Main Image", name: "image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - label: "Oddfellows Gallery"
+            name: "oddfellowsGallery"
+            widget: "list"
+            fields:
+              - {label: "Title", name: "title", widget: "string" }
+              - {label: "Image", name: "image", widget: "image"}
+      - file: "src/pages/gigs.md"
+        label: "Gigs"
+        name: "gigs"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "standard-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Main Image", name: "image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/guestbook.md"
+        label: "Guestbook"
+        name: "guestbook"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "standard-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Main Image", name: "image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/discography.md"
+        label: "Discography"
+        name: "discography"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "standard-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Main Image", name: "image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+
   - name: "blog"
     label: "Blog"
     folder: "src/pages/blog"
+    editor:
+     preview: false
+    description: >
+      These are all the blog posts.
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Main Image", name: "image", widget: "image", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
 
-  - name: "pages"
-    label: "Pages"
-    files:
-      - file: "src/pages/index.md"
-        label: "Landing Page"
-        name: "index"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Subheading, name: subheading, widget: string}
-          - {label: Mainpitch, name: mainpitch, widget: object, fields: [{label: Title, name: title, widget: string}, {label: Description, name: description, widget: text}]}
-          - {label: Description, name: description, widget: string}
-          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
-          - {label: Main, name: main, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image2, name: image2, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image3, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}]}
-      - file: "src/pages/about/index.md"
-        label: "About"
-        name: "about"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/pages/products/index.md"
-        label: "Products Page"
-        name: "products"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "product-page"}
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Description, name: description, widget: string}
-          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
-          - {label: Main, name: main, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image2, name: image2, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image3, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}]}
-          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
-          - {label: Full_image, name: full_image, widget: image}
-          - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
+  - name: "gigs"
+    label: "-- Gigs"
+    editor:
+     preview: false
+    description: >
+      This lists all the gigs that are displayed on the website. Be aware the date will need to be entered twice - one for sorting chronologically, and one for displaying to end users
+    label_singular: 'Gig'
+    folder: "src/gigs"
+    create: true
+    identifier_field: location
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "gig-listing"}
+      - {label: "Location", name: "location", widget: "string"}
+      - {label: "Date", name: "date", widget: "date", format: "X"}
+      - {label: "Date / Time", name: "datetime", widget: "datetime", format: "LLLL"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "discography"
+    label: "-- Discography"
+    editor:
+     preview: false
+    description: >
+      This lists all the Shantymen albums.
+    label_singular: 'Discography'
+    folder: "src/discography"
+    create: true
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "album-listing"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Release Year", name: "release-year", widget: "string"}
+      - {label: "Track Listing", name: "body", widget: "markdown"}

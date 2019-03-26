@@ -1,0 +1,58 @@
+header {
+	background: rgba($blanc,.7);
+}
+
+.logo {
+	height: auto;
+	display: block;
+	margin: 0 auto;
+	padding: 20px;
+	max-width: 180px;
+
+	&__image, &__text  {
+		display: block;
+		width: 100%;
+		height: auto;
+		max-width: 100%;
+	}
+}
+
+@include bp800 {
+
+	header {
+/* 		position: fixed;
+		top: 0;
+		left: 0;
+		right: 0;
+		width: 100%; */
+	}
+}
+
+@include bp1200 {
+
+	.logo {
+
+		float: left;
+		width: 20%;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+
+		&__image {
+			max-width: 120px;
+		}
+
+		&__text {
+			min-width: 180px;
+			padding: 20px;
+		}
+
+	}
+
+	&:after {
+		content: '';
+		clear: both;
+		display: block;
+	}
+
+}

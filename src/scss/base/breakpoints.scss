@@ -1,0 +1,46 @@
+$xx-small-width   : 480px;
+$x-small-width   	: 600px;
+$small-width  		: 800px;
+$medium-width   	: 1000px;
+$large-width    	: 1200px;
+$x-large-width    : 1400px;
+$full-width     	: 1600px;
+
+/* Media Queries
+--------------------------------------------------------------- */
+
+@mixin bp480 {
+  @media (min-width: #{$x-small-width}) {
+    @content;
+  }
+}
+
+@mixin bp800 {
+  @media (min-width: #{$small-width}) {
+    @content;
+  }
+}
+
+@mixin bp1000 {
+  @media (min-width: #{$medium-width}) {
+    @content;
+  }
+}
+
+@mixin bp1200 {
+  @media (min-width: #{$large-width}) {
+    @content;
+  }
+}
+
+@mixin bp1400 {
+  @media (min-width: #{$x-large-width}) {
+    @content;
+  }
+}
+
+@mixin bp1600 {
+  @media (min-width: #{$full-width}) {
+    @content;
+  }
+}

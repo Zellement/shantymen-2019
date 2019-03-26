@@ -1,0 +1,8 @@
+aside {
+}
+
+@include bp800 {
+	aside {
+		width: 40%;
+	}
+}

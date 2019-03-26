@@ -1,0 +1,14 @@
+.flex {
+	display: flex;
+
+	&--column {
+		flex-direction: column;
+	}
+
+}
+
+.flex800 {
+	@include bp800 {
+		display: flex;
+	}
+}

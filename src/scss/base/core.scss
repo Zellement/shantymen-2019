@@ -1,0 +1,17 @@
+html {
+	font-size: 62.5%;
+}
+
+body {
+	background: $blanc;
+    color: $noir;
+    font-size: 18px;
+	min-height: 100vh;
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+	font-family: "Source Sans Pro", sans-serif;
+
+    &.fixed {
+    	overflow: hidden;
+    }
+}

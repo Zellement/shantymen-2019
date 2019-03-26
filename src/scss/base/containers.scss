@@ -1,0 +1,24 @@
+.container {
+	margin: 0 auto;
+	max-width: $full-width;
+
+	&--s {
+		max-width: $small-width;
+	}
+
+	&--xl {
+		max-width: $x-large-width;
+	}
+}
+
+@include bp800 {
+	.container {
+		&--primary {
+			&:before {
+/* 				height: 230px;
+				display: block;
+				content: ''; */
+			}
+		}
+	}
+}
