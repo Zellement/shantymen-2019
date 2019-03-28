@@ -81,6 +81,12 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-plugin-page-transitions',
+      options: {
+        transitionTime: 500
+      }
+    },
+    {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [

@@ -14,7 +14,7 @@ export const StandardPageTemplate = ({ title, content, contentComponent }) => {
       <div className="flex800 main-content">
         <div className="copy">
           <h1>{title}</h1>
-          <PageContent className="content" content={content} />
+              <PageContent className="content" content={content} />
         </div>
         <aside className="aside">
           <GigsUpcoming />

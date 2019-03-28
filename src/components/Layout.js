@@ -33,8 +33,8 @@ const TemplateWrapper = ({ children }) => (
         </Helmet>
         <Header />
         <div className="container container--primary">
-          <div>{children}</div>
-        </div>
+         <div>{children}</div>
+                </div>
       </div>
     )}
   />
