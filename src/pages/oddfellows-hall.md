@@ -2,11 +2,7 @@
 templateKey: oddfellows-hall-page
 title: Oddfellows Hall
 image: ''
-oddfellowsGallery:
-  - title: Inside the kitchen
-    image: /img/141005-shantymen-0391.jpg
-  - title: Main hall
-    image: /img/141005-shantymen-0401.jpg
+oddfellowsGallery: []
 ---
 # Home of the Sheringham Shantymen
 
