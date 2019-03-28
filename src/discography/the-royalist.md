@@ -1,7 +1,7 @@
 ---
 templateKey: album-listing
 title: The Royalist
-albumArtwork: /img/12227041_10156356418180372_2093312213578799071_n.jpg
+artwork: /img/royalist.jpg
 release-year: '1997'
 ---
 1. Rio Grande
