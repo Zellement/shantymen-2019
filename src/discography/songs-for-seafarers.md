@@ -1,7 +1,7 @@
 ---
 templateKey: album-listing
 title: Songs for Seafarers
-albumArtwork: /img/12227041_10156356418180372_2093312213578799071_n.jpg
+artwork: /img/songs-seafarers.jpg
 release-year: '2003'
 ---
 1. Botany Bay
