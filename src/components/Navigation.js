@@ -22,9 +22,6 @@ const Navigation = class extends React.Component {
           <li className="navigation__list-item"><Link className="navigation__item" activeClassName="active" to="/">
             Home
           </Link></li>
-          <li className="navigation__list-item"><Link className="navigation__item" activeClassName="active" to="/blog">
-           Blog
-          </Link></li>
           <li className="navigation__list-item"><Link className="navigation__item" activeClassName="active" to="/about">
             About
           </Link></li>

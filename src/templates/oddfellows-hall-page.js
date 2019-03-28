@@ -3,7 +3,6 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
 import SpotifyPlayer from "../components/SpotifyPlayer"
-import Img from 'gatsby-image'
 
 
 function OddfellowsHallPage({ data }) {
@@ -24,14 +23,6 @@ function OddfellowsHallPage({ data }) {
             <SpotifyPlayer />
           </aside>
         </div>
-            <div>
-              {post.frontmatter.oddfellowsGallery.map(oddfellowsGalleryData => (
-                  <div>
-                    <Img fluid={oddfellowsGalleryData.image} />
-                    <h2>{oddfellowsGalleryData.title}</h2>
-                  </div>
-              ))}
-            </div>
       </section>
     </Layout>
   )
@@ -47,10 +38,6 @@ export const OddfellowsHallPageQuery = graphql`
       node {
         frontmatter {
           title
-          oddfellowsGallery {
-            title
-            image
-          }
         }
         html
       }
