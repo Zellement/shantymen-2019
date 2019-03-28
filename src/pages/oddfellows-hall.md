@@ -4,7 +4,7 @@ title: Oddfellows Hall
 image: ''
 oddfellowsGallery: []
 ---
-# Home of the Sheringham Shantymen
+## Home of the Sheringham Shantymen
 
 **Available for hire!**
 
