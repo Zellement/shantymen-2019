@@ -1,7 +1,7 @@
 ---
 templateKey: album-listing
 title: Rolling Home
-albumArtwork: /img/12227041_10156356418180372_2093312213578799071_n.jpg
+artwork: /img/rolling.jpg
 release-year: '2001'
 ---
 1. Sacramento
