@@ -4,6 +4,8 @@ import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
 import SpotifyPlayer from "../components/SpotifyPlayer"
 import AlbumListing from "../components/AlbumListing"
+import GigsUpcoming from "../components/GigsUpcoming"
+
 
 function DiscographyPage({ data }) {
 
@@ -19,6 +21,7 @@ function DiscographyPage({ data }) {
             <AlbumListing />
           </div>
           <aside className="aside">
+            <GigsUpcoming />
             <SpotifyPlayer />
           </aside>
         </div>

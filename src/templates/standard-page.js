@@ -17,7 +17,7 @@ export const StandardPageTemplate = ({ title, content, contentComponent }) => {
           <PageContent className="content" content={content} />
         </div>
         <aside className="aside">
-        <GigsUpcoming />
+          <GigsUpcoming />
           <SpotifyPlayer />
         </aside>
       </div>

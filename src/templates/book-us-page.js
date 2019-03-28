@@ -2,6 +2,8 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
+import SpotifyPlayer from "../components/SpotifyPlayer"
+import GigsUpcoming from "../components/GigsUpcoming"
 
 function BookUsPage({ data }) {
 
@@ -36,6 +38,10 @@ function BookUsPage({ data }) {
               </p>
             </form>
           </div>
+          <aside className="aside">
+            <GigsUpcoming />
+            <SpotifyPlayer />
+          </aside>
         </div>
       </section>
     </Layout>

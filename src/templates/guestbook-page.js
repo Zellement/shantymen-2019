@@ -2,7 +2,9 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
-import { DiscussionEmbed } from "disqus-react";
+import { DiscussionEmbed } from "disqus-react"
+import SpotifyPlayer from "../components/SpotifyPlayer"
+import GigsUpcoming from "../components/GigsUpcoming"
 
 function GuestbookPage({ data }) {
 
@@ -23,6 +25,10 @@ function GuestbookPage({ data }) {
             <HTMLContent content={post.html} />
             <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
           </div>
+          <aside className="aside">
+            <GigsUpcoming />
+            <SpotifyPlayer />
+          </aside>
         </div>
       </section>
     </Layout>
