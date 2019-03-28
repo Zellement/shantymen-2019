@@ -1,7 +1,7 @@
 ---
 templateKey: album-listing
 title: The Shantymen at Home
-albumArtwork: /img/12227041_10156356418180372_2093312213578799071_n.jpg
+artwork: /img/shantymen-at-home.jpg
 release-year: '2014'
 ---
 1. Up She Rises
