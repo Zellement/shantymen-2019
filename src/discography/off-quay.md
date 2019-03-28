@@ -1,7 +1,7 @@
 ---
 templateKey: album-listing
 title: Off Quay
-albumArtwork: /img/12227041_10156356418180372_2093312213578799071_n.jpg
+artwork: /img/blog-index.jpg
 release-year: '2016'
 ---
 1. The Woolfleet Chorus
