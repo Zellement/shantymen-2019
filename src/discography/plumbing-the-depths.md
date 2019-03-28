@@ -1,7 +1,7 @@
 ---
 templateKey: album-listing
 title: Plumbing the Depths
-albumArtwork: /img/12227041_10156356418180372_2093312213578799071_n.jpg
+artwork: /img/plumbing-the-depths.jpg
 release-year: '2006'
 ---
 1. Three Score and Ten
