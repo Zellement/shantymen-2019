@@ -15,6 +15,7 @@ function BookUsPage({ data }) {
             <h1>{post.frontmatter.title}</h1>
             <HTMLContent content={post.html} />
             <form name="contact" method="POST" data-netlify="true">
+            <input type="hidden" name="form-name" value="contact" />
               <p>
                 <label>Your Name: <input type="text" name="name" /></label>   
               </p>
