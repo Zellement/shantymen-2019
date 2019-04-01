@@ -1,64 +1,49 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
+import Header from '../components/Header'
 import Layout from '../components/Layout'
-import Content, { HTMLContent } from '../components/Content'
+import { HTMLContent } from '../components/Content'
 import SpotifyPlayer from "../components/SpotifyPlayer"
 import GigsAll from "../components/GigsAll"
 
-export const GigPageTemplate = ({ title, content, contentComponent }) => {
-  const PageContent = contentComponent || Content
+function DiscographyPage({ data }) {
+
+  const post = data.allMarkdownRemark.edges[0].node
 
   return (
-    <section>
-      <div className="flex800 main-content">
-        <div className="copy">
-          <h1>{title}</h1>
-          <PageContent className="content" content={content} />
-          <GigsAll />
-        </div>
-        <aside className="aside">
-          <SpotifyPlayer />
-        </aside>
-      </div>
-    </section>
+    <div>
+      <Header />
+      <Layout>
+        <section>
+          <div className="flex800 main-content">
+            <div className="copy">
+              <h1>{post.frontmatter.title}</h1>
+              <HTMLContent content={post.html} />
+              <GigsAll />
+            </div>
+            <aside className="aside">
+              <SpotifyPlayer />
+            </aside>
+          </div>
+        </section>
+      </Layout>
+    </div>
   )
 }
 
-GigPageTemplate.propTypes = {
-  title: PropTypes.string.isRequired,
-  content: PropTypes.string,
-  contentComponent: PropTypes.func,
-}
+export default DiscographyPage
 
-const GigPage = ({ data }) => {
-  const { markdownRemark: post } = data
-
-  return (
-    <Layout>
-      <GigPageTemplate
-        contentComponent={HTMLContent}
-        title={post.frontmatter.title}
-        content={post.html}
-      />
-    </Layout>
-  )
-}
-
-GigPage.propTypes = {
-  data: PropTypes.object.isRequired,
-}
-
-export default GigPage
-
-export const GigPageQuery = graphql`
-  query GigPage($id: String!) {
-    markdownRemark(id: { eq: $id }) {
-      html
-      frontmatter {
-        title
+export const DiscographyPageQuery = graphql`
+  query 
+{
+  allMarkdownRemark(filter: {frontmatter: {templateKey: {eq: "discography-page"}}}) {
+    edges {
+      node {
+        frontmatter {
+          title
+        }
+        html
       }
     }
   }
-
-`
+}`

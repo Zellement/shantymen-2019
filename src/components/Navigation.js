@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'gatsby'
+import AnimatedLink from "../components/AnimatedLink"
 
 const Navigation = class extends React.Component {
 
@@ -19,27 +19,27 @@ const Navigation = class extends React.Component {
       <div className={`navigation__menu ${menuActive}`} >
         <div className="navigation__inside">
         <ul className="navigation__list">
-          <li className="navigation__list-item"><Link className="navigation__item" activeClassName="active" to="/">
-            Home
-          </Link></li>
-          <li className="navigation__list-item"><Link className="navigation__item" activeClassName="active" to="/about">
-            About
-          </Link></li>
-          <li className="navigation__list-item"><Link className="navigation__item" activeClassName="active" to="/oddfellows-hall">
-            Oddfellows Hall
-          </Link></li>
-          <li className="navigation__list-item"><Link className="navigation__item" activeClassName="active" to="/discography">
-            Discography
-          </Link></li>
-          <li className="navigation__list-item"><Link className="navigation__item" activeClassName="active" to="/gigs">
-            Gigs
-          </Link></li>
-          <li className="navigation__list-item"><Link className="navigation__item" activeClassName="active" to="/guestbook">
-            Guestbook
-          </Link></li>
-          <li className="navigation__list-item"><Link className="navigation__item" activeClassName="active" to="/book-us">
-            Book Us
-          </Link></li>
+          <li className="navigation__list-item">
+          <AnimatedLink className="navigation__item" activeClassName="active" to="/">Home</AnimatedLink>
+          </li>
+          <li className="navigation__list-item">
+          <AnimatedLink className="navigation__item" activeClassName="active" to="/about">About</AnimatedLink>
+          </li>
+          <li className="navigation__list-item">
+          <AnimatedLink className="navigation__item" activeClassName="active" to="/oddfellows-hall">Oddfellows Hall</AnimatedLink>
+          </li>
+          <li className="navigation__list-item">
+          <AnimatedLink className="navigation__item" activeClassName="active" to="/discography">Discography</AnimatedLink>
+          </li>
+          <li className="navigation__list-item">
+          <AnimatedLink className="navigation__item" activeClassName="active" to="/gigs">Gigs</AnimatedLink>
+          </li>
+          <li className="navigation__list-item">
+          <AnimatedLink className="navigation__item" activeClassName="active" to="/guestbook">Guestbook</AnimatedLink>
+          </li>
+          <li className="navigation__list-item">
+            <AnimatedLink className="navigation__item" activeClassName="active" to="/book-us">Book Us</AnimatedLink>
+          </li>
           </ul>
         </div>
       </div>

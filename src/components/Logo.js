@@ -1,7 +1,7 @@
 import React from "react"
-import { Link } from 'gatsby'
 import { StaticQuery, graphql } from "gatsby"
 import Img from 'gatsby-image'
+import AnimatedLink from "../components/AnimatedLink"
 
 const Logo = () => (
   <div className="logo">
@@ -22,9 +22,9 @@ const Logo = () => (
           }
         `}
         render={data => (
-          <Link to="/" className="logo__image" title="Logo">
+          <AnimatedLink to="/" className="logo__image" title="Go home">
               <Img fluid={data.allFile.edges[0].node.childImageSharp.fluid} />
-          </Link>
+          </AnimatedLink>
         )}
       />
   </div>

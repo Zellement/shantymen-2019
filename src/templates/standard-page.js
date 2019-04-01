@@ -1,52 +1,36 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
+import Header from '../components/Header'
 import Layout from '../components/Layout'
-import Content, { HTMLContent } from '../components/Content'
+import { HTMLContent } from '../components/Content'
 import SpotifyPlayer from "../components/SpotifyPlayer"
 import GigsUpcoming from "../components/GigsUpcoming"
 
-export const StandardPageTemplate = ({ title, content, contentComponent }) => {
-  const PageContent = contentComponent || Content
+function StandardPage({ data }) {
+
+  const post = data.markdownRemark
 
   return (
-    <section>
-      <div className="flex800 main-content">
-        <div className="copy">
-          <h1>{title}</h1>
-              <PageContent className="content" content={content} />
-        </div>
-        <aside className="aside">
-          <GigsUpcoming />
-          <SpotifyPlayer />
-        </aside>
-      </div>
-    </section>
+    <div>
+      <Header />
+      <Layout>
+        <section>
+          <div className="flex800 main-content">
+            <div className="copy">
+
+              <h1>{post.frontmatter.title}</h1>
+              <HTMLContent content={post.html} />
+
+            </div>
+            <aside className="aside">
+              <GigsUpcoming />
+              <SpotifyPlayer />
+            </aside>
+          </div>
+        </section>
+      </Layout>
+    </div>
   )
-}
-
-StandardPageTemplate.propTypes = {
-  title: PropTypes.string.isRequired,
-  content: PropTypes.string,
-  contentComponent: PropTypes.func,
-}
-
-const StandardPage = ({ data }) => {
-  const { markdownRemark: post } = data
-
-  return (
-    <Layout>
-      <StandardPageTemplate
-        contentComponent={HTMLContent}
-        title={post.frontmatter.title}
-        content={post.html}
-      />
-    </Layout>
-  )
-}
-
-StandardPage.propTypes = {
-  data: PropTypes.object.isRequired,
 }
 
 export default StandardPage
@@ -60,5 +44,4 @@ export const StandardPageQuery = graphql`
       }
     }
   }
-
 `

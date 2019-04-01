@@ -1,5 +1,6 @@
 import React from 'react'
 import { graphql } from 'gatsby'
+import Header from '../components/Header'
 import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
 import { DiscussionEmbed } from "disqus-react"
@@ -17,21 +18,24 @@ function GuestbookPage({ data }) {
   }
 
   return (
-    <Layout>
-      <section>
-        <div className="flex800 main-content">
-          <div className="copy">
-            <h1>{post.frontmatter.title}</h1>
-            <HTMLContent content={post.html} />
-            <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
+    <div>
+      <Header />
+      <Layout>
+        <section>
+          <div className="flex800 main-content">
+            <div className="copy">
+              <h1>{post.frontmatter.title}</h1>
+              <HTMLContent content={post.html} />
+              <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
+            </div>
+            <aside className="aside">
+              <GigsUpcoming />
+              <SpotifyPlayer />
+            </aside>
           </div>
-          <aside className="aside">
-            <GigsUpcoming />
-            <SpotifyPlayer />
-          </aside>
-        </div>
-      </section>
-    </Layout>
+        </section>
+      </Layout>
+    </div>
   )
 }
 
