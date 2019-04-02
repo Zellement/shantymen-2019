@@ -27,7 +27,7 @@ export const HomePageQuery = graphql`
       node {
         childImageSharp {
           fluid(quality: 100, maxWidth:2000) {
-            ...GatsbyImageSharpFluid_withWebp_tracedSVG
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
