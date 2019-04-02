@@ -6,7 +6,7 @@ import { HTMLContent } from '../components/Content'
 import SpotifyPlayer from "../components/SpotifyPlayer"
 import GigsAll from "../components/GigsAll"
 
-function DiscographyPage({ data }) {
+function GigsPage({ data }) {
 
   const post = data.allMarkdownRemark.edges[0].node
 
@@ -31,12 +31,12 @@ function DiscographyPage({ data }) {
   )
 }
 
-export default DiscographyPage
+export default GigsPage
 
-export const DiscographyPageQuery = graphql`
+export const GigsPageQuery = graphql`
   query 
 {
-  allMarkdownRemark(filter: {frontmatter: {templateKey: {eq: "discography-page"}}}) {
+  allMarkdownRemark(filter: {frontmatter: {templateKey: {eq: "gigs-page"}}}) {
     edges {
       node {
         frontmatter {
