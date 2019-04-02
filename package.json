@@ -7,6 +7,7 @@
     "bulma": "^0.7.0",
     "disqus-react": "^1.0.5",
     "gatsby": "^2.3.3",
+    "gatsby-background-image": "^0.2.8-beta",
     "gatsby-image": "^2.0.35",
     "gatsby-plugin-favicon": "^3.1.5",
     "gatsby-plugin-netlify": "^2.0.6",
@@ -17,6 +18,7 @@
     "gatsby-plugin-sass": "^2.0.7",
     "gatsby-plugin-sharp": "^2.0.32",
     "gatsby-plugin-transition-link": "^1.12.1",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-remark-copy-linked-files": "^2.0.7",
     "gatsby-remark-images": "^3.0.1",
     "gatsby-remark-relative-images": "^0.2.1",
@@ -26,7 +28,7 @@
     "gsap": "^2.1.2",
     "lodash": "^4.17.5",
     "lodash-webpack-plugin": "^0.11.4",
-    "netlify-cms": "^2.8.0",
+    "netlify-cms": "^2.9.0",
     "node-sass": "^4.11.0",
     "parcel-bundler": "^1.12.3",
     "prop-types": "^15.6.0",
@@ -58,6 +60,7 @@
     "netlify-lambda": "^1.4.3",
     "npm-run-all": "^4.1.5",
     "prettier": "^1.15.3",
-    "rimraf": "^2.6.2"
+    "rimraf": "^2.6.2",
+    "tailwindcss": "^0.7.4"
   }
 }

@@ -3,13 +3,14 @@ html {
 }
 
 body {
+    position: relative;
 	background: $blanc;
     color: $noir;
     font-size: 18px;
 	min-height: 100vh;
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased;
-	font-family: "Source Sans Pro", sans-serif;
+	font-family: "Roboto Condensed", sans-serif;
 
     &.fixed {
     	overflow: hidden;
@@ -22,4 +23,16 @@ body {
 
 .layout {
     background: white;
+}
+
+.color-blanc {
+    color: $blanc;
+}
+
+.color-deep-blue--l-30 {
+    color: $deep-blue--l-30;
+}
+
+.color-deep-blue--l-50 {
+    color: $deep-blue--l-50;
 }

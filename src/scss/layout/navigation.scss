@@ -161,10 +161,9 @@
 
 		&__item {
 			display: block;
-			color: $mid-grey;
+			color: $blanc;
 			text-decoration: none;
 			padding: 10px;
-			border-top: 2px solid $blanc;
 			margin: 0 2px;
 			transition: .3s;
 			&:hover {
@@ -203,7 +202,6 @@
 		&__item {
 			padding: 20px 12px;
 			border-top: none;
-			border-bottom: 2px solid $blanc;
 		}
 
 		&__item.active {

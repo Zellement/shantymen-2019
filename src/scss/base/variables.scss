@@ -8,4 +8,10 @@ $mid-light-grey	: #ccc;
 $light-grey		: #eee;
 
 $deep-blue		: #172957;
+	$deep-blue--l-30	: lighten($deep-blue,30);
+	$deep-blue--l-50	: lighten($deep-blue,50);
+
 $orange			: #FAC43E;
+
+$primaryFont	: "Roboto Condensed";
+$colourFont		: "Playfair Display";

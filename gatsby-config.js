@@ -48,6 +48,14 @@ module.exports = {
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     {
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        google: {
+          families: ['Playfair Display', 'Roboto Condensed']
+        }
+      }
+    },
+    {
       resolve: `gatsby-plugin-favicon`,
       options: {
         logo: "./src/img/logo-badge.png",
@@ -96,7 +104,7 @@ module.exports = {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
-              maxWidth: 2048,
+              maxWidth: 3000,
             },
           },
           {

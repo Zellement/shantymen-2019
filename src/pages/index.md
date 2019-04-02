@@ -1,5 +1,5 @@
 ---
-templateKey: standard-page
+templateKey: home-page
 title: Welcome to the Sheringham Shantymen Website
 image: ''
 ---
