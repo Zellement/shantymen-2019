@@ -12,7 +12,7 @@ function HomePage({ data }) {
       <div className="home-page-content">
         <h1 className="color-white">The Sheringham Shantymen</h1>
         <h2 className="color-deep-blue--l-50">Supporters of the RNLI and other charities.</h2>
-        <Button to="/gigs" className="btn--orange">See our gigs</Button>
+        <Button to="/gigs" className="btn--orange" displayText="See our gigs" />
       </div>
     </BackgroundImage>
   )
