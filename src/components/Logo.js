@@ -12,7 +12,7 @@ const Logo = () => (
               edges {
                 node {
                   childImageSharp {
-                    fluid {
+                    fluid(maxWidth:150) {
                       ...GatsbyImageSharpFluid_withWebp_tracedSVG
                     }
                   }

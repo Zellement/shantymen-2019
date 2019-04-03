@@ -4,7 +4,7 @@ import Header from '../components/Header'
 import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
 import SpotifyPlayer from "../components/SpotifyPlayer"
-import GigsUpcoming from "../components/GigsUpcoming"
+import GigsUpcoming from "../components/gigs/GigsUpcoming"
 
 function StandardPage({ data }) {
 
@@ -13,22 +13,24 @@ function StandardPage({ data }) {
   return (
     <div>
       <Header />
-      <Layout>
-        <section>
-          <div className="flex800 main-content">
-            <div className="copy">
+      <div className="container container--before">
+        <Layout>
+          <section>
+            <div className="flex800 main-content">
+              <div className="copy">
 
-              <h1>{post.frontmatter.title}</h1>
-              <HTMLContent content={post.html} />
+                <h1>{post.frontmatter.title}</h1>
+                <HTMLContent content={post.html} />
 
+              </div>
+              <aside className="aside">
+                <GigsUpcoming />
+                <SpotifyPlayer />
+              </aside>
             </div>
-            <aside className="aside">
-              <GigsUpcoming />
-              <SpotifyPlayer />
-            </aside>
-          </div>
-        </section>
-      </Layout>
+          </section>
+        </Layout>
+      </div>
     </div>
   )
 }

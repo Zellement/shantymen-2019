@@ -5,7 +5,7 @@ import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
 import SpotifyPlayer from "../components/SpotifyPlayer"
 import AlbumListing from "../components/AlbumListing"
-import GigsUpcoming from "../components/GigsUpcoming"
+import GigsUpcoming from "../components/gigs/GigsUpcoming"
 
 
 function DiscographyPage({ data }) {
@@ -15,6 +15,7 @@ function DiscographyPage({ data }) {
   return (
     <div>
       <Header />
+      <div className="container container--before">
       <Layout>
         <section>
           <div className="flex800 main-content">
@@ -30,6 +31,7 @@ function DiscographyPage({ data }) {
           </div>
         </section>
       </Layout>
+      </div>
     </div>
   )
 }

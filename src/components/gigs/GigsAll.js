@@ -1,6 +1,6 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
-import { HTMLContent } from '../components/Content'
+import { HTMLContent } from '../../components/Content'
 
 const GigsAll = () => (
 	<StaticQuery

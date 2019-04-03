@@ -4,7 +4,7 @@ import Header from '../components/Header'
 import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
 import SpotifyPlayer from "../components/SpotifyPlayer"
-import GigsUpcoming from "../components/GigsUpcoming"
+import GigsUpcoming from "../components/gigs/GigsUpcoming"
 
 function BookUsPage({ data }) {
 
@@ -13,6 +13,7 @@ function BookUsPage({ data }) {
   return (
     <div>
       <Header />
+      <div className="container container--before">
       <Layout>
         <section>
           <div className="flex800 main-content">
@@ -48,6 +49,7 @@ function BookUsPage({ data }) {
           </div>
         </section>
       </Layout>
+      </div>
     </div>
   )
 }

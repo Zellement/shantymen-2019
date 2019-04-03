@@ -7,14 +7,19 @@ import BackgroundImage from 'gatsby-background-image'
 
 function HomePage({ data }) {
   return (
-    <BackgroundImage className="home-page-image" fluid={data.allFile.edges[0].node.childImageSharp.fluid}>
+    <div>
       <Header />
-      <div className="home-page-content">
-        <h1 className="color-white">The Sheringham Shantymen</h1>
-        <h2 className="color-deep-blue--l-50">Supporters of the RNLI and other charities.</h2>
-        <Button to="/gigs" className="btn--orange" displayText="See our gigs" />
+      <div class="full-background-image">
+        <BackgroundImage classId="full-background-image" fluid={data.allFile.edges[0].node.childImageSharp.fluid} />
       </div>
-    </BackgroundImage>
+      <div className="home-page-content">
+        <div class="container">
+          <h1 className="color-white">The Sheringham Shantymen</h1>
+          <h2 className="color-deep-blue--l-50">Supporters of the RNLI and other charities.</h2>
+          <Button to="/gigs" className="btn--orange" displayText="See our gigs" />
+        </div>
+      </div>
+    </div>
   )
 }
 

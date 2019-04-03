@@ -4,7 +4,7 @@ import Header from '../components/Header'
 import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
 import SpotifyPlayer from "../components/SpotifyPlayer"
-import GigsAll from "../components/GigsAll"
+import GigsAll from "../components/gigs/GigsAll"
 
 function GigsPage({ data }) {
 
@@ -13,6 +13,7 @@ function GigsPage({ data }) {
   return (
     <div>
       <Header />
+      <div className="container container--before">
       <Layout>
         <section>
           <div className="flex800 main-content">
@@ -27,6 +28,7 @@ function GigsPage({ data }) {
           </div>
         </section>
       </Layout>
+      </div>
     </div>
   )
 }

@@ -2,27 +2,33 @@ header {
 	background: rgba($deep-blue,1);
 	width: 100%!important;
 	right: 0; top: 0; left: 0; 
-	z-index: 1200;
+	z-index: 10;
+	position: fixed;
 }
 
 .logo {
 	height: auto;
 	display: block;
 	margin: 0 auto;
-	padding: 20px;
-	max-width: 180px;
+	padding: 10px;
+	max-width: 130px;
 }
 
-@include bp1200 {
+@include bp1000 {
+
+	.gatsby-plugin-transition-link-portal {
+		width: 100%;
+		right: 0;
+	}
 
 	header {
+		//background: rgba($deep-blue,.8);
 		background: none;
 	}
 
 	.logo {
 		float: left;
 		width: 100%;
-		max-width: 180px;
 	}
 
 	&:after {
