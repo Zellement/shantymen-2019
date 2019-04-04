@@ -67,6 +67,13 @@ export const BookUsPageQuery = graphql`
         id
         frontmatter {
           title
+          image {
+            childImageSharp {
+              fluid(maxWidth: 2000) {
+                ...GatsbyImageSharpFluid_withWebp
+              }
+            }
+          }
         }
         html
       }

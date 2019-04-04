@@ -45,6 +45,13 @@ export const GigsPageQuery = graphql`
       node {
         frontmatter {
           title
+          image {
+            childImageSharp {
+              fluid(maxWidth: 2000) {
+                ...GatsbyImageSharpFluid_withWebp
+              }
+            }
+          }
         }
         html
       }
