@@ -14,14 +14,6 @@ collections:
     editor:
      preview: false
     files:
-      - file: "src/pages/index.md"
-        label: "Home"
-        name: "index"
-        fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "standard-page"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Main Image", name: "image", widget: "image", required: false}
-          - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/about.md"
         label: "About"
         name: "about"
