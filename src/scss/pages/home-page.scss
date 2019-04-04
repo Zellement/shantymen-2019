@@ -28,6 +28,10 @@
 
 @include bp1000 {
 
+	.full-background-image {
+		filter: sepia(1);
+	}
+
 	.full-background-image-wrapper {
 	    &:after {
 		    width: 100%;

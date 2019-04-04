@@ -15,19 +15,16 @@ function StandardPage({ data }) {
     <div>
       <Header />
       <Hero h1={post.frontmatter.title} bgImage={post.frontmatter.image.childImageSharp.fluid} />
-      <div className="container container--before">
+      <div className="container container--s container--before">
         <Layout>
           <section>
-            <div className="flex800 main-content">
-              <div className="copy">
-                <h1>{post.frontmatter.title}</h1>
-                <HTMLContent content={post.html} />
-              </div>
-              <aside className="aside">
-                <GigsUpcoming />
-                <SpotifyPlayer />
-              </aside>
+            <div className="copy">
+              <HTMLContent content={post.html} />
             </div>
+            <aside className="aside">
+              <GigsUpcoming />
+              <SpotifyPlayer />
+            </aside>
           </section>
         </Layout>
       </div>

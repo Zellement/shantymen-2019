@@ -15,7 +15,23 @@
 			content: '';
 			display: block;
 			width: 100%;
-			height: 140px;
+			height: 180px;
 		}
 	}
+
+	&--pushright {
+		margin-right: 0;
+	}
+}
+
+@include bp1000 {
+
+	.container {
+		&--before {
+			&:before {
+				height: 60vh;
+			}
+		}
+	}
+
 }
