@@ -6,6 +6,7 @@ import { HTMLContent } from '../components/Content'
 import SpotifyPlayer from "../components/SpotifyPlayer"
 import AlbumListing from "../components/AlbumListing"
 import GigsUpcoming from "../components/gigs/GigsUpcoming"
+import Hero from '../components/Hero'
 
 
 function DiscographyPage({ data }) {
@@ -15,6 +16,7 @@ function DiscographyPage({ data }) {
   return (
     <div>
       <Header />
+      <Hero h1={post.frontmatter.title} bgImage={post.frontmatter.image.childImageSharp.fluid} />
       <div className="container container--before">
       <Layout>
         <section>

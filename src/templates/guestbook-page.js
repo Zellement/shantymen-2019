@@ -6,6 +6,7 @@ import { HTMLContent } from '../components/Content'
 import { DiscussionEmbed } from "disqus-react"
 import SpotifyPlayer from "../components/SpotifyPlayer"
 import GigsUpcoming from "../components/gigs/GigsUpcoming"
+import Hero from '../components/Hero'
 
 function GuestbookPage({ data }) {
 
@@ -20,6 +21,7 @@ function GuestbookPage({ data }) {
   return (
     <div>
       <Header />
+      <Hero h1={post.frontmatter.title} bgImage={post.frontmatter.image.childImageSharp.fluid} />
       <div className="container container--before">
       <Layout>
         <section>

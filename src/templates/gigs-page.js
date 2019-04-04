@@ -5,6 +5,7 @@ import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
 import SpotifyPlayer from "../components/SpotifyPlayer"
 import GigsAll from "../components/gigs/GigsAll"
+import Hero from '../components/Hero'
 
 function GigsPage({ data }) {
 
@@ -13,6 +14,7 @@ function GigsPage({ data }) {
   return (
     <div>
       <Header />
+      <Hero h1={post.frontmatter.title} bgImage={post.frontmatter.image.childImageSharp.fluid} />
       <div className="container container--before">
       <Layout>
         <section>
