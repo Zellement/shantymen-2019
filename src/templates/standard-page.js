@@ -5,7 +5,6 @@ import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
 import SpotifyPlayer from "../components/SpotifyPlayer"
 import GigsUpcoming from "../components/gigs/GigsUpcoming"
-import BackgroundImage from 'gatsby-background-image'
 import Hero from '../components/Hero'
 
 function StandardPage({ data }) {

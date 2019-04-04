@@ -1,5 +1,5 @@
 ---
-templateKey: oddfellows-hall-page
+templateKey: standard-page
 title: Oddfellows Hall
 image: ''
 oddfellowsGallery: []
