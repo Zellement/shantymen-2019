@@ -40,7 +40,7 @@ collections:
         label: "Gigs"
         name: "gigs"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "standard-page"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "gigs-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Main Image", name: "image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
@@ -48,7 +48,7 @@ collections:
         label: "Guestbook"
         name: "guestbook"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "standard-page"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "guestbook-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Main Image", name: "image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
@@ -56,7 +56,7 @@ collections:
         label: "Discography"
         name: "discography"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "standard-page"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "discography-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Main Image", name: "image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
