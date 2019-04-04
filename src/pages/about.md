@@ -1,9 +1,17 @@
 ---
 templateKey: standard-page
 title: About Us
-image: ''
+image: /img/140315-shantymen-0003.jpg
 ---
 ## The First Twenty Five (plus two!) Years …
+
+During 1988 a group of local lifeboat men and friends formed a shanty singing group to celebrate the 150th Anniversary of the private sailing and pulling Sheringham lifeboat the ‘Augusta’. They enjoyed the experience so much that they decided to continue. During those first few years as they expanded they welcomed a variety of singers and musicians to join the group but always supporting the RNLI. They formalised the group in 1990 naming themselves the Sheringham Shantymen.
+
+Over the next 28 years the group developed their own style of performing songs of the sea constantly refining their music and always trying to entertain the public and raising funds for charity.
+
+Although the groups members nowadays are from a variety of occupations but they have remained true to their roots and still maintain a very close connection with the RNLI.
+
+![The Sheringham Shantymen with the RNLI](/img/141005-shantymen-009.jpg "The Sheringham Shantymen with the RNLI")
 
 The Sheringham Shantymen are immensely proud to wear the RNLI badge on their uniform and the only organisation outside the RNLI that is allowed to do so. They support the RNLI in a myriad of ways as well as supporting and performing at lifeboat stations around the United Kingdom and Ireland.
 
@@ -12,6 +20,8 @@ The Shantymen spent three years raising almost £20,000 to purchase a new ‘D�
 The Shantymen travel widely throughout the UK and Ireland supporting Lifeboat Stations in their fundraising efforts and are always considering how they can help in others to raise funds by performing concerts.
 
 The Shantymen have visited Germany, Virginia USA twice, Ireland four times, Holland twice and France twice. As well as hundreds of local performances the group has entertained at prestigious Maritime Festivals at Bristol, Lincoln, Ipswich, Great Yarmouth, Southampton (start of the 2000 Tall Ships Race) and Portsmouth Festival of the Sea. They helped open the International Boat Show at Earl’s Court in 1995 and have appeared on national television in ‘The Big Breakfast Show’, ‘Highway’ (with the late Sir Harry Secombe), Children in Need, and ‘Blue Peter’ for which they have ‘the badge’. Since 1990 the group has completed over 1,000 public performances, made three videos and recorded 7 CD’s the most recent one in 2016.
+
+![The Sheringham Shantymen](/img/jubilee-2012-27-.jpg "The Sheringham Shantymen")
 
 In 2009 the Shantymen completed their first visit to the Isle of Wight helping raise over £3,000 in funds for the private Freshwater Lifeboat. The Shantymen were impressed by the commitment of the crew and helpers to fund the private lifeboat at Freshwater.  In early 2010 the Shantymen were invited to sing at the BBC’s ‘The One Show’ which they said was a thoroughly entertaining experience.
 
