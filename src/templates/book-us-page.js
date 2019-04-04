@@ -5,7 +5,6 @@ import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
 import SpotifyPlayer from "../components/SpotifyPlayer"
 import GigsUpcoming from "../components/gigs/GigsUpcoming"
-import Hero from '../components/Hero'
 
 function BookUsPage({ data }) {
 
@@ -14,7 +13,6 @@ function BookUsPage({ data }) {
   return (
     <div>
       <Header />
-      <Hero h1={post.frontmatter.title} bgImage={post.frontmatter.image.childImageSharp.fluid} />
       <div className="container container--before">
       <Layout>
         <section>
@@ -67,13 +65,6 @@ export const BookUsPageQuery = graphql`
         id
         frontmatter {
           title
-          image {
-            childImageSharp {
-              fluid(maxWidth: 2000) {
-                ...GatsbyImageSharpFluid_withWebp
-              }
-            }
-          }
         }
         html
       }
