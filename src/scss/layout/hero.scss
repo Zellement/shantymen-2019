@@ -1,4 +1,68 @@
 .hero {
+	color: $blanc;
+	padding: 20px;
+	background: $deep-blue;
+	margin-top: 80vh;
+	text-align: center;
+	position: relative;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#172957+1,0b1328+100 */
+	background: rgb(23,41,87); /* Old browsers */
+	background: -moz-linear-gradient(left, rgba(23,41,87,1) 1%, rgba(11,19,40,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left, rgba(23,41,87,1) 1%,rgba(11,19,40,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right, rgba(23,41,87,1) 1%,rgba(11,19,40,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#172957', endColorstr='#0b1328',GradientType=1 ); /* IE6-9 */
+	overflow: hidden;
+
+	h1 {
+		color: $blanc;
+		position: relative;
+		z-index: 1;
+	}
+
+	&--home {
+		position: fixed;
+		bottom: 10px;
+		left: 0;
+		right: 20px;
+		width: 96%;
+		text-align: left;
+		&:before {
+			display: none;
+		}
+	}
+}
+
+@include bp1000 {
+
+	.hero {
+		margin-top: 40vh;
+		margin-bottom: 20vh;
+		width: 100%;
+		right: 0;
+		background: none;
+		h1 {
+			font-size: 8rem;
+			line-height: 8rem;
+			margin: 0 0 20px 0;
+			text-align: left;
+		}
+		h2 {
+			font-size: 5rem;
+			line-height: 5rem;
+			margin: 0 0 20px 0;
+		}
+
+		&--home {
+			margin: 0;
+			top: 40%;
+			width: 100%;
+			right: 0;
+			background: none;
+		}
+	}
+}
+
+/*.hero {
     width: 100%;
     height: 250px;
     position: relative;
@@ -76,4 +140,4 @@
 			max-width: 50%;
 		}
 	}
-}
+}*/

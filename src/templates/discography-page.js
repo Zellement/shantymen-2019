@@ -7,6 +7,7 @@ import SpotifyPlayer from "../components/SpotifyPlayer"
 import AlbumListing from "../components/AlbumListing"
 import GigsUpcoming from "../components/gigs/GigsUpcoming"
 import Hero from '../components/Hero'
+import FullImageBg from '../components/FullImageBg'
 
 
 function DiscographyPage({ data }) {
@@ -15,24 +16,14 @@ function DiscographyPage({ data }) {
 
   return (
     <div>
+      <FullImageBg bgImage={post.frontmatter.image.childImageSharp.fluid} />
       <Header />
       <Hero h1={post.frontmatter.title} bgImage={post.frontmatter.image.childImageSharp.fluid} />
-      <div className="container container--before">
-      <Layout>
-        <section>
-          <div className="flex800 main-content">
-            <div className="copy">
-              <h1>{post.frontmatter.title}</h1>
-              <HTMLContent content={post.html} />
-              <AlbumListing />
-            </div>
-            <aside className="aside">
-              <GigsUpcoming />
-              <SpotifyPlayer />
-            </aside>
-          </div>
-        </section>
-      </Layout>
+      <div className="main-content">
+          <HTMLContent content={post.html} />
+          <AlbumListing />
+          <GigsUpcoming />
+          <SpotifyPlayer />
       </div>
     </div>
   )

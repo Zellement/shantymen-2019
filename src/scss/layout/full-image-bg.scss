@@ -1,0 +1,49 @@
+.full-background-image-wrapper {
+    width: 100%;
+    height: 100vh;
+    top: 0; right: 0;
+    left: 0; bottom: 0;
+    position: fixed;
+    z-index: -1;
+}
+
+.full-background-image {
+	width: 100%;
+	height: 100%;
+}
+
+@include bp1000 {
+
+	.full-background-image-wrapper {
+	    &:after {
+		    width: 100%;
+		    height: 100vh;
+		    top: 0; right: 0;
+		    left: 0; bottom: 0;
+		    position: fixed;
+		    content: '';
+	    	background: rgba($deep-blue,.7);
+	    }
+		&:before {
+			content: '';
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 30%;
+			height: 101vh;
+			z-index: 1;
+			background: $deep-blue;
+			background: #172957; /* Old browsers */
+			background: -moz-linear-gradient(top, #172957 1%, #0b1328 100%); /* FF3.6-15 */
+			background: -webkit-linear-gradient(top, #172957 1%,#0b1328 100%); /* Chrome10-25,Safari5.1-6 */
+			background: linear-gradient(to bottom, #172957 1%,#0b1328 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#172957', endColorstr='#0b1328',GradientType=0 ); /* IE6-9 */
+		}
+	}
+
+	.full-background-image {
+		filter: sepia(1) contrast(1.4);
+		width: 70%;
+		margin-left: auto;
+	}
+}

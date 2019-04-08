@@ -2,16 +2,14 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import Header from '../components/Header'
 import Button from '../components/Button'
-import BackgroundImage from 'gatsby-background-image'
+import FullImageBg from '../components/FullImageBg'
 
 function HomePage({ data }) {
   return (
-    <div>
+    <div className="wrapper">
+      <FullImageBg bgImage={data.allFile.edges[0].node.childImageSharp.fluid} />
       <Header />
-      <div class="full-background-image-wrapper">
-        <BackgroundImage className="full-background-image" fluid={data.allFile.edges[0].node.childImageSharp.fluid} />
-      </div>
-      <div className="home-page-content">
+      <div className="hero hero--home">
         <div class="container">
           <h1 className="color-white">The Sheringham Shantymen</h1>
           <h2 className="color-deep-blue--l-50">Supporters of the RNLI and other charities.</h2>

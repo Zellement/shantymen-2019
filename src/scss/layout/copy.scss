@@ -1,9 +1,6 @@
 .copy {
-	padding: 30px;
 }
 
-@include bp800 {
-	.copy {
-		padding: 50px;
-	}
+@include bp1000 {
+	padding: 80px;
 }

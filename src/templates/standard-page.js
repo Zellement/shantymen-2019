@@ -1,11 +1,11 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import Header from '../components/Header'
-import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
 import SpotifyPlayer from "../components/SpotifyPlayer"
 import GigsUpcoming from "../components/gigs/GigsUpcoming"
 import Hero from '../components/Hero'
+import FullImageBg from '../components/FullImageBg'
 
 function StandardPage({ data }) {
 
@@ -13,20 +13,13 @@ function StandardPage({ data }) {
 
   return (
     <div>
+      <FullImageBg bgImage={post.frontmatter.image.childImageSharp.fluid} />
       <Header />
       <Hero h1={post.frontmatter.title} bgImage={post.frontmatter.image.childImageSharp.fluid} />
-      <div className="container container--s container--before">
-        <Layout>
-          <section>
-            <div className="copy">
-              <HTMLContent content={post.html} />
-            </div>
-            <aside className="aside">
-              <GigsUpcoming />
-              <SpotifyPlayer />
-            </aside>
-          </section>
-        </Layout>
+      <div className="main-content">
+          <HTMLContent content={post.html} />
+          <GigsUpcoming />
+          <SpotifyPlayer />
       </div>
     </div>
   )

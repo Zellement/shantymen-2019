@@ -1,5 +1,11 @@
 header {
 	background: rgba($deep-blue,1);
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#172957+1,0b1328+100 */
+	background: rgb(23,41,87); /* Old browsers */
+	background: -moz-linear-gradient(left, rgba(23,41,87,1) 1%, rgba(11,19,40,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left, rgba(23,41,87,1) 1%,rgba(11,19,40,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right, rgba(23,41,87,1) 1%,rgba(11,19,40,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#172957', endColorstr='#0b1328',GradientType=1 ); /* IE6-9 */
 	width: 100%!important;
 	right: 0; top: 0; left: 0; 
 	z-index: 10;

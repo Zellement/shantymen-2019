@@ -6,6 +6,7 @@ import { HTMLContent } from '../components/Content'
 import SpotifyPlayer from "../components/SpotifyPlayer"
 import GigsAll from "../components/gigs/GigsAll"
 import Hero from '../components/Hero'
+import FullImageBg from '../components/FullImageBg'
 
 function GigsPage({ data }) {
 
@@ -13,23 +14,13 @@ function GigsPage({ data }) {
 
   return (
     <div>
+      <FullImageBg bgImage={post.frontmatter.image.childImageSharp.fluid} />
       <Header />
       <Hero h1={post.frontmatter.title} bgImage={post.frontmatter.image.childImageSharp.fluid} />
-      <div className="container container--before">
-      <Layout>
-        <section>
-          <div className="flex800 main-content">
-            <div className="copy">
-              <h1>{post.frontmatter.title}</h1>
-              <HTMLContent content={post.html} />
-              <GigsAll />
-            </div>
-            <aside className="aside">
-              <SpotifyPlayer />
-            </aside>
-          </div>
-        </section>
-      </Layout>
+      <div className="main-content">
+          <HTMLContent content={post.html} />
+          <GigsAll />
+          <SpotifyPlayer />
       </div>
     </div>
   )

@@ -1,5 +1,6 @@
 .main-content {
 	padding: 20px;
+    background: white;
 
 	p {
 		margin: 0 0 20px 0;
@@ -10,4 +11,13 @@
 		}
 	}
 
+}
+
+@include bp1000 {
+    .main-content {
+        width: 70%;
+        margin-left: auto;
+        border: none;
+		padding: 80px;
+    }
 }

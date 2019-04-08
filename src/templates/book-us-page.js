@@ -5,13 +5,14 @@ import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
 import SpotifyPlayer from "../components/SpotifyPlayer"
 import GigsUpcoming from "../components/gigs/GigsUpcoming"
+import FullImageBg from '../components/FullImageBg'
 
 function BookUsPage({ data }) {
 
   const post = data.allMarkdownRemark.edges[0].node
 
   return (
-    <div>
+    <div className="wrapper">
       <Header />
       <div className="container container--before">
       <Layout>
