@@ -1,7 +1,7 @@
 ---
 templateKey: gigs-page
 title: Gigs
-image: /img/cl-2017.jpeg
+image: /img/shantymen__38.jpeg
 ---
 These are the gigs which we have agreed for 2019 to date.
 
