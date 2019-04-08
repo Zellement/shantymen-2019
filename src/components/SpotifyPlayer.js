@@ -4,13 +4,6 @@ const SpotifyPlayer = class extends React.Component {
 
 	render() {
 
-		// https://stackoverflow.com/questions/26107125/cannot-read-property-addeventlistener-of-null/30063375
-		// Set a variable for "el" to check event listener is not null
-		var el = document.getElementById('spotifyPlaceholder');
-		// If not null, do this
-		if(el){
-			el.addEventListener("click", spotifyClick);
-		}
 
 		// This currently replaces the content with the Spotify iframe
 		function spotifyClick () {
@@ -19,7 +12,7 @@ const SpotifyPlayer = class extends React.Component {
 	
 		return(
 			<div>
-				<div id="spotifyPlaceholder">
+				<div id="spotifyPlaceholder" onClick={spotifyClick}>
 					Show me Spotify player
 				</div>
 			</div>
