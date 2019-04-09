@@ -1,11 +1,9 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import Header from '../components/Header'
-import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
 import SpotifyPlayer from "../components/SpotifyPlayer"
 import GigsUpcoming from "../components/gigs/GigsUpcoming"
-import FullImageBg from '../components/FullImageBg'
 
 function BookUsPage({ data }) {
 
@@ -15,7 +13,6 @@ function BookUsPage({ data }) {
     <div className="wrapper">
       <Header />
       <div className="container container--before">
-      <Layout>
         <section>
           <div className="flex800 main-content">
             <div className="copy">
@@ -49,7 +46,6 @@ function BookUsPage({ data }) {
             </aside>
           </div>
         </section>
-      </Layout>
       </div>
     </div>
   )

@@ -1,7 +1,6 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import Header from '../components/Header'
-import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
 import { DiscussionEmbed } from "disqus-react"
 import SpotifyPlayer from "../components/SpotifyPlayer"

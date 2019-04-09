@@ -15,7 +15,7 @@ function StandardPage({ data }) {
     <div>
       <FullImageBg bgImage={post.frontmatter.image.childImageSharp.fluid} />
       <Header />
-      <Hero h1={post.frontmatter.title} bgImage={post.frontmatter.image.childImageSharp.fluid} />
+      <Hero h1={post.frontmatter.title} h2={post.frontmatter.subtitle} bgImage={post.frontmatter.image.childImageSharp.fluid} />
       <div className="main-content">
           <HTMLContent content={post.html} />
           <GigsUpcoming />
@@ -33,6 +33,7 @@ export const StandardPageQuery = graphql`
       html
       frontmatter {
         title
+        subtitle
         image {
           childImageSharp {
             fluid(maxWidth: 2000) {
