@@ -1,6 +1,7 @@
 ---
 templateKey: standard-page
 title: Oddfellows Hall
+subtitle: Available for hire!
 image: /img/141005-shantymen-021.jpg
 oddfellowsGallery: []
 ---
