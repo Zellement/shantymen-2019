@@ -1,6 +1,7 @@
 ---
 templateKey: discography-page
 title: Discography
+subtitle: See our full collection of albums available
 image: /img/dsc00798.jpg
 ---
 
