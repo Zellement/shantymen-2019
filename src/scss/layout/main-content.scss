@@ -24,6 +24,12 @@
 		padding: 20px;
 	}
 
+	ul, ol {
+		font-size: 2rem;
+		padding-left: 45px;
+		line-height: 3rem;
+	}
+
 }
 
 @include bp1000 {
