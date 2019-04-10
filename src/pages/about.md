@@ -12,7 +12,7 @@ Over the next 28 years the group developed their own style of performing songs o
 
 Although the groups members nowadays are from a variety of occupations but they have remained true to their roots and still maintain a very close connection with the RNLI.
 
-![The Sheringham Shantymen with the RNLI](/img/141005-shantymen-009.jpg "The Sheringham Shantymen with the RNLI")
+![Picture of The Sheringham Shantymen with the Sheringham lifeboat](/img/141005-shantymen-009.jpg "The Sheringham Shantymen are huge supporters of the RNLI")
 
 The Sheringham Shantymen are immensely proud to wear the RNLI badge on their uniform and the only organisation outside the RNLI that is allowed to do so. They support the RNLI in a myriad of ways as well as supporting and performing at lifeboat stations around the United Kingdom and Ireland.
 
