@@ -1,6 +1,7 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 import { HTMLContent } from '../../components/Content'
+import { GiGuitar } from 'react-icons/gi'
 
 const GigsAll = () => (
 	<StaticQuery
@@ -31,8 +32,7 @@ const GigsAll = () => (
           <div>
             {data.allMarkdownRemark.edges.map(gigdata => (
               <div key={gigdata.node.frontmatter.location + gigdata.node.frontmatter.datetime}>
-              <hr />
-                <h3 key={gigdata.node.frontmatter.datetime}>{gigdata.node.frontmatter.datetime}</h3>
+                <h3 key={gigdata.node.frontmatter.datetime}><GiGuitar /> {gigdata.node.frontmatter.datetime}</h3>
                 <h4 key={gigdata.node.frontmatter.location}>{gigdata.node.frontmatter.location}</h4>
                 <HTMLContent key={gigdata.node.html} content={gigdata.node.html} />
               </div>
