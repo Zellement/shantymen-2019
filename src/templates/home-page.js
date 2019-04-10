@@ -7,7 +7,7 @@ import FullImageBg from '../components/FullImageBg'
 function HomePage({ data }) {
   return (
     <div className="wrapper">
-      <FullImageBg bgImage={data.allFile.edges[0].node.childImageSharp.fluid} className="full-background-image--home-page" />
+      <FullImageBg bgImage={data.allFile.edges[0].node.childImageSharp.fluid} className="home-page" />
       <Header />
       <div className="hero hero--home">
         <div className="container">
