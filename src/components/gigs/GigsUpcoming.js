@@ -1,10 +1,11 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
-import { Link } from 'gatsby'
+import AnimatedLink from "../AnimatedLink"
+import { GiGuitar, GiPositionMarker } from 'react-icons/gi'
 
 const GigsUpcoming = () => (
-	<StaticQuery
-	    query={graphql`
+  <StaticQuery
+      query={graphql`
         query 
         {
           allMarkdownRemark(
@@ -28,20 +29,20 @@ const GigsUpcoming = () => (
             }
           }
         }
-	    `}
-	    render={data => (
-          <div>
+      `}
+      render={data => (
+          <div className="gigs-upcoming">
             <h2>Upcoming Gigs</h2>
-            <p>Fancy coming out to sing some shanties and have a merry laugh? Our next 3 gigs are listed below, or <Link to="/gigs">see all our gigs</Link></p>
+            <p>Fancy coming out to sing some shanties and have a merry laugh? Our next 3 gigs are listed below, or <AnimatedLink className="btn btn--orange" to="/gigs">see all our gigs</AnimatedLink></p>
             {data.allMarkdownRemark.edges.map(gigdata => (
-              <div key={gigdata.node.frontmatter.location + gigdata.node.frontmatter.datetime}>
-                <h3 key={gigdata.node.frontmatter.datetime}>{gigdata.node.frontmatter.datetime}</h3>
-                <p key={gigdata.node.frontmatter.location}>{gigdata.node.frontmatter.location}</p>
+              <div className="gigs-upcoming__gig" key={gigdata.node.frontmatter.location + gigdata.node.frontmatter.datetime}>
+                <h3 key={gigdata.node.frontmatter.datetime}><GiGuitar /> {gigdata.node.frontmatter.datetime}</h3>
+                <p key={gigdata.node.frontmatter.location}><GiPositionMarker /> {gigdata.node.frontmatter.location}</p>
               </div>
             ))}
           </div>
-	    )}
-	  />
+      )}
+    />
 )
 
 export default GigsUpcoming

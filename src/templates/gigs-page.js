@@ -15,11 +15,15 @@ function GigsPage({ data }) {
     <div>
       <FullImageBg bgImage={post.frontmatter.image.childImageSharp.fluid} />
       <Header />
-      <Hero h1={post.frontmatter.title} bgImage={post.frontmatter.image.childImageSharp.fluid} />
+      <Hero h1={post.frontmatter.title} h2={post.frontmatter.subtitle} bgImage={post.frontmatter.image.childImageSharp.fluid} />
       <div className="main-content">
+        <div className="main-content__copy">
           <HTMLContent content={post.html} />
           <GigsAll />
+        </div>
+        <div className="main-content__aside">
           <SpotifyPlayer />
+        </div>
       </div>
     </div>
   )
@@ -35,6 +39,7 @@ export const GigsPageQuery = graphql`
       node {
         frontmatter {
           title
+          subtitle
           image {
             childImageSharp {
               fluid(maxWidth: 2000) {

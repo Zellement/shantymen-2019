@@ -17,9 +17,13 @@ function StandardPage({ data }) {
       <Header />
       <Hero h1={post.frontmatter.title} h2={post.frontmatter.subtitle} bgImage={post.frontmatter.image.childImageSharp.fluid} />
       <div className="main-content">
+        <div className="main-content__copy">
           <HTMLContent content={post.html} />
+        </div>
+        <div className="main-content__aside">
           <GigsUpcoming />
           <SpotifyPlayer />
+        </div>
       </div>
     </div>
   )

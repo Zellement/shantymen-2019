@@ -1,23 +1,49 @@
 .main-content {
-	padding: 20px;
-    background: white;
 
-	p {
-		margin: 0 0 20px 0;
+	&__copy {
+		background: $blanc;
+		padding: 20px;
 
-		&:first-of-type {
-			font-size: 1.1em;
-			font-family: $primaryFont, serif;
+		h1, h2, h3, h4, h5 {
+			margin: 0 0 20px 0;
 		}
+
+		p {
+			margin: 0 0 20px 0;
+			max-width: 850px;
+			line-height: 2.8rem;
+
+			&:first-of-type {
+				font-size: 1.12em;
+			}
+		}
+	}
+
+	&__aside {
+		background: $light-grey;
+		padding: 20px;
 	}
 
 }
 
 @include bp1000 {
-    .main-content {
-        width: 70%;
-        margin-left: auto;
-        border: none;
-		padding: 80px;
-    }
+	.main-content {
+		display: flex;
+		padding: 0;
+
+		&__copy {
+	        width: 70%;
+			padding: 80px;
+    		background: $blanc;
+		}
+
+		&__aside {
+			color: $deep-blue--l-50;
+			order: -1;
+	        width: 30%;
+    		background: none;
+    		padding: 30px;
+    		margin-top: 200px;
+		}
+	}
 }
