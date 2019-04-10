@@ -16,7 +16,7 @@ Although the groups members nowadays are from a variety of occupations but they 
 
 The Sheringham Shantymen are immensely proud to wear the RNLI badge on their uniform and the only organisation outside the RNLI that is allowed to do so. They support the RNLI in a myriad of ways as well as supporting and performing at lifeboat stations around the United Kingdom and Ireland.
 
-> The Shantymen spent three years raising almost £20,000 to purchase a new ‘D’ Class Lifeboat which the RNLI stationed in Wicklow in Ireland. In the autumn of 2007 the Shantymen attended the official naming ceremony in Wicklow where the lifeboat was formally named ‘The Sheringham Shantymen‘.
+> The Shantymen spent three years raising almost £20,000 to purchase a new ‘D’ Class Lifeboat for the RNLI stationed in Wicklow in Ireland. In the autumn of 2007 the Shantymen attended the official naming ceremony in Wicklow where the lifeboat was formally named ‘The Sheringham Shantymen‘.
 
 The Shantymen travel widely throughout the UK and Ireland supporting Lifeboat Stations in their fundraising efforts and are always considering how they can help in others to raise funds by performing concerts.
 
