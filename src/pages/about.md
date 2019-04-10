@@ -22,7 +22,7 @@ The Shantymen travel widely throughout the UK and Ireland supporting Lifeboat St
 
 The Shantymen have visited Germany, Virginia USA twice, Ireland four times, Holland twice and France twice. As well as hundreds of local performances the group has entertained at prestigious Maritime Festivals at Bristol, Lincoln, Ipswich, Great Yarmouth, Southampton (start of the 2000 Tall Ships Race) and Portsmouth Festival of the Sea. They helped open the International Boat Show at Earl’s Court in 1995 and have appeared on national television in ‘The Big Breakfast Show’, ‘Highway’ (with the late Sir Harry Secombe), Children in Need, and ‘Blue Peter’ for which they have ‘the badge’. Since 1990 the group has completed over 1,000 public performances, made three videos and recorded 7 CD’s the most recent one in 2016.
 
-![The Sheringham Shantymen](/img/jubilee-2012-27-.jpg "The Sheringham Shantymen")
+![The Sheringham Shantymen pictured for the Queen's Jubilee](/img/jubilee-2012-27-.jpg "The Sheringham Shantymen celebrating the Queen's Jubiliee")
 
 In 2009 the Shantymen completed their first visit to the Isle of Wight helping raise over £3,000 in funds for the private Freshwater Lifeboat. The Shantymen were impressed by the commitment of the crew and helpers to fund the private lifeboat at Freshwater.  In early 2010 the Shantymen were invited to sing at the BBC’s ‘The One Show’ which they said was a thoroughly entertaining experience.
 
