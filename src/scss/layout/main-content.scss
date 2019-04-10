@@ -29,6 +29,22 @@
 		font-size: 2rem;
 		padding-left: 45px;
 		line-height: 3rem;
+		margin: 0 0 20px 0;
+	}
+
+	.gatsby-resp-image-figure {
+		position: relative;
+	}
+
+	.gatsby-resp-image-figcaption {
+		position: absolute;
+		bottom: -5px;
+		right: -5px;
+		padding: 5px 8px;
+		background: $light-grey;
+		max-width: 85%;
+		font-family: $colourFont, serif;
+		font-size: 1.1em;
 	}
 
 }

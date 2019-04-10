@@ -1,10 +1,10 @@
 import React from "react"
 import BackgroundImage from 'gatsby-background-image'
 
-const FullImageBg = ( {bgImage} ) => (
+const FullImageBg = ( {bgImage, className} ) => (
 
 	<div className="full-background-image-wrapper">
-		<BackgroundImage className="full-background-image" fluid={bgImage} />
+		<BackgroundImage className={className + " full-background-image"} fluid={bgImage} />
 	</div>
 )
 

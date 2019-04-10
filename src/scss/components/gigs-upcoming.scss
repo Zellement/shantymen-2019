@@ -5,6 +5,12 @@
 	h3 {
 	}
 
+	&__location {
+		margin-top:  5px;
+		font-size: .8em;
+		letter-spacing: 1px;
+	}
+
 	&__gig {
 		padding: 10px 0 10px 0;
 		&:after {
