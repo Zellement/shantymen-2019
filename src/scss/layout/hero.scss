@@ -17,6 +17,7 @@
 		color: $blanc;
 		position: relative;
 		z-index: 1;
+		display: inline-block;
 	}
 
 	h2 {
@@ -44,6 +45,7 @@
 		width: 100%;
 		right: 0;
 		background: none;
+		text-align: left;
 		h1 {
 			font-size: 8rem;
 			line-height: 8rem;

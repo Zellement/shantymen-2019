@@ -31,7 +31,7 @@ const HeaderWrapper = () => (
 			  <meta property="og:image" content="./src/img/logo-badge.jpg" />
 			</Helmet>
 			<header>
-				<div class="container">
+				<div className="container">
 					<Logo />
 					<Navigation />
 				</div>

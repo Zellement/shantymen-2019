@@ -10,7 +10,7 @@ function HomePage({ data }) {
       <FullImageBg bgImage={data.allFile.edges[0].node.childImageSharp.fluid} className="full-background-image--home-page" />
       <Header />
       <div className="hero hero--home">
-        <div class="container">
+        <div className="container">
           <h1 className="color-white">The Sheringham Shantymen</h1>
           <h2 className="color-deep-blue--l-50">Supporters of the RNLI and other charities.</h2>
           <Button to="/gigs" className="btn--orange" displayText="See our gigs" />

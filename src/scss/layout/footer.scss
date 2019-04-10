@@ -1,0 +1,20 @@
+.footer {
+	width: 100%;
+	padding: 20px;
+	background: darken($deep-blue,10);
+	color: $deep-blue--l-50;
+	p {
+		font-size: .8em;
+		margin: 0;
+	}
+	a {
+		color: $deep-blue--l-30;
+	}
+
+	@include bp1000 {
+		position: absolute;
+		bottom: 10px;
+		left: 10px;
+		background: none;
+	}
+}
