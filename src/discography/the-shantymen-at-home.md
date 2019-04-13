@@ -2,7 +2,7 @@
 templateKey: album-listing
 title: The Shantymen at Home
 artwork: /img/shantymen-at-home.jpg
-release-year: 2014
+year: 2014
 ---
 1. Up She Rises
 2. Mary Ellen Carter
