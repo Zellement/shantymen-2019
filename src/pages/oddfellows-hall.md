@@ -5,11 +5,15 @@ subtitle: Available for hire!
 image: /img/141005-shantymen-021.jpg
 oddfellowsGallery: []
 ---
+
+
 ## Home of the Sheringham Shantymen
 
 **Available for hire!**
 
-The Hall is a stunning place to hold meetings and functions venue in the heart of Sheringham
+The Hall is a stunning place to hold meetings and functions venue in the heart of Sheringham.
+
+![Outside The Oddfellows Hall](/img/outside-2.jpg "Outside The Oddfellows Hall")
 
 Winner of three architectural awards, this 140 year old, brick and flint former lifeboat house was sympathetically rebuilt and restored in 2007 and is currently managed by The Sheringham Shantymen on a totally voluntary basis, on behalf of the community.  The name, Oddfellows Hall, reflects a long and continuing relationship between the town of Sheringham and the Manchester Unity Independent Order of Oddfellows, a charitable institution that has provided financial support to the Sheringham RNLI Lifeboat Station for over a Century.
 
@@ -28,6 +32,8 @@ The new Oddfellows Hall features an impressive timber framed glass and steel ent
 * Inspiring architecture
 * Central heating
 
+![The main room of The Oddfellows Hall](/img/141005-shantymen-0401.jpg "The main room of The Oddfellows Hall")
+
 The hall is available seven days a week for hire and can be used as a venue for:
 
 * Conferences
@@ -42,4 +48,8 @@ The hall is available seven days a week for hire and can be used as a venue for:
 
 … as well as many other uses: just ask!
 
+![Another function room](/img/141005-shantymen-0361.jpg "Another function room")
+
 Anyone interested in hiring the Hall should contact the Bookings Secretary, Dick Grieve on dick.grieve@shantymen.com. He would be happy to show you around the Hall, without any obligation to hire.
+
+![The toilets at Oddfellows Hall](/img/141005-shantymen-0391.jpg "The toilets at Oddfellows Hall")
