@@ -9,4 +9,4 @@ featuredGig: true
 
 Crab & Lobster Festival
 
-Tickets now on sale online at [www.cromerpier.co.uk](www.cromerpier.co.uk) or Box Office 01263 512 495
+Tickets now on sale online at [www.cromerpier.co.uk](http://www.cromerpier.co.uk) or Box Office 01263 512 495
