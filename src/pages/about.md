@@ -28,6 +28,8 @@ In 2009 the Shantymen completed their first visit to the Isle of Wight helping r
 
 In 2011 they performed two festivals in quick succession, in France at the St Vaast Festival followed quickly by the the Falmouth International Sea Shanty Festival – a festival the Shantymen have attended since its inception some years ago and witnessed the organizers develop one of the best shanty festivals in the country. The Shantymen also performed for ‘Ade In Britain’ in 2011 and ‘Country File’ in 2012.
 
+https://www.youtube.com/watch?v=M2APlIEjxzA
+
 In March of 2014 the Shantymen made their 6th CD in St Peters Church Sheringham and enjoyed another great season.
 
 In 2015 they celebrated their 25th anniversary and completed three special concerts, two in Sheringham and one in Cromer Pavilion Theatre. It was a great year which they enjoyed immensely and they gave their profound thanks to the people of Norfolk who have supported them throughout.  2016 was another great year for the Shantymen as they welcomed some new younger blood into their midst and these will help develop new ideas and new ways for the future.  They also made their 7th CD at St Peters Church which comprised a selection of their favourite songs.
