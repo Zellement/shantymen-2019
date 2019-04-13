@@ -1,0 +1,111 @@
+.gigs {
+
+	h2 {
+		margin-bottom: 20px;
+	}
+
+	&__location {
+		margin-top:  5px;
+		font-size: .8em;
+		letter-spacing: 1px;
+	}
+
+	&__gig {
+		padding: 10px 0 10px 0;
+		&:after {
+			content: '';
+			display: block;
+			width: 100%;
+			height: 2px;
+			margin-top: 20px;
+			background: $mid-light-grey;
+		}
+	}
+
+	@include bp1000 {
+		
+		h2, h3 {
+			color: $blanc;
+		}
+
+		&__gig {
+			&:after {
+				/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#111f3f+0,172957+50,172957+50,111f3f+100 */
+				background: rgb(17,31,63); /* Old browsers */
+				background: -moz-linear-gradient(left, rgba(17,31,63,1) 0%, rgba(23,41,87,1) 50%, rgba(23,41,87,1) 50%, rgba(17,31,63,1) 100%); /* FF3.6-15 */
+				background: -webkit-linear-gradient(left, rgba(17,31,63,1) 0%,rgba(23,41,87,1) 50%,rgba(23,41,87,1) 50%,rgba(17,31,63,1) 100%); /* Chrome10-25,Safari5.1-6 */
+				background: linear-gradient(to right, rgba(17,31,63,1) 0%,rgba(23,41,87,1) 50%,rgba(23,41,87,1) 50%,rgba(17,31,63,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+				filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#111f3f', endColorstr='#111f3f',GradientType=1 ); /* IE6-9 */
+			}
+		}
+	}
+}
+
+.gigs-all {
+
+	h2 {
+		color: $deep-blue;
+	}
+
+	h3, p {
+		color: $blanc;
+		margin: 0;
+	}
+
+	a {
+		color: $orange;
+	}
+
+	&__gig {
+		margin: 20px 0;
+		box-shadow: 0 0 30px -20px $mid-grey;
+		display: flex;
+		flex-wrap: wrap;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#172957+1,0b1328+100 */
+background: rgb(23,41,87); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(23,41,87,1) 1%, rgba(11,19,40,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(23,41,87,1) 1%,rgba(11,19,40,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(23,41,87,1) 1%,rgba(11,19,40,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#172957', endColorstr='#0b1328',GradientType=0 ); /* IE6-9 */
+	}
+
+	&__card {
+		width: 50%;
+		padding: 20px;
+		color: $blanc;
+		text-align: center;
+		display: flex;
+		flex-direction: column;	
+		border-bottom: 1px solid darken($deep-blue,33);
+	}
+
+	&__card-content {
+		margin: auto;
+	}
+
+	&__icon {
+		display: block;
+		margin: 0 auto 10px auto;
+		border: 1px solid darken($deep-blue--l-50,30);
+		box-shadow: 0 0 15px darken($deep-blue,5);
+		border-radius: 50%;
+		padding: 6px;
+		font-size: 40px;
+		color: $deep-blue--l-50;
+	}
+
+	&__datetime {
+	}
+
+	&__location {
+	}
+
+	&__content {
+		border-top: 1px solid lighten($deep-blue,3);
+		padding: 20px;
+		width: 100%;;
+		p, p:first-of-type {
+			font-size: .9em;
+		}
+	}
+}

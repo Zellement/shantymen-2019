@@ -30,13 +30,13 @@ const GigsUpcoming = () => (
         }
       `}
       render={data => (
-          <div className="gigs-upcoming">
+          <div className="gigs">
             <h2>Featured Gigs</h2>
             <p>We have some great gigs lined up, see them below. Alternatively, you can <AnimatedLink className="btn btn--orange" to="/gigs">see all our gigs</AnimatedLink></p>
             {data.allMarkdownRemark.edges.map(gigdata => (
-              <div className="gigs-upcoming__gig" key={gigdata.node.frontmatter.location + gigdata.node.frontmatter.datetime}>
+              <div className="gigs__gig" key={gigdata.node.frontmatter.location + gigdata.node.frontmatter.datetime}>
                 <h3 key={gigdata.node.frontmatter.datetime}><GiGuitar /> {gigdata.node.frontmatter.datetime}</h3>
-                <p className="gigs-upcoming__location" key={gigdata.node.frontmatter.location}>{gigdata.node.frontmatter.location}</p>
+                <p className="gigs__location" key={gigdata.node.frontmatter.location}>{gigdata.node.frontmatter.location}</p>
               </div>
             ))}
           </div>

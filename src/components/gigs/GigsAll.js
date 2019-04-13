@@ -1,7 +1,7 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 import { HTMLContent } from '../../components/Content'
-import { GiGuitar } from 'react-icons/gi'
+import { GiPositionMarker, GiCalendar } from 'react-icons/gi'
 
 const GigsAll = () => (
 	<StaticQuery
@@ -29,12 +29,23 @@ const GigsAll = () => (
         }
 	    `}
 	    render={data => (
-          <div>
+          <div className="gigs-all">
+            <h2>Gig Listings</h2>
             {data.allMarkdownRemark.edges.map(gigdata => (
-              <div key={gigdata.node.frontmatter.location + gigdata.node.frontmatter.datetime}>
-                <h3 key={gigdata.node.frontmatter.datetime}><GiGuitar /> {gigdata.node.frontmatter.datetime}</h3>
-                <h4 key={gigdata.node.frontmatter.location}>{gigdata.node.frontmatter.location}</h4>
-                <HTMLContent key={gigdata.node.html} content={gigdata.node.html} />
+              <div className="gigs-all__gig" key={gigdata.node.frontmatter.location + gigdata.node.frontmatter.datetime}>
+                <div className="gigs-all__card">
+                  <div className="gigs-all__card-content">
+                    <GiCalendar className="gigs-all__icon" />
+                    <h3 className="gigs-all__datetime" key={gigdata.node.frontmatter.datetime}>{gigdata.node.frontmatter.datetime}</h3>
+                  </div>
+                </div>
+                <div className="gigs-all__card gigs-all__card-orange">
+                  <div className="gigs-all__card-content">
+                    <GiPositionMarker className="gigs-all__icon" />
+                    <p className="gigs-all__location" key={gigdata.node.frontmatter.location}> {gigdata.node.frontmatter.location}</p>
+                  </div>
+                </div>
+                <HTMLContent className="gigs-all__content" key={gigdata.node.html} content={gigdata.node.html} />
               </div>
             ))}
           </div>
