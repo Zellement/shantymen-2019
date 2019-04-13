@@ -120,7 +120,7 @@
 			text-decoration: none;
 			text-align: center;
 			border-bottom: 1px solid lighten($deep-blue,10);
-		  background: darken($deep-blue,5);
+		  	background: darken($deep-blue,5);
 			background: linear-gradient(82deg, darken($deep-blue,5) 0%, darken($deep-blue,0) 100%);
 		}
 
@@ -166,6 +166,7 @@
 			padding: 10px;
 			margin: 0 2px;
 			transition: .3s;
+			border-radius: 0 0 3px 3px;
 			&:hover {
 				border-color: $orange;
 			}
