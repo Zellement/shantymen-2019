@@ -35,13 +35,17 @@ const AlbumListing = () => (
         }
       `}
       render={data => (
-          <div>
+          <div className="discography">
             {data.allMarkdownRemark.edges.map(albumdata => (
-              <div key={albumdata.node.frontmatter.title}>
-                <h3 key={albumdata.node.frontmatter.title}>{albumdata.node.frontmatter.title}</h3>
-                <Img fixed={albumdata.node.frontmatter.artwork.childImageSharp.fixed} />
-                <h3 key={albumdata.node.frontmatter.year}>{albumdata.node.frontmatter.year}</h3>
-                <HTMLContent content={albumdata.node.html} />
+              <div className="discography__album" key={albumdata.node.frontmatter.title}>
+                <div className="discography__overview">
+                  <h3 className="discography__title" key={albumdata.node.frontmatter.title}>{albumdata.node.frontmatter.title}</h3>
+                  <h4 className="discography__year" key={albumdata.node.frontmatter.year}>({albumdata.node.frontmatter.year})</h4>
+                  <Img className="discography__image" fixed={albumdata.node.frontmatter.artwork.childImageSharp.fixed} />
+                </div>
+                <div className="discography__listing">
+                  <HTMLContent content={albumdata.node.html} />
+                </div>
               </div>
             ))}
           </div>
