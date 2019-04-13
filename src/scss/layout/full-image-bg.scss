@@ -17,6 +17,10 @@
 
 	&--home-page {
 		height: 101vh;
+		background-position: center center!important;
+		&:after, &:before {
+			background-position: center center!important;
+		}
 	}
 }
 
