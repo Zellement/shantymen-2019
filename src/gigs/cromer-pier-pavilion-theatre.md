@@ -1,12 +1,14 @@
 ---
 templateKey: gig-listing
 location: Cromer Pier Pavilion Theatre
-date: '1558124352'
-datetime: 'Friday, May 17, 2019 7:00 PM'
+date: '1571266800'
+datetime: 'Thursday, October 17, 2019 7:30 PM'
 featuredGig: true
 ---
-1 x 60 min gig
+Shantymen in Concert
 
-Crab & Lobster Festival
+2 x 60 min sessions
 
-Tickets now on sale online at [www.cromerpier.co.uk](http://www.cromerpier.co.uk) or Box Office 01263 512 495
+Cromer Pier Pavilion Theatre.
+
+End of Season Charity Show
