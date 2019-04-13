@@ -1,4 +1,5 @@
 import React from "react"
+import { GiGuitar } from 'react-icons/gi'
 
 const SpotifyPlayer = class extends React.Component {
 
@@ -10,9 +11,11 @@ const SpotifyPlayer = class extends React.Component {
 		}
 	
 		return(
-			<div>
-				<div id="spotifyPlaceholder" className="spotifyPlaceholder" onClick={spotifyClick}>
-					Show me Spotify player
+			<div className="spotify-player">
+				<h2><GiGuitar /> Interested in hearing some of our music?</h2>
+				<p>Music player courtesy of Spotify</p>
+				<div id="spotifyPlaceholder">
+					<button onClick={spotifyClick} className="btn btn--orange">Show the music player</button>
 				</div>
 			</div>
 		)

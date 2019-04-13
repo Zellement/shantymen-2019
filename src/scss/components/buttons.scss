@@ -2,7 +2,9 @@
     Buttons
 --------------------------------------------------------------- */
 
-.btn {
+button, .btn {
+	background: none;
+	border: none;
 	position: relative;
 	color: $blanc;
 	text-decoration: none;
