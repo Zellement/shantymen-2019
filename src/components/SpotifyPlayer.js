@@ -11,7 +11,7 @@ const SpotifyPlayer = class extends React.Component {
 	
 		return(
 			<div>
-				<div id="spotifyPlaceholder" onClick={spotifyClick}>
+				<div id="spotifyPlaceholder" className="spotifyPlaceholder" onClick={spotifyClick}>
 					Show me Spotify player
 				</div>
 			</div>
