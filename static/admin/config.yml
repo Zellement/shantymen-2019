@@ -91,5 +91,5 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "album-listing"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Artwork", name: "artwork", widget: "image"}
-      - {label: "Release Year", name: "release-year", widget: "number"}
+      - {label: "Year", name: "year", widget: "number"}
       - {label: "Track Listing", name: "body", widget: "markdown"}

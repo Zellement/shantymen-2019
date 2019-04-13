@@ -10,7 +10,7 @@ const AlbumListing = () => (
         {
           allMarkdownRemark(
           sort: {
-            fields: [frontmatter___templateKey]
+            fields: [frontmatter___year],
             order: DESC
           }
             filter: {frontmatter: {templateKey: {eq: "album-listing"}}}
@@ -20,10 +20,10 @@ const AlbumListing = () => (
                 html
                 frontmatter {
                   title
-                  release_year
+                  year
                   artwork {
                     childImageSharp {
-                      fixed(width: 150, height: 150) {
+                      fixed(width: 200, height: 200) {
                         ...GatsbyImageSharpFixed_tracedSVG
                       }
                     }
@@ -39,9 +39,9 @@ const AlbumListing = () => (
             {data.allMarkdownRemark.edges.map(albumdata => (
               <div key={albumdata.node.frontmatter.title}>
                 <h3 key={albumdata.node.frontmatter.title}>{albumdata.node.frontmatter.title}</h3>
-                <h3 key={albumdata.node.frontmatter.release_year}>{albumdata.node.frontmatter.release_year}</h3>
-                <HTMLContent content={albumdata.node.html} />
                 <Img fixed={albumdata.node.frontmatter.artwork.childImageSharp.fixed} />
+                <h3 key={albumdata.node.frontmatter.year}>{albumdata.node.frontmatter.year}</h3>
+                <HTMLContent content={albumdata.node.html} />
               </div>
             ))}
           </div>
