@@ -5,11 +5,9 @@ subtitle: Available for hire!
 image: /img/141005-shantymen-021.jpg
 oddfellowsGallery: []
 ---
-
-
 ## Home of the Sheringham Shantymen
 
-**Available for hire!**
+Available for hire!
 
 The Hall is a stunning place to hold meetings and functions venue in the heart of Sheringham.
 
