@@ -8,7 +8,7 @@ const GigsUpcoming = () => (
       query={graphql`
         {
           allMarkdownRemark(sort: {
-            fields: [frontmatter___date], order: ASC}, limit: 3,
+            fields: [frontmatter___date], order: ASC},
             filter: {
               frontmatter: {
                 templateKey: {eq: "gig-listing"},
