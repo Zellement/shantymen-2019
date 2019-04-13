@@ -2,7 +2,7 @@
 templateKey: album-listing
 title: The Royalist
 artwork: /img/royalist.jpg
-release-year: '1997'
+release-year: 1997
 ---
 1. Rio Grande
 2. Hieland Laddie
