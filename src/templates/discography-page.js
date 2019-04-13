@@ -1,6 +1,7 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import Header from '../components/Header'
+import Footer from '../components/Footer'
 import { HTMLContent } from '../components/Content'
 import SpotifyPlayer from "../components/SpotifyPlayer"
 import AlbumListing from "../components/AlbumListing"
@@ -28,6 +29,7 @@ function DiscographyPage({ data }) {
           <SpotifyPlayer />
         </div>
       </div>
+      <Footer />
     </div>
   )
 }

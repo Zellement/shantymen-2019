@@ -1,7 +1,7 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 import AnimatedLink from "../AnimatedLink"
-import { GiGuitar } from 'react-icons/gi'
+import { GiCalendar } from 'react-icons/gi'
 
 const GigsUpcoming = () => (
   <StaticQuery
@@ -35,7 +35,7 @@ const GigsUpcoming = () => (
             <p>We have some great gigs lined up, see them below. Alternatively, you can <AnimatedLink className="btn btn--orange" to="/gigs">see all our gigs</AnimatedLink></p>
             {data.allMarkdownRemark.edges.map(gigdata => (
               <div className="gigs__gig" key={gigdata.node.frontmatter.location + gigdata.node.frontmatter.datetime}>
-                <h3 key={gigdata.node.frontmatter.datetime}><GiGuitar /> {gigdata.node.frontmatter.datetime}</h3>
+                <h3 key={gigdata.node.frontmatter.datetime}><GiCalendar /> {gigdata.node.frontmatter.datetime}</h3>
                 <p className="gigs__location" key={gigdata.node.frontmatter.location}>{gigdata.node.frontmatter.location}</p>
               </div>
             ))}

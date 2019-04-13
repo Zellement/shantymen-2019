@@ -32,12 +32,6 @@ collections:
           - {label: "Subtitle", name: "subtitle", widget: "string"}
           - {label: "Main Image", name: "image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
-          - label: "Oddfellows Gallery"
-            name: "oddfellowsGallery"
-            widget: "list"
-            fields:
-              - {label: "Title", name: "title", widget: "string" }
-              - {label: "Image", name: "image", widget: "image"}
       - file: "src/pages/gigs.md"
         label: "Gigs"
         name: "gigs"

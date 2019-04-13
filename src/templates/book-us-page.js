@@ -1,6 +1,7 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import Header from '../components/Header'
+import Footer from '../components/Footer'
 import { HTMLContent } from '../components/Content'
 import SpotifyPlayer from "../components/SpotifyPlayer"
 import GigsUpcoming from "../components/gigs/GigsUpcoming"
@@ -47,6 +48,7 @@ function BookUsPage({ data }) {
           </div>
         </section>
       </div>
+      <Footer />
     </div>
   )
 }

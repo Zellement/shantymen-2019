@@ -1,6 +1,7 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import Header from '../components/Header'
+import Footer from '../components/Footer'
 import { HTMLContent } from '../components/Content'
 import { DiscussionEmbed } from "disqus-react"
 import SpotifyPlayer from "../components/SpotifyPlayer"
@@ -33,6 +34,7 @@ function GuestbookPage({ data }) {
           <SpotifyPlayer />
         </div>
       </div>
+      <Footer />
     </div>
   )
 }
