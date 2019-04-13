@@ -2,7 +2,7 @@
 templateKey: album-listing
 title: Plumbing the Depths
 artwork: /img/plumbing-the-depths.jpg
-release-year: 2006
+year: 2006
 ---
 1. Three Score and Ten
 2. Fraserburgh Lifeboat
