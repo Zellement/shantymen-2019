@@ -3,6 +3,9 @@ import { StaticQuery, graphql } from "gatsby"
 import { HTMLContent } from '../../components/Content'
 import { GiPositionMarker, GiCalendar } from 'react-icons/gi'
 
+var s = new Date(1558220400*1000).toLocaleDateString("en-gb", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'  });
+console.log(s);
+
 const GigsAll = () => (
 	<StaticQuery
 	    query={graphql`
@@ -29,6 +32,7 @@ const GigsAll = () => (
         }
 	    `}
 	    render={data => (
+        <div>
           <div className="gigs-all">
             <h2>Gig Listings</h2>
             {data.allMarkdownRemark.edges.map(gigdata => (
@@ -42,13 +46,14 @@ const GigsAll = () => (
                 <div className="gigs-all__card gigs-all__card-orange">
                   <div className="gigs-all__card-content">
                     <GiPositionMarker className="gigs-all__icon" />
-                    <p className="gigs-all__location" key={gigdata.node.frontmatter.location}> {gigdata.node.frontmatter.location}</p>
+                    <h3 className="gigs-all__location" key={gigdata.node.frontmatter.location}> {gigdata.node.frontmatter.location}</h3>
                   </div>
                 </div>
                 <HTMLContent className="gigs-all__content" key={gigdata.node.html} content={gigdata.node.html} />
               </div>
             ))}
           </div>
+        </div>
 	    )}
 	  />
 )

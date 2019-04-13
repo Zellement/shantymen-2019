@@ -33,6 +33,7 @@
     "parcel-bundler": "^1.12.3",
     "prop-types": "^15.6.0",
     "react": "^16.8.6",
+    "react-anime": "^2.2.0",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.0",
     "react-icons": "^3.5.0",
