@@ -11,7 +11,7 @@
 	background: -webkit-linear-gradient(left, rgba(23,41,87,1) 1%,rgba(11,19,40,1) 100%); /* Chrome10-25,Safari5.1-6 */
 	background: linear-gradient(to right, rgba(23,41,87,1) 1%,rgba(11,19,40,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#172957', endColorstr='#0b1328',GradientType=1 ); /* IE6-9 */
-	//overflow: hidden;
+	overflow: hidden;
 
 	h1 {
 		color: $blanc;
@@ -25,20 +25,12 @@
 	}
 
 	&--home {
-		margin-top: 65vh;
-		width: auto;
-		display: inline-block;
+		position: fixed;
+		bottom: 10px;
+		left: 0;
+		right: 20px;
+		width: 96%;
 		text-align: left;
-		max-width: 96%;
-	}
-}
-
-@include bp480 {
-
-	.hero {
-		&--home {
-			margin-top: 80vh;
-		}
 	}
 }
 
@@ -66,6 +58,10 @@
 		}
 
 		&--home {
+			margin: 0;
+			top: 40%;
+			width: 100%;
+			right: 0;
 			background: none;
 			h2 {
 				max-width: 100%;
