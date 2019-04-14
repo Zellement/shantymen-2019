@@ -18,6 +18,7 @@ const BookUsPage = ({data}) => (
          
           <form action="/thanks" className="form" name="bookUs" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
             <label className="hidden">Don't fill this out if you're human: <input type="hidden" name="bot-field" /></label>
+            <label className="hidden"><input type="hidden" name="form-name" value="bookUs" /></label>
             <label>Your Name: <input placeholder="Enter your name" type="text" name="name" /></label>   
             <label>Your Email: <input placeholder="Enter your email"  type="email" name="email" /></label>
             <label>Your Telephone: <input placeholder="Enter your telephone" type="text" name="telephone" /></label>
