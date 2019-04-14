@@ -8,7 +8,7 @@ import FullImageBg from '../components/FullImageBg'
 
 function ThanksPage({ data }) {
   return (
-    <div className="wrapper">
+    <div>
       <FullImageBg bgImage={data.allFile.edges[0].node.childImageSharp.fluid} className="home-page" />
       <Header />
       <Hero h1="Thanks" h2="Thanks for requesting a booking." />

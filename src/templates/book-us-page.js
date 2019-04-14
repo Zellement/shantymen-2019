@@ -10,7 +10,7 @@ import ContactForm from '../components/ContactForm'
 
 
 const BookUsPage = ({data}) => (
-    <div className="wrapper">
+    <div>
       <FullImageBg bgImage={data.allFile.edges[0].node.childImageSharp.fluid} className="home-page" />
       <Header />
       <Hero h1="Book Us" h2="Drop us a message to enquire about a booking" />

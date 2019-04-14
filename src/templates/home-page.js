@@ -7,7 +7,7 @@ import Hero from '../components/Hero'
 
 function HomePage({ data }) {
   return (
-    <div className="wrapper">
+    <div>
       <FullImageBg bgImage={data.allFile.edges[0].node.childImageSharp.fluid} />
       <Header />
       <Hero h1="The Sheringham Shantymen" h2="Supporters of the RNLI and other charities." className="hero--home" />
