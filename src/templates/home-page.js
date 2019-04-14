@@ -13,11 +13,9 @@ import FullImageBg from '../components/FullImageBg'
 function HomePage({ data }) {
   return (
     <div>
-      <FullImageBg bgImage={data.allFile.edges[0].node.childImageSharp.fluid} />
+      <FullImageBg bgImage={data.allFile.edges[0].node.childImageSharp.fluid} className="home-page" />
       <Header />
-      <Hero h1="The Sheringham Shantymen" h2="Supporters of the RNLI and other charities."/>
-      <div className="main-content">
-      </div>
+      <Hero h1="The Sheringham Shantymen" h2="Supporters of the RNLI and other charities." className="hero--home" />
       <Footer />
     </div>
   )
