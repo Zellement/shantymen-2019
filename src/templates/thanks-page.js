@@ -15,6 +15,8 @@ function ThanksPage({ data }) {
         <div className="main-content__copy">
           Thanks.
         </div>
+        <div className="main-content__aside">
+        </div>
       </div>
       <Footer />
     </div>
