@@ -1,22 +1,21 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import Header from '../components/Header'
-import Footer from '../components/Footer'
-import { HTMLContent } from '../components/Content'
-import SpotifyPlayer from "../components/SpotifyPlayer"
-import SocialIcons from "../components/Social"
-import GigsUpcoming from "../components/gigs/GigsUpcoming"
-import Hero from '../components/Hero'
+import Button from '../components/Button'
 import FullImageBg from '../components/FullImageBg'
-
 
 function HomePage({ data }) {
   return (
-    <div>
+    <div className="wrapper">
       <FullImageBg bgImage={data.allFile.edges[0].node.childImageSharp.fluid} className="home-page" />
       <Header />
-      <Hero h1="The Sheringham Shantymen" h2="Supporters of the RNLI and other charities." className="hero--home" />
-      <Footer />
+      <div className="hero hero--home">
+        <div className="container">
+          <h1 className="color-white">The Sheringham Shantymen</h1>
+          <h2 className="color-deep-blue--l-50">Supporters of the RNLI and other charities.</h2>
+          <Button to="/gigs" className="btn--orange" displayText="See our gigs" />
+        </div>
+      </div>
     </div>
   )
 }
