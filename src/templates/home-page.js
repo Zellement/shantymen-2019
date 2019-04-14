@@ -8,8 +8,9 @@ import Hero from '../components/Hero'
 function HomePage({ data }) {
   return (
     <div className="wrapper">
-      <FullImageBg bgImage={data.allFile.edges[0].node.childImageSharp.fluid} className="home-page" />
+      <FullImageBg bgImage={data.allFile.edges[0].node.childImageSharp.fluid} />
       <Header />
+      <Hero h1="The Sheringham Shantymen" h2="Supporters of the RNLI and other charities." className="hero--home" />
     </div>
   )
 }
