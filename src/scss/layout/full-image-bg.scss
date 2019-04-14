@@ -1,7 +1,7 @@
 .full-background-image-wrapper {
     width: 100%;
     height: 100vh;
-    top: 120px; right: 0;
+    top: 110px; right: 0;
     left: 0; bottom: 0;
     position: fixed;
     z-index: -1;
@@ -13,7 +13,7 @@
 
 .full-background-image {
 	width: 100%;
-	height: 55vh;
+	height: 62vh;
 	background-position: center center!important;
 	&:after, &:before {
 		background-position: center center!important;
