@@ -1,18 +1,39 @@
 .form {
+	width: 100%;
+	max-width: 500px;
+	margin: 0 auto;
 	label {
-		display: block;
 		display: flex;
 		justify-content: space-between;
-		margin: 10px 0;
+		flex-direction: column;
+		margin: 20px 0;
+		font-family: $colourFont, serif;
 	}
 	button {
 		display: block;
 	}
 	input, textarea {
-		padding: 5px;
-		width: 50%;
+		font-family: $primaryFont, sans-serif;
+		margin: 5px 0 0 0;
+		padding: 8px;
+		width: 100%;
+		border: none;
+		background: $light-grey;
 	}
 	.hidden {
 		display: none;
+	}
+
+	@include bp1000 {
+		max-width: 650px;
+		margin: 0;
+		label {
+			flex-direction: row;
+		}
+		input, textarea {
+			min-width: 50%;
+			width: auto;
+			margin-left: auto;
+		}
 	}
 }

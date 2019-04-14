@@ -31,6 +31,13 @@ button, .btn {
 		}
 	}
 
+	&--deep-blue {
+		color: $deep-blue;
+		&:after {
+			background: $deep-blue;
+		}
+	}
+
 	&:hover {
 		&:after {
 			width: 50%;
