@@ -16,8 +16,10 @@ const BookUsPage = ({data}) => (
         <div className="main-content__copy">
 
         <p>If you would like to enquire about booking us to play, please fill out the form below and we will get back to you as soon as possible.</p>
+
+        <h2>Book Us</h2>
          
-          <ContactForm />
+        <ContactForm />
 
         </div>
         <div className="main-content__aside">
