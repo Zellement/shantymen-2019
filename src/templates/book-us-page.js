@@ -4,29 +4,90 @@ import Header from '../components/Header'
 import Footer from '../components/Footer'
 import Hero from '../components/Hero'
 import FullImageBg from '../components/FullImageBg'
+import { navigateTo } from "gatsby-link";
 
+function encode(data) {
+  return Object.keys(data)
+    .map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
+    .join("&");
+}
 
-const BookUsPage = ({data}) => (
+export default class Contact extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {};
+  }
+
+  handleChange = e => {
+    this.setState({ [e.target.name]: e.target.value });
+  };
+
+  handleSubmit = e => {
+    e.preventDefault();
+    const form = e.target;
+    fetch("/", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: encode({
+        "form-name": form.getAttribute("name"),
+        ...this.state
+      })
+    })
+      .then(() => navigateTo(form.getAttribute("action")))
+      .catch(error => alert(error));
+  };
+
+  render() {
+    return (
     <div className="wrapper">
-      <FullImageBg bgImage={data.allFile.edges[0].node.childImageSharp.fluid} className="home-page" />
       <Header />
       <Hero h1="Book Us" h2="Drop us a message to enquire about a booking" />
       <div className="main-content">
         <div className="main-content__copy">
 
         <p>If you would like to enquire about booking us to play, please fill out the form below and we will get back to you as soon as possible.</p>
+
+        <h1>Contact</h1>
+        <form
+          name="contact"
+          method="post"
+          action="/thanks/"
+          data-netlify="true"
+          data-netlify-honeypot="bot-field"
+          onSubmit={this.handleSubmit}
+        >
+          {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
+          <input type="hidden" name="form-name" value="contact" />
+          <p hidden>
+            <label>
+              Don’t fill this out:{" "}
+              <input name="bot-field" onChange={this.handleChange} />
+            </label>
+          </p>
+          <p>
+            <label>
+              Your name:<br />
+              <input type="text" name="name" onChange={this.handleChange} />
+            </label>
+          </p>
+          <p>
+            <label>
+              Your email:<br />
+              <input type="email" name="email" onChange={this.handleChange} />
+            </label>
+          </p>
+          <p>
+            <label>
+              Message:<br />
+              <textarea name="message" onChange={this.handleChange} />
+            </label>
+          </p>
+          <p>
+            <button type="submit">Send</button>
+          </p>
+        </form>
          
-          <form action="/thanks" className="form" name="bookUs" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
-            <label className="hidden">Don't fill this out if you're human <input type="hidden" name="bot-field" /></label>
-            <label className="hidden"><input type="hidden" name="form-name" value="bookUs" /></label>
-            <label>Your Name <input placeholder="Enter your name" type="text" name="name" /></label>   
-            <label>Your Email <input placeholder="Enter your email"  type="email" name="email" /></label>
-            <label>Your Telephone <input placeholder="Enter your telephone" type="text" name="telephone" /></label>
-            <label>Venue <input placeholder="Enter your venue" type="text" name="venue" /></label>
-            <label>Date &amp; time requested <input placeholder="Enter your date and time" type="text" name="datetime" /></label>
-            <label>Details <textarea placeholder="Enter any additional information" rows="5" name="details"></textarea></label>
-            <button className="btn btn--deep-blue" type="submit">Send booking request</button>
-          </form>
+
 
         </div>
         <div className="main-content__aside">
@@ -34,9 +95,9 @@ const BookUsPage = ({data}) => (
       </div>
       <Footer />
     </div>
-)
-
-export default BookUsPage
+    );
+  }
+}
 
 export const BookUsPageQuery = graphql`
 {

@@ -3,9 +3,6 @@ import { StaticQuery, graphql } from "gatsby"
 import { HTMLContent } from '../../components/Content'
 import { GiPositionMarker, GiCalendar } from 'react-icons/gi'
 
-var s = new Date(1558220400*1000).toLocaleDateString("en-gb", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'  });
-console.log(s);
-
 const GigsAll = () => (
 	<StaticQuery
 	    query={graphql`
