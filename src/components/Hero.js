@@ -1,7 +1,7 @@
 import React from "react"
 
-const Hero = ( {h1, h2} ) => (
-	<div className="hero">
+const Hero = ( {h1, h2, className} ) => (
+	<div className={"hero " + className}>
 		<div className="container">
 			<h1 className="hero__title">{h1}</h1>
 			<h2 className="hero__subtitle">{h2}</h2>

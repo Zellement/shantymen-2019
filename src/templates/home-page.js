@@ -3,19 +3,14 @@ import { graphql } from 'gatsby'
 import Header from '../components/Header'
 import Button from '../components/Button'
 import FullImageBg from '../components/FullImageBg'
+import Hero from '../components/Hero'
 
 function HomePage({ data }) {
   return (
     <div className="wrapper">
       <FullImageBg bgImage={data.allFile.edges[0].node.childImageSharp.fluid} className="home-page" />
       <Header />
-      <div className="hero hero--home">
-        <div className="container">
-          <h1 className="color-white">The Sheringham Shantymen</h1>
-          <h2 className="color-deep-blue--l-50">Supporters of the RNLI and other charities.</h2>
-          <Button to="/gigs" className="btn--orange" displayText="See our gigs" />
-        </div>
-      </div>
+      <Hero h1="The Sheringham Shantymen" h2="Supporters of the RNLI and other charities." className="hero--home" />
     </div>
   )
 }
