@@ -31,9 +31,7 @@
 		right: 20px;
 		width: 96%;
 		text-align: left;
-		&:before {
-			display: none;
-		}
+		margin: 0;
 	}
 }
 
@@ -63,8 +61,6 @@
 		&--home {
 			margin: 0;
 			top: 40%;
-			width: 100%;
-			right: 0;
 			background: none;
 			h2 {
 				max-width: 100%;
