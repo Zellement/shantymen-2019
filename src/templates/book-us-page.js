@@ -5,8 +5,8 @@ import Footer from '../components/Footer'
 import Hero from '../components/Hero'
 import FullImageBg from '../components/FullImageBg'
 
-function BookUsPage({ data }) {
-  return (
+
+const BookUsPage = ({data}) => (
     <div className="wrapper">
       <FullImageBg bgImage={data.allFile.edges[0].node.childImageSharp.fluid} className="home-page" />
       <Header />
@@ -33,8 +33,7 @@ function BookUsPage({ data }) {
       </div>
       <Footer />
     </div>
-  )
-}
+)
 
 export default BookUsPage
 
