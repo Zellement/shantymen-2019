@@ -4,6 +4,7 @@ import Header from '../components/Header'
 import Footer from '../components/Footer'
 import { HTMLContent } from '../components/Content'
 import SpotifyPlayer from "../components/SpotifyPlayer"
+import SocialIcons from "../components/Social"
 import GigsUpcoming from "../components/gigs/GigsUpcoming"
 import Hero from '../components/Hero'
 import FullImageBg from '../components/FullImageBg'
@@ -24,6 +25,7 @@ function StandardPage({ data }) {
         <div className="main-content__aside">
           <GigsUpcoming />
           <SpotifyPlayer />
+          <SocialIcons />
         </div>
       </div>
       <Footer />

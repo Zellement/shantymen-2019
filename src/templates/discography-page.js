@@ -4,6 +4,7 @@ import Header from '../components/Header'
 import Footer from '../components/Footer'
 import { HTMLContent } from '../components/Content'
 import SpotifyPlayer from "../components/SpotifyPlayer"
+import SocialIcons from "../components/Social"
 import AlbumListing from "../components/AlbumListing"
 import GigsUpcoming from "../components/gigs/GigsUpcoming"
 import Hero from '../components/Hero'
@@ -27,6 +28,7 @@ function DiscographyPage({ data }) {
         <div className="main-content__aside">
           <GigsUpcoming />
           <SpotifyPlayer />
+          <SocialIcons />
         </div>
       </div>
       <Footer />

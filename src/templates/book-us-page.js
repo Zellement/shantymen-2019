@@ -2,6 +2,8 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import Header from '../components/Header'
 import Footer from '../components/Footer'
+import SpotifyPlayer from "../components/SpotifyPlayer"
+import SocialIcons from "../components/Social"
 import Hero from '../components/Hero'
 import FullImageBg from '../components/FullImageBg'
 import ContactForm from '../components/ContactForm'
@@ -23,6 +25,8 @@ const BookUsPage = ({data}) => (
 
         </div>
         <div className="main-content__aside">
+          <SpotifyPlayer />
+          <SocialIcons />
         </div>
       </div>
       <Footer />

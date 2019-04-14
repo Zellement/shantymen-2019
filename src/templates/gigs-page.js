@@ -4,6 +4,7 @@ import Header from '../components/Header'
 import Footer from '../components/Footer'
 import { HTMLContent } from '../components/Content'
 import SpotifyPlayer from "../components/SpotifyPlayer"
+import SocialIcons from "../components/Social"
 import GigsAll from "../components/gigs/GigsAll"
 import Hero from '../components/Hero'
 import FullImageBg from '../components/FullImageBg'
@@ -24,6 +25,7 @@ function GigsPage({ data }) {
         </div>
         <div className="main-content__aside">
           <SpotifyPlayer />
+          <SocialIcons />
         </div>
       </div>
       <Footer />
