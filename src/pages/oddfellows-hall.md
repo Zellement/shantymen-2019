@@ -10,8 +10,6 @@ Available for hire!
 
 The Hall is a stunning place to hold meetings and functions venue in the heart of Sheringham.
 
-![Outside The Oddfellows Hall](/img/outside-2.jpg "Outside The Oddfellows Hall")
-
 Winner of three architectural awards, this 140 year old, brick and flint former lifeboat house was sympathetically rebuilt and restored in 2007 and is currently managed by The Sheringham Shantymen on a totally voluntary basis, on behalf of the community.  The name, Oddfellows Hall, reflects a long and continuing relationship between the town of Sheringham and the Manchester Unity Independent Order of Oddfellows, a charitable institution that has provided financial support to the Sheringham RNLI Lifeboat Station for over a Century.
 
 > The new Oddfellows Hall features an impressive timber framed glass and steel entrance in the shape of the prow of a lifeboat.  The Hall, all parts of which are accessible for wheelchair users, is available for hire to any person, organisation or company and offers the following features:
