@@ -2,8 +2,7 @@
 templateKey: standard-page
 title: Oddfellows Hall
 subtitle: Available for hire!
-image: /img/141005-shantymen-021.jpg
-oddfellowsGallery: []
+image: /img/outside-2.jpg
 ---
 ## Home of the Sheringham Shantymen
 
