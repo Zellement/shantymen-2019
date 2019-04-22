@@ -30,7 +30,7 @@ export default ThanksPage
 
 export const ThanksPageQuery = graphql`
 {
-  allFile (filter:{relativePath:{eq:"thanks-page.jpg"}}){
+  allFile (filter:{relativePath:{eq:"book-us-page.jpg"}}){
     edges {
       node {
         childImageSharp {
