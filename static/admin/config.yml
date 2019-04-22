@@ -21,7 +21,7 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "standard-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Subtitle", name: "subtitle", widget: "string"}
-          - {label: "Main Image", name: "image", widget: "image", required: false}
+          - {label: "Main Image", name: "image", widget: "image"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/oddfellows-hall.md"
         label: "Oddfellows Hall"
@@ -30,7 +30,7 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "standard-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Subtitle", name: "subtitle", widget: "string"}
-          - {label: "Main Image", name: "image", widget: "image", required: false}
+          - {label: "Main Image", name: "image", widget: "image"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/gigs.md"
         label: "Gigs"
@@ -39,7 +39,7 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "gigs-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Subtitle", name: "subtitle", widget: "string"}
-          - {label: "Main Image", name: "image", widget: "image", required: false}
+          - {label: "Main Image", name: "image", widget: "image"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/guestbook.md"
         label: "Guestbook"
@@ -48,7 +48,7 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "guestbook-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Subtitle", name: "subtitle", widget: "string"}
-          - {label: "Main Image", name: "image", widget: "image", required: false}
+          - {label: "Main Image", name: "image", widget: "image"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/discography.md"
         label: "Discography"
@@ -57,7 +57,16 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "discography-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Subtitle", name: "subtitle", widget: "string"}
-          - {label: "Main Image", name: "image", widget: "image", required: false}
+          - {label: "Main Image", name: "image", widget: "image"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/gallery.md"
+        label: "Gallery"
+        name: "gallery"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "standard-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Subtitle", name: "subtitle", widget: "string"}
+          - {label: "Main Image", name: "image", widget: "image"}
           - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "gigs"

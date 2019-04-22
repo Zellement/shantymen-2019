@@ -35,6 +35,9 @@ const Navigation = class extends React.Component {
           <AnimatedLink className="navigation__item" activeClassName="active" to="/gigs">Gigs</AnimatedLink>
           </li>
           <li className="navigation__list-item">
+          <AnimatedLink className="navigation__item" activeClassName="active" to="/gallery">Gallery</AnimatedLink>
+          </li>
+          <li className="navigation__list-item">
           <AnimatedLink className="navigation__item" activeClassName="active" to="/guestbook">Guestbook</AnimatedLink>
           </li>
           <li className="navigation__list-item">
