@@ -20,7 +20,11 @@
 	}
 
 	&--home-page {
+		background-position: -70px center!important;
 		height: 101%;
+		&:after, &:before {
+			background-position: -70px center!important;
+		}
 	}
 }
 
@@ -61,7 +65,11 @@
 		height: 80vh;
 
 		&--home-page {
+			background-position: center center!important;
 			height: 101vh;
+			&:after, &:before {
+				background-position: center center!important;
+			}
 		}
 	}
 }
