@@ -28,19 +28,12 @@ header {
 	}
 
 	header {
-		//background: rgba($deep-blue,.8);
 		background: none;
 	}
 
 	.logo {
 		float: left;
 		width: 100%;
-	}
-
-	&:after {
-		content: '';
-		clear: both;
-		display: block;
 	}
 
 }

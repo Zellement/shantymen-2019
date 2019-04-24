@@ -7,6 +7,7 @@ import SocialIcons from "../components/Social"
 import Hero from '../components/Hero'
 import FullImageBg from '../components/FullImageBg'
 import ContactForm from '../components/ContactForm'
+import AnimatedLink from "../components/AnimatedLink"
 
 
 const BookUsPage = ({data}) => (
@@ -17,7 +18,7 @@ const BookUsPage = ({data}) => (
       <div className="main-content">
         <div className="main-content__copy">
 
-        <p>If you would like to enquire about booking us to play, please fill out the form below and we will get back to you as soon as possible.</p>
+        <p>If you would like to enquire about booking us to play, please fill out the form below and we will get back to you as soon as possible. Alternatively, you can email <a href="mailto:bookings@shantymen.com">bookings@shantymen.com</a>, or to simply say hello you can instead post on our <AnimatedLink to="/guestbook">public guestbook</AnimatedLink>.</p>
 
         <h2>Book Us</h2>
          
