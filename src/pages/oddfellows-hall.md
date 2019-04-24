@@ -45,6 +45,6 @@ The hall is available seven days a week for hire and can be used as a venue for:
 
 ![Another function room](/img/141005-shantymen-0361.jpg "Another function room")
 
-Anyone interested in hiring the Hall should contact the Bookings Secretary, Dick Grieve on dick.grieve@shantymen.com. He would be happy to show you around the Hall, without any obligation to hire.
+Anyone interested in hiring the Hall should contact the Bookings Secretary, Dick Grieve on oddfellows@shantymen.com. He would be happy to show you around the Hall, without any obligation to hire.
 
 ![The toilets at Oddfellows Hall](/img/141005-shantymen-0391.jpg "The toilets at Oddfellows Hall")
