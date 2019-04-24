@@ -1,14 +1,10 @@
 ---
 templateKey: gig-listing
 location: Cromer Pier Pavilion Theatre
-date: '1571266800'
-datetime: 'Thursday, October 17, 2019 7:30 PM'
+date: '1558118175'
+datetime: 'Friday, May 17, 2019 7:30 PM'
 featuredGig: true
 ---
-Shantymen in Concert
+Performing at the Crab & Lobster Festival at Cromer Pier Pavilion Theatre
 
-2 x 60 min sessions
-
-Cromer Pier Pavilion Theatre.
-
-End of Season Charity Show
+2 x 45 sets
