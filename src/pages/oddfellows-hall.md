@@ -14,7 +14,8 @@ The Hall is a stunning place to hold meetings and functions venue in the heart o
 
 > The new Oddfellows Hall features an impressive timber framed glass and steel entrance in the shape of the prow of a lifeboat.  The Hall, all parts of which are accessible for wheelchair users, is available for hire to any person, organisation or company and offers the following features:
 
-* Ground floor, 70 sq m hall
+* ![](/img/outside-2.jpg)
+  Ground floor, 70 sq m hall
 * First floor 63 sq m mezzanine; stairs, landing and upstairs room all carpeted
 * Kitchen with all cutlery, cups, saucers, plates etc
 * Toilet
