@@ -32,10 +32,12 @@ In March of 2014 the Shantymen made their 6th CD in St Peters Church Sheringham 
 
 In 2015 they celebrated their 25th anniversary and completed three special concerts, two in Sheringham and one in Cromer Pavilion Theatre. It was a great year which they enjoyed immensely and they gave their profound thanks to the people of Norfolk who have supported them throughout.  2016 was another great year for the Shantymen as they welcomed some new younger blood into their midst and these will help develop new ideas and new ways for the future.  They also made their 7th CD at St Peters Church which comprised a selection of their favourite songs.
 
-2018 was again a very busy year with thirty odd gigs including major performances at International Sea Festivals at Falmouth and Great Yarmouth and  in 2017 their first gig at Folk East which they hope will become an annual event.
+In 2017 the Shantymen did over thirty gigs and their very first gig at Folk East which was a lot of fun and a new venue for them. 
+
+2018 was again a very busy year with thirty odd gigs including major performances at International Sea Festivals at Falmouth and Great Yarmouth.
 
 The Shantymen expect 2019 will be another fun filled year and they look forward to finishing the season with another gig at Cromer Pier Pavilion Theatre on Thursday 17th October 2019 with their good friend, journalist, author and all round entertainer Mr Keith Skipper.
 
 Brian J Farrow
 Musical Director
-24th April 2019
+8th May 2019
