@@ -1,7 +1,7 @@
 ---
 templateKey: gig-listing
-location: 'Kelling Heath Holiday Park '
-date: '1562886000'
+location: Kelling Heath Holiday Park
+date: '1562926879'
 datetime: 'Friday, July 12, 2019 7:00 PM'
 ---
 Public performance
