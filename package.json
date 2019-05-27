@@ -5,6 +5,7 @@
   "author": "Austin Green",
   "dependencies": {
     "bulma": "^0.7.5",
+    "check-dependencies": "^1.1.0",
     "disqus-react": "^1.0.5",
     "gatsby": "^2.7.3",
     "gatsby-background-image": "^0.2.74",
