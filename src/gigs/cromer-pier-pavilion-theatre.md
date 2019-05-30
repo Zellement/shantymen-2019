@@ -1,10 +1,11 @@
 ---
 templateKey: gig-listing
 location: Cromer Pier Pavilion Theatre
-date: '1558118175'
-datetime: 'Friday, May 17, 2019 7:30 PM'
-featuredGig: true
+date: '1571332369'
+datetime: 'Thursday, October 17, 2019 7:30 PM'
 ---
-Performing at the Crab & Lobster Festival at Cromer Pier Pavilion Theatre
+Cromer Pier Pavilion Theatre
 
-2 x 45 sets
+Public performance with their good friend, journalist, author and all round entertainer Mr Keith Skipper.
+
+2 x 60 min sessions
