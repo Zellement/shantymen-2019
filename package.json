@@ -6,7 +6,7 @@
   "dependencies": {
     "bulma": "^0.7.5",
     "check-dependencies": "^1.1.0",
-    "disqus-react": "^1.0.5",
+    "disqus-react": "^1.0.6",
     "gatsby": "^2.11.0",
     "gatsby-background-image": "^0.2.74",
     "gatsby-image": "^2.2.3",
