@@ -4,13 +4,13 @@ title: About Us
 subtitle: Learn a little more about The Sheringham Shantymen
 image: /img/fullsizeoutput_b334-1-.jpeg
 ---
-## The First Twenty Five (plus two!) Years …
+## The First Twenty Five (plus four!) Years …
 
 During 1988 a group of local lifeboat men and friends formed a shanty singing group to celebrate the 150th Anniversary of the private sailing and pulling Sheringham lifeboat the ‘Augusta’. They enjoyed the experience so much that they decided to continue. During those first few years as they expanded they welcomed a variety of singers and musicians to join the group but always supporting the RNLI. They formalised the group in 1990 naming themselves the Sheringham Shantymen.
 
 Over the next 28 years the group developed their own style of performing songs of the sea constantly refining their music and always trying to entertain the public and raising funds for charity.
 
-Although the groups members nowadays are from a variety of occupations but they have remained true to their roots and still maintain a very close connection with the RNLI.
+Although the groups members nowadays are from a variety of occupations they have remained true to their roots and still maintain a very close connection with the RNLI.
 
 ![Picture of The Sheringham Shantymen with the Sheringham lifeboat](/img/141005-shantymen-009.jpg "The Sheringham Shantymen are huge supporters of the RNLI")
 
