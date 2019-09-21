@@ -1,8 +1,7 @@
 ---
 templateKey: gig-listing
 location: Holiday Park Venue at Kelling Heath
-date: '1562922702'
-datetime: 'Friday, July 12, 2019 7:00 PM'
+datetime: '1562954412'
 ---
 Public Performance 
 
