@@ -1,8 +1,7 @@
 ---
 templateKey: gig-listing
 location: Downham Market Town Hall
-date: '1559251353'
-datetime: 'Thursday, May 30, 2019 7:00 PM'
+datetime: '1559239230'
 ---
 Downham Market Festival
 
