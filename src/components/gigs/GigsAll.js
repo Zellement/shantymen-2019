@@ -1,6 +1,7 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 import GigsUpcoming from "../../components/gigs/GigsUpcoming"
+import GigsPast from "../../components/gigs/GigsPast"
 
 const GigsAll = () => (
 
@@ -39,6 +40,18 @@ const GigsAll = () => (
                 gigDate={gigdata.node.frontmatter.datetime}
                 gigLocation={gigdata.node.frontmatter.location}
                 gigDetails={gigdata.node.html}
+              />
+              
+            ))}
+          </div>
+          <div className="gigs-all">
+            <h2>Past Gigs</h2>
+            {data.allMarkdownRemark.edges.map(gigdata => (
+
+              <GigsPast
+                key={gigdata.node.frontmatter.datetime}
+                gigDate={gigdata.node.frontmatter.datetime}
+                gigLocation={gigdata.node.frontmatter.location}
               />
               
             ))}

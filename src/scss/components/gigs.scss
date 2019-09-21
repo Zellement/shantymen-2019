@@ -74,14 +74,31 @@
 		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#172957', endColorstr='#0b1328',GradientType=0 ); /* IE6-9 */
 	}
 
+	&__gig--basic {
+		background: #ccc;
+		box-shadow: 0 5px 5px #eee;
+		margin: 5px 0;
+	}
+
 	&__card {
 		width: 50%;
 		padding: 20px;
 		color: $blanc;
-		text-align: center;
+		text-align: left;
 		display: flex;
 		flex-direction: column;	
 		border-bottom: 1px solid darken($deep-blue,33);
+	}
+
+	&__card--full {
+		width: 100%;
+		border: none;
+		padding: 10px 20px;
+	}
+
+	&__card--full h3 {
+		color: #444;
+		font-size: .9em;
 	}
 
 	&__card-content {
