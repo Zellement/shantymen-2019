@@ -1,8 +1,7 @@
 ---
 templateKey: gig-listing
 location: Burnham Deepdale ~ Backpackers Hostel
-date: '1571526000'
-datetime: 'Sunday, October 20, 2019 7:30 PM'
+datetime: '1571596220'
 ---
 Public Event
 
