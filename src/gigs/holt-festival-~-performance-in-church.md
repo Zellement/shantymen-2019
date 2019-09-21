@@ -1,8 +1,7 @@
 ---
 templateKey: gig-listing
 location: Holt Festival ~ Performance in Church
-date: '1564095600'
-datetime: 'Friday, July 26, 2019 12:00 PM'
+datetime: '1564138826'
 ---
 Holt Festival
 
