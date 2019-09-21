@@ -81,7 +81,10 @@ function timeConverter(unixTimestamp){
   var date = a.getDate();
   var hour = a.getHours();
   var min = a.getMinutes();
-  var time = date + ' ' + month + ' ' + year + ' ' + hour + ':' + min;
+  if (min == 0) {
+    min = '00';
+  }
+  var time = date + ' ' + month + ' ' + year + ' @ ' + hour + ':' + min;
   return time;
   //console.log(time);
 }
