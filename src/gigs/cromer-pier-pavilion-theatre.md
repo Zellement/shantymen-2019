@@ -1,8 +1,8 @@
 ---
 templateKey: gig-listing
 location: Cromer Pier Pavilion Theatre
-date: '1571332369'
-datetime: 'Thursday, October 17, 2019 7:30 PM'
+datetime: '66617'
+featuredGig: true
 ---
 Cromer Pier Pavilion Theatre
 
