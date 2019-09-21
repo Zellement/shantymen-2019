@@ -1,8 +1,7 @@
 ---
 templateKey: gig-listing
 location: Falmouth International Sea Shanty Festival
-date: '1560547419'
-datetime: 'Friday, June 14, 2019 10:00 AM'
+datetime: '1560502814'
 ---
 Sea Shanty Festival all weekend
 
