@@ -8,7 +8,7 @@ const GigsUpcoming = () => (
       query={graphql`
         {
           allMarkdownRemark(sort: {
-            fields: [frontmatter___date], order: ASC},
+            fields: [frontmatter___datetime], order: ASC},
             filter: {
               frontmatter: {
                 templateKey: {eq: "gig-listing"},
@@ -20,7 +20,6 @@ const GigsUpcoming = () => (
                 html
                 id
                 frontmatter {
-                  date
                   location
                   datetime
                 }
@@ -28,6 +27,7 @@ const GigsUpcoming = () => (
             }
           }
         }
+        
       `}
       render={data => (
           <div className="gigs">

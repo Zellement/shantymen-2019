@@ -3,8 +3,6 @@ import { StaticQuery, graphql } from "gatsby"
 import { HTMLContent } from '../../components/Content'
 import { GiPositionMarker, GiCalendar } from 'react-icons/gi'
 
-
-
 const GigsAll = () => (
 
 	<StaticQuery
@@ -33,7 +31,6 @@ const GigsAll = () => (
 
 	    render={data => (
         <div>
-
           <div className="gigs-all">
             <h2>Gig Listings</h2>
             {data.allMarkdownRemark.edges.map(gigdata => (
@@ -42,16 +39,8 @@ const GigsAll = () => (
                   <div className="gigs-all__card-content">
                     <GiCalendar className="gigs-all__icon" />
                     <h3 className="gigs-all__datetime" key={gigdata.node.frontmatter.datetime}>
-                    {//gigdata.node.frontmatter.datetime
-                    }
-
-                    {
-                      //const unixDate = gigdata.node.frontmatter.date;
-                      timeConverter(gigdata.node.frontmatter.datetime)
-                    }
-
+                      { timeConverter(gigdata.node.frontmatter.datetime) }
                     </h3>
-
                   </div>
                 </div>
                 <div className="gigs-all__card gigs-all__card-orange">
@@ -69,8 +58,6 @@ const GigsAll = () => (
 	  />
 )
 
-
-
 function timeConverter(unixTimestamp){
   var a = new Date(unixTimestamp * 1000);
   var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
@@ -79,13 +66,11 @@ function timeConverter(unixTimestamp){
   var date = a.getDate();
   var hour = a.getHours();
   var min = a.getMinutes();
-  if (min == 0) {
+  if (min === 0) {
     min = '00';
   }
   var time = date + ' ' + month + ' ' + year + ' @ ' + hour + ':' + min;
   return time;
-  //console.log(time);
 }
-//console.log(timeConverter(0));
 
 export default GigsAll
