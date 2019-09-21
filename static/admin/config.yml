@@ -82,8 +82,7 @@ collections:
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "gig-listing"}
       - {label: "Location", name: "location", widget: "string"}
-      - {label: "Date", name: "date", widget: "date", format: "X"}
-      - {label: "Date / Time", name: "datetime", widget: "datetime", format: "LLLL"}
+      - {label: "Date / Time", name: "datetime", widget: "datetime", format: "X"}
       - {label: "Featured Gig", name: "featuredGig", widget: "boolean", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
