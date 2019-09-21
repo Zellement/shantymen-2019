@@ -1,8 +1,7 @@
 ---
 templateKey: gig-listing
 location: Lobster Pub Beer Garden
-date: '1562367600'
-datetime: 'Saturday, July 6, 2019 8:00 PM'
+datetime: '1562439606'
 ---
 Shantymen in Concert
 
