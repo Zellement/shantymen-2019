@@ -1,8 +1,7 @@
 ---
 templateKey: gig-listing
 location: Knights Hill Hotel - Kings Lynn
-date: '1574454225'
-datetime: 'Friday, November 22, 2019 8:00 PM'
+datetime: '1574449222'
 featuredGig: false
 ---
 1 x 60 mins 
