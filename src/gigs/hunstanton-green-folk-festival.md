@@ -1,8 +1,7 @@
 ---
 templateKey: gig-listing
 location: Hunstanton Green Folk Festival
-date: '1567810800'
-datetime: 'Saturday, September 7, 2019 4:00 PM'
+datetime: '1567868407'
 ---
 Public Event - Folk Festival
 
