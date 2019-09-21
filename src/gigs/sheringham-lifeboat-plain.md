@@ -1,8 +1,7 @@
 ---
 templateKey: gig-listing
 location: Sheringham Lifeboat Plain
-date: '1565218800'
-datetime: 'Thursday, August 8, 2019 7:30 PM'
+datetime: '1565289008'
 featuredGig: true
 ---
 Carnival Concert - Free
