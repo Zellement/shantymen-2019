@@ -1,8 +1,7 @@
 ---
 templateKey: gig-listing
 location: Lobster Pub ~ Beer Garden
-date: '1558220400'
-datetime: 'Sunday, May 19, 2019 12:30 PM'
+datetime: '1558265419'
 featuredGig: true
 ---
 Crab & Lobster Celebration
