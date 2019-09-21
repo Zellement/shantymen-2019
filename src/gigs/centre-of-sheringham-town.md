@@ -1,8 +1,7 @@
 ---
 templateKey: gig-listing
 location: Centre of Sheringham town
-date: '1568415600'
-datetime: 'Saturday, September 14, 2019 12:00 PM'
+datetime: '1568458814'
 ---
 Sheringham 40's weekend
 
