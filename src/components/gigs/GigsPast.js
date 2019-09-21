@@ -1,5 +1,4 @@
 import React from "react"
-import { HTMLContent } from '../../components/Content'
 
 const dateNow = Date.now()/1000;
 
@@ -22,9 +21,7 @@ const GigsPast = ( {gigDate, gigLocation, gigDetails} ) => {
     )
   }
   else {
-    return (
-    <div></div>
-    )
+    return 0;
   }
 }
 

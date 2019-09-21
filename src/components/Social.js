@@ -7,8 +7,8 @@ const SocialIcons = class extends React.Component {
 	
 		return(
 			<div className="social-icons">
-				<a href="https://en-gb.facebook.com/Sheringhamshantymen/"><FaFacebookSquare /></a>
-				<a href="https://twitter.com/s_shantymen"><FaTwitterSquare /></a>
+				<a aria-label="Find us on Facebook" href="https://en-gb.facebook.com/Sheringhamshantymen/"><FaFacebookSquare /></a>
+				<a aria-label="Follow us on Twitter" href="https://twitter.com/s_shantymen"><FaTwitterSquare /></a>
 			</div>
 		)
 	}

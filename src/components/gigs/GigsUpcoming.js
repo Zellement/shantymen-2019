@@ -36,9 +36,7 @@ const GigsUpcoming = ( {gigDate, gigLocation, gigDetails} ) => {
     )
   }
   else {
-    return (
-    <div></div>
-    )
+    return 0;
   }
 }
 

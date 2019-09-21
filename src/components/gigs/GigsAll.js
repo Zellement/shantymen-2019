@@ -61,15 +61,4 @@ const GigsAll = () => (
 	  />
 )
 
-
-
-function checkPassedGig(dateGig){
-  const dateNow = (Date.now()/1000);
-  //console.log("The date now is " + dateNow + ". The date of this gig is " + dateGig)
-  if (dateNow < dateGig) {
-    //console.log("Hello")
-    const gigHasPassed = true;
-  }
-}
-
 export default GigsAll
