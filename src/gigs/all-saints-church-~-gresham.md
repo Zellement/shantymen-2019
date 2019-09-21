@@ -1,8 +1,7 @@
 ---
 templateKey: gig-listing
 location: All Saints Church ~ Gresham
-date: '1572044400'
-datetime: 'Saturday, October 26, 2019 7:30 PM'
+datetime: '1572114626'
 ---
 Public Event
 
