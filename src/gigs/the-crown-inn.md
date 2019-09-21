@@ -1,8 +1,7 @@
 ---
 templateKey: gig-listing
 location: The Crown Inn
-date: '1567292400'
-datetime: 'Sunday, September 1, 2019 2:00 PM'
+datetime: '1567342801'
 ---
 Public event Crown Garden
 
