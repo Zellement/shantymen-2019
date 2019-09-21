@@ -1,8 +1,7 @@
 ---
 templateKey: gig-listing
 location: 'Assembly Rooms, Swaffham'
-date: '1569020400'
-datetime: 'Saturday, September 21, 2019 7:30 PM'
+datetime: '1569090621'
 ---
 Shantymen in concert
 
