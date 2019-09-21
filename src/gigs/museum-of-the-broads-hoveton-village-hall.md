@@ -1,8 +1,7 @@
 ---
 templateKey: gig-listing
 location: 'Museum of the Broads, Hoveton Village Hall'
-date: '1558732897'
-datetime: 'Friday, May 24, 2019 7:30 PM'
+datetime: '1558722624'
 featuredGig: false
 ---
 Public Performance
