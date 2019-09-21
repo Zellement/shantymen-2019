@@ -1,8 +1,7 @@
 ---
 templateKey: gig-listing
 location: Sheringham Lifeboat Station
-date: '1565478000'
-datetime: 'Sunday, August 11, 2019 1:00 PM'
+datetime: '1565524811'
 featuredGig: true
 ---
 Lifeboat Day
