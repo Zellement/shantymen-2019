@@ -1,8 +1,7 @@
 ---
 templateKey: gig-listing
 location: Cromer Lifeboat Station
-date: '1564268400'
-datetime: 'Sunday, July 28, 2019 3:00 PM'
+datetime: '1564322428'
 ---
 Cromer Lifeboat Day ~ Shantymen in Concert
 
