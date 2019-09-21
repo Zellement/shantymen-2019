@@ -6,7 +6,7 @@ import { HTMLContent } from '../components/Content'
 import { DiscussionEmbed } from "disqus-react"
 import SpotifyPlayer from "../components/SpotifyPlayer"
 import SocialIcons from "../components/Social"
-import GigsUpcoming from "../components/gigs/GigsUpcoming"
+import GigsFeatured from "../components/gigs/GigsFeatured"
 import Hero from '../components/Hero'
 import FullImageBg from '../components/FullImageBg'
 
@@ -31,7 +31,7 @@ function GuestbookPage({ data }) {
         <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
         </div>
         <div className="main-content__aside">
-          <GigsUpcoming />
+          <GigsFeatured />
           <SpotifyPlayer />
           <SocialIcons />
         </div>

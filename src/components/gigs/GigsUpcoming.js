@@ -1,61 +1,61 @@
 import React from "react"
-import { StaticQuery, graphql } from "gatsby"
-import AnimatedLink from "../AnimatedLink"
-import { GiCalendar } from 'react-icons/gi'
+import { HTMLContent } from '../../components/Content'
+import { GiPositionMarker, GiCalendar } from 'react-icons/gi'
 
-const GigsUpcoming = () => (
-  <StaticQuery
-      query={graphql`
-        {
-          allMarkdownRemark(sort: {
-            fields: [frontmatter___datetime], order: ASC},
-            filter: {
-              frontmatter: {
-                templateKey: {eq: "gig-listing"},
-                featuredGig:{eq: true}
-              }
-            }) {
-            edges {
-              node {
-                html
-                id
-                frontmatter {
-                  location
-                  datetime
-                }
-              }
-            }
-          }
-        }
+const dateNow = Date.now()/1000;
 
-      `}
-      render={data => (
-          <div className="gigs">
-            <h2>Featured Gigs</h2>
-            <p>We have some great gigs lined up, see them below. Alternatively, you can <AnimatedLink className="btn btn--orange" to="/gigs">see all our gigs</AnimatedLink></p>
-            {data.allMarkdownRemark.edges.map(gigdata => (
-              <div className="gigs__gig" key={gigdata.node.frontmatter.location + gigdata.node.frontmatter.datetime}>
-                <h3 key={gigdata.node.frontmatter.datetime}><GiCalendar /> { timeConverter(gigdata.node.frontmatter.datetime) }</h3>
-                <p className="gigs__location" key={gigdata.node.frontmatter.location}>{gigdata.node.frontmatter.location}</p>
-              </div>
-            ))}
+const GigsUpcoming = ( {gigDate, gigLocation, gigDetails} ) => {
+
+  if (gigDate >= dateNow){
+
+    return (
+
+    <div>
+
+      <div className="gigs-all__gig">
+        <div className="gigs-all__card">
+          <div className="gigs-all__card-content">
+            <GiCalendar className="gigs-all__icon" />
+            <h3 className="gigs-all__datetime">{timeConverter(gigDate)}</h3>
           </div>
-      )}
-    />
-)
+        </div>
+
+        <div className="gigs-all__card gigs-all__card-orange">
+          <div className="gigs-all__card-content">
+            <GiPositionMarker className="gigs-all__icon" />
+            <h3 className="gigs-all__location">{gigLocation}</h3>
+          </div>
+        </div>
+
+        <HTMLContent className="gigs-all__content" content={gigDetails} />
+
+      </div>
+
+    </div>
+
+    )
+  }
+  else {
+    return (
+    <div></div>
+    )
+  }
+}
 
 function timeConverter(unixTimestamp){
   var a = new Date(unixTimestamp * 1000);
   var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  var days = ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'];
   var year = a.getFullYear();
   var month = months[a.getMonth()];
   var date = a.getDate();
+  var day = days[a.getDay()];
   var hour = a.getHours();
   var min = a.getMinutes();
   if (min === 0) {
     min = '00';
   }
-  var time = date + ' ' + month + ' ' + year + ' @ ' + hour + ':' + min;
+  var time = day + ', ' + date + ' ' + month + ' ' + year + ' @ ' + hour + ':' + min;
   return time;
 }
 
