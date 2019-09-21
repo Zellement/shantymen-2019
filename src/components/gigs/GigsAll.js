@@ -45,8 +45,6 @@ const GigsAll = () => (
                     {//gigdata.node.frontmatter.datetime
                     }
 
-
-
                     {
                       //const unixDate = gigdata.node.frontmatter.date;
                       timeConverter(gigdata.node.frontmatter.datetime)
