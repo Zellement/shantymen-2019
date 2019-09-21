@@ -1,8 +1,7 @@
 ---
 templateKey: gig-listing
 location: Potty Festival ~ Lifeboat Plain
-date: '1562367600'
-datetime: 'Saturday, July 6, 2019 1:00 PM'
+datetime: '1562414406'
 ---
 Shantymen in Concert
 
