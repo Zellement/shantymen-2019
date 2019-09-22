@@ -45,7 +45,7 @@ const GigsUpcoming = ( {gigDate, gigLocation, gigDetails} ) => {
 function timeConverter(unixTimestamp){
   var a = new Date(unixTimestamp * 1000);
   var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-  var days = ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'];
+  var days = ['Sunday', 'Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
   var year = a.getFullYear();
   var month = months[a.getMonth()];
   var date = a.getDate();
