@@ -36,7 +36,7 @@ In 2017 the Shantymen did over thirty gigs and their very first gig at Folk East
 
 2018 was again a very busy year with thirty odd gigs including major performances at International Sea Festivals at Falmouth and Great Yarmouth.
 
-The Shantymen expect 2019 will be another fun filled year and they look forward to finishing the season with another gig at Cromer Pier Pavilion Theatre on Thursday 17th October 2019 with their good friend, journalist, author and all round entertainer Mr Keith Skipper.
+The Shantymen expect 2019 will be another fun filled year and they look forward to finishing the season with another gig at **_Cromer Pier Pavilion Theatre on_** _**Thursday 17th October 2019**_ with their good friend, journalist, author and all round entertainer Mr Keith Skipper.
 
 Brian J Farrow
 Musical Director
