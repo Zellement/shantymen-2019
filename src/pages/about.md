@@ -4,7 +4,7 @@ title: About Us
 subtitle: Learn a little more about The Sheringham Shantymen
 image: /img/fullsizeoutput_b334-1-.jpeg
 ---
-## The First Twenty Five (plus four!) Years …
+## The First Twenty Five (almost 30) Years …
 
 During 1988 a group of local lifeboat men and friends formed a shanty singing group to celebrate the 150th Anniversary of the private sailing and pulling Sheringham lifeboat the ‘Augusta’. They enjoyed the experience so much that they decided to continue. During those first few years as they expanded they welcomed a variety of singers and musicians to join the group but always supporting the RNLI. They formalised the group in 1990 naming themselves the Sheringham Shantymen.
 
@@ -36,8 +36,8 @@ In 2017 the Shantymen did over thirty gigs and their very first gig at Folk East
 
 2018 was again a very busy year with thirty odd gigs including major performances at International Sea Festivals at Falmouth and Great Yarmouth.
 
-The Shantymen expect 2019 will be another fun filled year and they look forward to finishing the season with another gig at **_Cromer Pier Pavilion Theatre on_** _**Thursday 17th October 2019**_ with their good friend, journalist, author and all round entertainer Mr Keith Skipper.
+As 2019 draws near to the end of the season, the Shantymen can reflect on their exceptional performaces in 2019 culminating with the gig at _**Cromer Pier Pavilion Theatre on**_ **_Thursday 17th October 2019_** with their good friend, journalist, author and all round entertainer Mr Keith Skipper. At this gig the Shantymen were able to donate all of the profits from the Pier gig, some £6,000, split between the charities of Cromer & Sheringham RNLI and Nelsons Journey.
 
 Brian J Farrow
 Musical Director
-8th May 2019
+1st November 2019
