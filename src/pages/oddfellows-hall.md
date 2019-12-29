@@ -16,7 +16,6 @@ The Hall is a stunning place to hold meetings and functions venue in the heart o
 
 ![](/img/outside-2.jpg)
 
-
 * Ground floor, 70 sq m hall
 * First floor 63 sq m mezzanine; stairs, landing and upstairs room all carpeted
 * Kitchen with all cutlery, cups, saucers, plates etc
@@ -43,3 +42,31 @@ The hall is available seven days a week for hire and can be used as a venue for:
 * Private functions
 
 … as well as many other uses: just ask!
+
+_**The Purpose of Life**_
+
+Imagine, as I start this rhyme,That there is neither space nor time,
+
+And then, for better or for worse, Something begins the universe.
+
+The Big bang happened loud and then, There passed nine billion years, or ten,
+
+Stars formed and galaxies, and then the birthOf this small planet we call earth.
+
+Somewhere beneath the murky ocean, A few cells seemed to get the notion
+
+That they could be like man and wife, And, having fun created life.
+
+The evolution, without pause	Brought mammoths, after dinosaurs,
+
+And frogs and apes – at last came man,For that is how our race began.
+
+And what was all this progress for? That took ten billion years of more?
+
+Creation reached its climax when;
+
+Evolved – THE SHERINGHAM SHANTYMEN!
+
+
+
+**_Author: Peter Page circa 2001_**
