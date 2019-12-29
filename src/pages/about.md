@@ -8,7 +8,7 @@ image: /img/fullsizeoutput_b334-1-.jpeg
 
 During 1988 a group of local lifeboat men and friends formed a shanty singing group to celebrate the 150th Anniversary of the private sailing and pulling Sheringham lifeboat the ‘Augusta’. They enjoyed the experience so much that they decided to continue. During those first few years as they expanded they welcomed a variety of singers and musicians to join the group but always supporting the RNLI. They formalised the group in 1990 naming themselves the Sheringham Shantymen.
 
-Over the next 28 years the group developed their own style of performing songs of the sea constantly refining their music and always trying to entertain the public and raising funds for charity.
+Over the next 29 years the group developed their own style of performing songs of the sea constantly refining their music and always trying to entertain the public and raising funds for charity.
 
 Although the groups members nowadays are from a variety of occupations they have remained true to their roots and still maintain a very close connection with the RNLI.
 
@@ -32,12 +32,10 @@ In March of 2014 the Shantymen made their 6th CD in St Peters Church Sheringham 
 
 In 2015 they celebrated their 25th anniversary and completed three special concerts, two in Sheringham and one in Cromer Pavilion Theatre. It was a great year which they enjoyed immensely and they gave their profound thanks to the people of Norfolk who have supported them throughout.  2016 was another great year for the Shantymen as they welcomed some new younger blood into their midst and these will help develop new ideas and new ways for the future.  They also made their 7th CD at St Peters Church which comprised a selection of their favourite songs.
 
-In 2017 the Shantymen did over thirty gigs and their very first gig at Folk East which was a lot of fun and a new venue for them. 
+In 2017 the Shantymen did over thirty gigs and their very first gig at Folk East which was a lot of fun and a new venue for them.  2018 was again a very busy year with thirty odd gigs including major performances at International Sea Festivals at Falmouth and Great Yarmouth.
 
-2018 was again a very busy year with thirty odd gigs including major performances at International Sea Festivals at Falmouth and Great Yarmouth.
-
-As 2019 draws near to the end of the season, the Shantymen can reflect on their exceptional performaces in 2019 culminating with the gig at _**Cromer Pier Pavilion Theatre on**_ **_Thursday 17th October 2019_** with their good friend, journalist, author and all round entertainer Mr Keith Skipper. At this gig the Shantymen were able to donate all of the profits from the Pier gig, some £6,000, split between the charities of Cromer & Sheringham RNLI and Nelsons Journey.
+As we move into 2020 the Shantymen reflect on their exceptional performaces in 2019 culminating with the gig at **_Cromer Pier Pavilion Theatre on_** _**Thursday 17th October 2019**_ with their good friend, journalist, author and all round entertainer Mr Keith Skipper. At this gig the Shantymen were able to donate all of the profits from the Pier gig, some £6,000, split between the charities of Cromer & Sheringham RNLI and Nelsons Journey.
 
 Brian J Farrow
 Musical Director
-1st November 2019
+29th December 2019
