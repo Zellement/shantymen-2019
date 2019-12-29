@@ -69,7 +69,7 @@ And frogs and apes – at last came man
 ,For that is how our race began.
 
 And what was all this progress for?
- That took ten billion years of more?
+ That took ten billion years or more?
 
 Creation reached its climax when;
 
