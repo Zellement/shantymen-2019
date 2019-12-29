@@ -43,30 +43,36 @@ The hall is available seven days a week for hire and can be used as a venue for:
 
 … as well as many other uses: just ask!
 
-_**The Purpose of Life**_
+**_The Purpose of Life_**
 
-Imagine, as I start this rhyme,That there is neither space nor time,
+Imagine, as I start this rhyme,
+That there is neither space nor time,
 
-And then, for better or for worse, Something begins the universe.
+And then, for better or for worse,
+ Something begins the universe.
 
-The Big bang happened loud and then, There passed nine billion years, or ten,
+The Big bang happened loud and then,
+ There passed nine billion years, or ten,
 
-Stars formed and galaxies, and then the birthOf this small planet we call earth.
+Stars formed and galaxies, and then the birth
+Of this small planet we call earth.
 
-Somewhere beneath the murky ocean, A few cells seemed to get the notion
+Somewhere beneath the murky ocean
+, A few cells seemed to get the notion
 
-That they could be like man and wife, And, having fun created life.
+That they could be like man and wife
+, And, having fun created life.
 
-The evolution, without pause	Brought mammoths, after dinosaurs,
+The evolution, without pause	Brought mammoths, after dinosaurs,
 
-And frogs and apes – at last came man,For that is how our race began.
+And frogs and apes – at last came man
+,For that is how our race began.
 
-And what was all this progress for? That took ten billion years of more?
+And what was all this progress for?
+ That took ten billion years of more?
 
 Creation reached its climax when;
 
-Evolved – THE SHERINGHAM SHANTYMEN!
+Evolved – THE SHERINGHAM SHANTYMEN!
 
-
-
-**_Author: Peter Page circa 2001_**
+_**Author: Peter Page circa 2001**_
