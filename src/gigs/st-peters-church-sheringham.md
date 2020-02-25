@@ -2,6 +2,7 @@
 templateKey: gig-listing
 location: 'St Peters Church, Sheringham'
 datetime: '1585423820'
+featuredGig: true
 ---
 Public Performance
 
