@@ -10,4 +10,4 @@ Have a browse through some of our historical photos.
 
 ![](/img/140315-shantymen-0003.jpg)
 
-![](/img/100507_heroes_034.jpg)
+![](/img/shantymen-2019.jpg "Shantymen 2019")
