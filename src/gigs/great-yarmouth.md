@@ -1,6 +1,8 @@
 ---
 templateKey: gig-listing
-location: 'Great Yarmouth '
-datetime: '1599908400'
+location: 'Great Yarmouth Maritme Festival '
+datetime: '1599901200'
 ---
-Possible Gig at Great Yarmouth - Details yet to be agreed.
+Great Yarmouth Maritime Festival
+
+Timing & Details yet to be agreed.
