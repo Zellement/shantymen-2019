@@ -1,6 +1,10 @@
 ---
 templateKey: gig-listing
-location: Stalham
-datetime: '1603562400'
+location: St Mary's Church Stalham
+datetime: '1603564200'
 ---
-Possible gig at Stalham - Details yet to be agreed.
+St Mary's Church Stalham 
+
+Public performance
+
+2 x 45 min sessions
