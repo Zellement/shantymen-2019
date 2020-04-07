@@ -13,6 +13,10 @@ function StandardPage({ data }) {
 
   const post = data.markdownRemark
 
+  const pageName = post.frontmatter.title
+
+  console.log(pageName)
+
   return (
     <div>
       <FullImageBg bgImage={post.frontmatter.image.childImageSharp.fluid} />
@@ -20,6 +24,10 @@ function StandardPage({ data }) {
       <Hero h1={post.frontmatter.title} h2={post.frontmatter.subtitle} />
       <div className="main-content">
         <div className="main-content__copy">
+          {
+            ((pageName === 'Gallery') ? 
+            <><div class='embed-container'><iframe src='https://www.youtube.com/embed/2ZCUn2-KLBA' frameBorder='0' allowFullScreen></iframe></div></> : null)
+          }
           <HTMLContent content={post.html} />
         </div>
         <div className="main-content__aside">
