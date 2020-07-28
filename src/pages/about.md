@@ -38,7 +38,7 @@ In 2017 the Shantymen did over thirty gigs and their very first gig at Folk East
 
 2020 will be our 30th Anniversary year and somewhat special. We have been planning a series of local gigs at Local Theatres (see gig list) where we can meet our local audiences and thank them for their support over the last thirty years. Our first significant gig of the year will be at St Peters Church Sheringham on Saturday 28th March 2020 @7.30 pm.
 
-![On Thursday 6th Aug at 7.30pm the Shantymen will be forforming a virtual concert for Sheringham Carnival and it can be watched on our Facebook page at: facebook.com/sheringhamshantymen   -  ](/img/virtual-carnival-.jpg "Sheringham Santymen Virtual Carnival Concert ")
+![On Thursday 6th Aug 20 at 7.30pm the Shantymen will be performing a virtual concert for Sheringham Carnival and it can be watched on our Facebook page at: facebook.com/sheringhamshantymen](/img/virtual-carnival-.jpg "Sheringham Santymen Virtual Carnival Concert ")
 
 Brian J Farrow Musical Director
 28th July 2020
