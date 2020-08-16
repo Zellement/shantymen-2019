@@ -36,7 +36,9 @@ In 2017 the Shantymen did over thirty gigs and their very first gig at Folk East
 
 2019 was as usual a very busy year culminating with the gig at Cromer Pier Pavilion Theatre on Thursday 17th October 2019 with their good friend, journalist, author and all round entertainer Mr Keith Skipper. At this gig the Shantymen were able to donate all of the profits from the Pier gig, some £6,000, split between the charities of Cromer & Sheringham RNLI and Nelsons Journey.
 
-Although 2020 is our 30th Anniversary year and somewhat special we are left in a very surreal situation with the impacts of Covid19. We had been planning a series of local gigs at Local Theatres but that was not to be. We have though put a series of virtual songs together for the Sheringham Carnival which are to be aired on our Facebook page as well as the Carnival Facebook page on Thursday 6th August at 7.30 pm and I hope you are able to sign in and enjoy a song or two.
+Although 2020 is the Shantymens 30th Anniversary year and somewhat special they are left in a very surreal situation with the impacts of Covid19. They had been planning a series of local gigs at Local Theatres but that was not to be thus they have put a series of virtual songs together for the Sheringham Carnival which were aired on their Facebook page and  the Carnival Facebook page on Thursday 6th August at 7.30 pm and they hope you signed in to enjoy a song or two.
+
+Feedback from their Facebook page was very positive and they thank you and Sheringham Carnival organisers for everything you did.  
 
 ![](/img/virtual-carnival-.jpg)
 
