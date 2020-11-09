@@ -4,8 +4,6 @@ title: Discography
 subtitle: See our full collection of albums available
 image: /img/fullsizeoutput_b19c.jpeg
 ---
-CDs are available at concerts or by post from Brian Farrow or Dick Grieve ~ Sheringham Shantymen Sales. 
+CDs are available at concerts or by post from Rob Denny ~ Sheringham Shantymen Sales. 
 
-Please email dick.grieve@shantymen.com.  or  brian.farrow@shantymen.com 
-
-leave your phone number and we will get in touch.
+Please email rob.denny56@gmail.com  leave your phone number and he will get in touch.
