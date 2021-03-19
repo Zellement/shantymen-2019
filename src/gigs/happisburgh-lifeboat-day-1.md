@@ -1,6 +1,6 @@
 ---
 templateKey: gig-listing
-location: 'Happisburgh Lifeboat Day '
-datetime: '1627822800'
+location: Westacre Theatre
+datetime: '1628420400'
 ---
-Happisbiurgh Lifeboat Day
+Westacre Theatre
