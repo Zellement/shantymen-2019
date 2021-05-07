@@ -1,6 +1,6 @@
 ---
 templateKey: gig-listing
-location: Westacre Theatre Kings Lynn
-datetime: '1620385256'
+location: Kelling Heath
+datetime: '1628618456'
 ---
-2 x 45 mins
+Public Performance 2 x 45 mins
