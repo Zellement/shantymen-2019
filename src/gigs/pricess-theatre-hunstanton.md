@@ -1,8 +1,8 @@
 ---
 templateKey: gig-listing
-location: Pricess Theatre HUnstanton
-datetime: '1630693854'
+location: 'The Crown Inn PH Sheringham '
+datetime: '1630846854'
 ---
 2 x 45 mins Sessions
 
-Working with Olly Day & Nigel Boy Syer
+Pub Garden
