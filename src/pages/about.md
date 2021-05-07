@@ -38,7 +38,11 @@ In 2017 the Shantymen did over thirty gigs and their very first gig at Folk East
 
 Although 2020 was the Shantymens 30th Anniversary year and somewhat special they were left in a very surreal situation with the impacts of Covid19. They had been planning a series of local gigs at Local Theatres but that was not to be thus they put a series of virtual songs together for the Sheringham Carnival which were aired on their Facebook page and the Carnival Facebook page on Thursday 6th August at 7.30 pm. 
 
-It is now March 2021 and the group are picking up the threads and have booked a few tentative gigs to start later in the year. They look forward to performing again and meeting up with old friends 
+It is now 7th May 2021 and the group are picking up the threads and have booked a few tentative gigs to start later in the year. They have agreed a date of Sunday 14th November 2021 with Openwide to revisit Cromer Pier Pavilion Theatre to do a gig with their good freind and all round entertainer Mr Keith Skipper and look forward to performing again and meeting up with old friends.
+
+Brian J Farrow
+
+Musical Director 
 
 ![](/img/virtual-carnival-.jpg)
 
