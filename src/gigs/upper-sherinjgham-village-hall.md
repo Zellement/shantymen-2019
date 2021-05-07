@@ -1,6 +1,10 @@
 ---
 templateKey: gig-listing
-location: Upper Sherinjgham Village Hall
-datetime: '1626546609'
+location: 'Happisburgh Lifeboat Day '
+datetime: '1627822809'
 ---
-Private Celebration
+Happoisburgh Lifeboat Day Celebration
+
+Happisburgh Lifeboat Station at Beach Road Cart Gap
+
+2 x 45 mins
