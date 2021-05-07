@@ -1,10 +1,6 @@
 ---
 templateKey: gig-listing
-location: The Crown Inn Public House
-datetime: '1629032433'
+location: WElls Maltings Theatre
+datetime: '1630089033'
 ---
-Pub Garden
-
-2 x 45 mins 
-
-Public Performance
+2 x 45 Mins session in THeatre
