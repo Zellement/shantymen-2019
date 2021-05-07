@@ -1,8 +1,9 @@
 ---
 templateKey: gig-listing
-location: 'Burham Overy '
-datetime: '1631358031'
+location: Cromer Pier Pavilion Theatre
+datetime: '1636891231'
+featuredGig: true
 ---
-Private Wedding Gig
+Come and join Mr Keith Skipper and the Sheringham Shantymen at a charity concert for the benefit of Cromer & Sheringham RNLI and the Sir Norman Lamb Mental Health and Wellbeing Fund.
 
-Time & detail yet to be agreed.
+Box Office 01263 512 495 \~ Starts 7.30 pm \~ Tickets £15
