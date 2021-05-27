@@ -1,6 +1,6 @@
 ---
 templateKey: gig-listing
-location: ST Marys Church Stalham
+location: St Marys Church Stalham
 datetime: '1633199431'
 ---
 Public Performance
