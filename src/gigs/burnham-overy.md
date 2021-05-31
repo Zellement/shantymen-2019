@@ -1,10 +1,8 @@
 ---
 templateKey: gig-listing
-location: Burnham Overy
-datetime: '1631358000'
+location: 'All Saint''s Church ~ Sudbury '
+datetime: '1631989800'
 ---
-Private Gig
+Public Performance
 
-Flora & Gus Wedding
-
-With time & content yet to be agreed
+2 x 45 min sessions
