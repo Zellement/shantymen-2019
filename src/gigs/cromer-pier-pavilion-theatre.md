@@ -2,7 +2,7 @@
 templateKey: gig-listing
 location: Cromer Pier Pavilion Theatre
 datetime: '1571337017'
-featuredGig: true
+featuredGig: false
 ---
 Cromer Pier Pavilion Theatre
 
