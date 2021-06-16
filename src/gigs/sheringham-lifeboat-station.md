@@ -2,7 +2,7 @@
 templateKey: gig-listing
 location: Sheringham Lifeboat Station
 datetime: '1565524811'
-featuredGig: true
+featuredGig: false
 ---
 Lifeboat Day
 
