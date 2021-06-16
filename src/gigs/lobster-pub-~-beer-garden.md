@@ -2,7 +2,7 @@
 templateKey: gig-listing
 location: Lobster Pub ~ Beer Garden
 datetime: '1558265419'
-featuredGig: true
+featuredGig: false
 ---
 Crab & Lobster Celebration
 
