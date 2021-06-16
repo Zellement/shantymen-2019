@@ -2,7 +2,7 @@
 templateKey: gig-listing
 location: Cromer Pier Pavilion Theatre
 datetime: '1604259000'
-featuredGig: true
+featuredGig: false
 ---
 30th Anniversary Performance at Cromer Pier Pavilion Theatre
 
