@@ -2,7 +2,7 @@
 templateKey: gig-listing
 location: Sheringham Lifeboat Plain
 datetime: '1565289008'
-featuredGig: true
+featuredGig: false
 ---
 Carnival Concert - Free
 
