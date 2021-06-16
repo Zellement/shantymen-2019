@@ -2,7 +2,7 @@
 templateKey: gig-listing
 location: Falmouth International Sea Shanty Festival ~ weekend 12th 13th & 14th June
 datetime: '1591916400'
-featuredGig: true
+featuredGig: false
 ---
 A weekend of Shanty singing at Falmouth on Friday Saturday & Sunday 12/14 June 2020
 
