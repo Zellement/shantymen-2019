@@ -2,7 +2,7 @@
 templateKey: gig-listing
 location: Sheringham Little Theatre
 datetime: '1590258649'
-featuredGig: true
+featuredGig: false
 ---
 Public Performance at Sheringham LIttle Theatre
 
