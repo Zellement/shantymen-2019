@@ -2,7 +2,7 @@
 templateKey: gig-listing
 location: Cromer Pier Pavilion Theatre
 datetime: '1636891231'
-featuredGig: false
+featuredGig: true
 ---
 Come and join Mr Keith Skipper and the Sheringham Shantymen at a charity concert for the benefit of Cromer & Sheringham RNLI and the Sir Norman Lamb Mental Health and Wellbeing Fund.
 
