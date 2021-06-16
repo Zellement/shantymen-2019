@@ -2,7 +2,7 @@
 templateKey: gig-listing
 location: 'Yarmouth ~ Isle of Wight '
 datetime: '1590751800'
-featuredGig: true
+featuredGig: false
 ---
 Yarmouth ~ Isle of Wight Weekend 29, 30 & 31 May 2020
 
