@@ -2,6 +2,7 @@
 templateKey: gig-listing
 location: 'Happisburgh Lifeboat Day '
 datetime: '1627822800'
+featuredGig: true
 ---
 Happisbiurgh Lifeboat Day
 
