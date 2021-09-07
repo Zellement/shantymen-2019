@@ -1,6 +1,6 @@
 ---
 templateKey: gig-listing
 location: 'Erpingham Village Hall '
-datetime: '1635332400'
+datetime: '1635360300'
 ---
-Time & detail yet to be agreed
+2 x 45 mins sessions
