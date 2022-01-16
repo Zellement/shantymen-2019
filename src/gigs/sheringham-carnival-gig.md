@@ -1,8 +1,10 @@
 ---
 templateKey: gig-listing
-location: Sheringham Carnival Gig
-datetime: '1659637800'
+location: 'Trunch Concerts @ St Botolph''s Church ~Trunch '
+datetime: '1659810600'
 ---
-Sheringham Carnival Gig 
+Trunch St Botolph's Church
 
-2 x 45 min public sessions
+The medieval church offers an enchanting atmosphere and superb acoustics.
+
+2 x 45 min sessions ~ Public Performance
