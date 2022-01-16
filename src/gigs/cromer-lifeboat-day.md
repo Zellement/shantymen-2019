@@ -1,12 +1,12 @@
 ---
 templateKey: gig-listing
-location: 'Cromer Lifeboat Day '
-datetime: '1659866400'
+location: Halstead Public Gardens
+datetime: '1660482000'
 ---
-Sat 7th August @ 11.00 hrs
+Sunday 14th August @ 2 pm.
 
-Performance for Cromer Lifeboat Day to be held in the Old Lifeboat Station near the gangway
+Performance in Halstead Public Gardens 
 
-1 x 60 min session
+2 x 60 min sessions
 
 Public Performance
