@@ -1,12 +1,10 @@
 ---
 templateKey: gig-listing
-location: '''Folk Off the Pier'' - Cromer'
-datetime: '1651921200'
+location: 'Kelling Heath Holiday Park '
+datetime: '1654970400'
 ---
-New Venue and final details yet to be agreed
+Kelling Heath Holiday Park
 
-7th May 2022
+11th June at 7pm
 
-Possible  in Old L/B station Cromer promenade 
-
-followed by various venues in town
+2 x 60 min sets - Public Performance
