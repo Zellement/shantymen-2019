@@ -1,10 +1,10 @@
 ---
 templateKey: gig-listing
-location: Sheringham Lifeboat Day 2022
-datetime: '1661083200'
+location: 'Kelling Heath Holiday Park ~ Beer Festival '
+datetime: '1662919200'
 ---
-Lunch Time performance at Sheringham Lifeboat Station on Lifeboat day 
+Kelling Heath Holiday Park ~ Beer Festival 
 
-1 x 60  session
+2 x 45 min sessions
 
 Public Performance
