@@ -1,8 +1,10 @@
 ---
 templateKey: gig-listing
 location: 'All Saints Church - Elm Nr Wisbech '
-datetime: '1643382000'
+datetime: '1645887600'
 ---
+All Saints Church - Elm Near Wisbech 
+
 Potential Gig 
 
 Open to Public 
