@@ -1,10 +1,10 @@
 ---
 templateKey: gig-listing
-location: John O'Gaunt School Aylsham
-datetime: '1647869400'
+location: 'Isle of Wight Sea Shanty Festival '
+datetime: '1653606000'
 ---
-John O'Gaunt School Aylsham
+Isle of Wight Sea Shanty Festival 
 
-1 x 60 min session 
+27th, 28th & 29th May 2022
 
-Private gig for pupils
+Gigs @ various locations over weekend
