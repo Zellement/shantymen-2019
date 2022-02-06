@@ -1,8 +1,8 @@
 ---
 templateKey: gig-listing
-location: 'Mundesley ~ Beacon Lighting '
-datetime: '1654196400'
+location: 'Potty Festival - various gigs '
+datetime: '1656716400'
 ---
-Mundesley ~ Beacon Lighting celebration 
+Potty Festival Sat 2nd & Sun 3rd July 2022
 
-1 x 60 min public session
+Various gigs over the weekend ~ details yet to be finalised
