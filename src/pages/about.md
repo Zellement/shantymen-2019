@@ -40,10 +40,12 @@ Although 2020 was the Shantymen's 30th Anniversary year and somewhat special the
 
 In May 2021the group picked up the threads and eventually completed about 10 gigs through to the end of November 2021. They completed their special gig at the Cromer Pier Pavilion Theatre on Sunday 14th November.   Unfortunately their good friend Mr Keith Skipper was indisposed but his colleague and all round entertainer Olly Day took his place and the gig was enormously successful allowing the Shantymen to donate all the gig profits to Sir Norman Lamb Mental Health Charity as well as Comer & Sheringham RNLI's.
 
+Time passes and its now 13th March 2022. The Shantymen have decided to perform a charity concert for the people of Ukraine who are being invaded. Who would ever have thought we would see such barbaric things in 2022.  The concert is to be on Saturday 26th March at St. Peters Church Sheringham. Doors open at 7.00 pm and the concert starts at 7.30. Duncan Baker MP has agreed to introduce the evening. Entrance is free but there is to be a retiring collection.
+
 Brian J Farrow
 
-Musical Director 
+Musical Director - 13th March 2022
 
-![](/img/virtual-carnival-.jpg)
+![](/img/presentation-2.jpg)
 
 Brian J Farrow Musical Director 16 Dec 2021
