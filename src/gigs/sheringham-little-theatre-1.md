@@ -1,8 +1,8 @@
 ---
 templateKey: gig-listing
-location: Sheringham Little Theatre
-datetime: '1662316200'
+location: 'St Georges Theatre Gt Yarmouth '
+datetime: '1662834600'
 ---
-Theatre Public Gig
+Theatre - Public Gig
 
 2 x 45 mins
