@@ -1,10 +1,10 @@
 ---
 templateKey: gig-listing
-location: '''Folk of the Pier'' Cromer'
-datetime: '1651924800'
+location: '''Folk off the Pier'' Cromer'
+datetime: '1651931100'
 ---
-'Folk of the Pier' Cromer. 
+'Folk off the Pier' @ Cromer. 
 
-2 public sessions on Cromer prom near the RNLI Museum
+1  public afternoon session starting at 2.45 pm and singing for 45 mins until 3.00 pm.
 
-at a time to be agreed followed followed by sessions at other venues in Cromer
+We will be singing at the Community Centre in Garden Street (Formerly the WI Hall)
