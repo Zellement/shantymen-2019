@@ -42,10 +42,12 @@ In May 2021the group picked up the threads and eventually completed about 10 gig
 
 In March 2022 the Shantymen decided to perform a charity concert for the people of Ukraine , The concert which was on Saturday 26th March at St. Peters Church Sheringham raised over £5,000 all of which was donated to the Disasters Emergency Fund (DEF).  Entry was free but there was a retiring collection.  The Shantymen were privileged to welcome Michael Gurney DL, The High Sheriff of Norfolk who introduced the event and Duncan Baker MP who summed up at the end of the concert. A great night was had by all.
 
+A﻿s we now approach the autumn we are preparing for our annual Pier show this year and the all-round entertainer Mr Olly Day has been invited to compare our show and bring his own brand of music and comedy to make a wonderful evening of entertainment.  
+
 Brian J Farrow
 
-Musical Director -16th April 2022
+Musical Director -21st October 2022 
 
-![2022 will see the Sheringham Shantymen mark another proud milestone on their musical voyages with a much-anticipated return trip to the Pavilion Theatre at end of Cromer Pier.  Their seventh successive annual show and another cross-border raid in the uplifting names of coastal harmony and deserving local charities is bound to prove yet another resounding success under musical director Brian Farrow and his ever-energetic organising team.   This year the all-round entertainer Mr Olly Day has been invited to compare their show and bring his own brand of music and comedy to make a wonderful evening of entertainment. Throughout the pandemic we managed to keep in touch with our friends by producing a number of virtual videos available on ‘you tube’ which in many ways reflects the way society has been communicating both throughout and during the recovery from the pandemic. ](/img/pier-22.jpg "Cromer Pier Pavilion Theatre Gig ~ Sunday 13th November 2022")
+![ ](/img/pier-22.jpg "Cromer Pier Pavilion Theatre Gig ~ Sunday 13th November 2022")
 
 Brian J Farrow Musical Director 16th April 2022
