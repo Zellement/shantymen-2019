@@ -2,7 +2,7 @@
 templateKey: standard-page
 title: About Us
 subtitle: Learn a little more about The Sheringham Shantymen
-image: /img/fullsizeoutput_b334-1-.jpeg
+image: /img/dsc00798.jpg
 ---
 ## The First Thirty (or so) Years …
 
