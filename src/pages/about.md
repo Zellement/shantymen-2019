@@ -46,6 +46,6 @@ Brian J Farrow
 
 Musical Director -16th April 2022
 
-![St Peters Ukraine Charity Concert Sat 26th March 2022.](/img/photo-.jpg)
+![Cromer Pier Pavilion Gig ~Sunday 13th November 2022 ](/img/pier-22.jpg)
 
 Brian J Farrow Musical Director 16th April 2022
