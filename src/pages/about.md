@@ -46,6 +46,6 @@ Brian J Farrow
 
 Musical Director -16th April 2022
 
-![Cromer Pier Pavilion Gig ~Sunday 13th November 2022 ](/img/pier-22.jpg)
+![2022 will see the Sheringham Shantymen mark another proud milestone on their musical voyages with a much-anticipated return trip to the Pavilion Theatre at end of Cromer Pier.  Their seventh successive annual show and another cross-border raid in the uplifting names of coastal harmony and deserving local charities is bound to prove yet another resounding success under musical director Brian Farrow and his ever-energetic organising team.   This year the all-round entertainer Mr Olly Day has been invited to compare their show and bring his own brand of music and comedy to make a wonderful evening of entertainment. Throughout the pandemic we managed to keep in touch with our friends by producing a number of virtual videos available on ‘you tube’ which in many ways reflects the way society has been communicating both throughout and during the recovery from the pandemic. ](/img/pier-22.jpg "Cromer Pier Pavilion THeatre Gig ~ Sunday 13th November 2022")
 
 Brian J Farrow Musical Director 16th April 2022
