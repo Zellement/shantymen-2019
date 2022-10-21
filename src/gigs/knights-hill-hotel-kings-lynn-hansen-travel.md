@@ -1,8 +1,8 @@
 ---
 templateKey: gig-listing
-location: 'Knights Hill Hotel - Kings Lynn - Hansen Travel '
-datetime: '1669406400'
+location: Erpinghan Village Hall
+datetime: '1669491000'
 ---
-P﻿rivate gig for Hansen Travel membbrsers
+P﻿rivate gig Erpingham Village Hall - Entrabce by Ticket
 
-! x 60 min session
+2 x 45 min sessions
