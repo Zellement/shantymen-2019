@@ -4,8 +4,6 @@ title: Gig List
 subtitle: See when and where we're playing next
 image: /img/khc78aaes1q-mzqckujnba.jpg
 ---
-Hello all, along with the vast majority of the great British public we are now able continue to make some tentative plans for the future. We managed a few gigs late in 2021 which both we and the public enjoyed immensely and we are now looking to proceed into 2022.  We said then "We will be back.... " and here we are with an initial list of gigs for 2022.
+Hello all, its been an interesting 12 months and the Shantymen have been enormously busy trying to catch up on lost time and reconnect with our friends and supporters. In the last 12 months we have met many new faces and travelled widely and continued to promte the genre which we love.
 
-Fond regards, Brian....
-
-Musical Director, Sheringham Shantymen, 16th January 2022
+ Sheringham Shantymen, 12th December 2022
