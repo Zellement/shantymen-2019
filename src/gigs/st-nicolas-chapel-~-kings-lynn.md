@@ -1,10 +1,8 @@
 ---
 templateKey: gig-listing
-location: St Nicolas Chapel ~ Kings Lynn
-datetime: '1677938400'
+location: 'Isle of Wight Shanty Festival '
+datetime: '1685106000'
 ---
-St Nicolas Chapel ~ Kings Lynn
+Isle of Wight ~ Friday, Saturday & Sunday
 
-2﻿ x 45 min sessions
-
-P﻿ublic Performance
+3 Day Shanty Festival open to public
