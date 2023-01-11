@@ -1,10 +1,10 @@
 ---
 templateKey: gig-listing
-location: 'St Mary''s Church ~ Hickling '
-datetime: '1686421800'
+location: 'Falmouth Shantyy weekend Festival '
+datetime: '1686920400'
 ---
-S﻿t Marys Church Hickling ~ Norfolk
+F﻿almouth Weekend Shanty Festival
 
-S﻿at 10th June @ 7:30 pm
+Friday 16th to Sunday 18th June 2023
 
-2﻿ x 45 Sessions ~Public performance
+B﻿iggest shanty festival in the UK
