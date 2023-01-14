@@ -1,11 +1,9 @@
 ---
 templateKey: gig-listing
-location: 'St. Peter Mancroft Church ~ Evening Performance in Norwich '
-datetime: '1688839200'
+location: 'Kelling Heath Holiday Park ~ Norfolk '
+datetime: '1690912800'
 featuredGig: false
 ---
-S﻿t.Peter Mancroft Church ~ Evening Performance
+K﻿elling Heath Holiday Park 
 
-General enquiries Tel 01603 610443 \~ email \~ *secretary@stpetermancroft.org.uk*
-
-2﻿ x 45 min public sessions
+2﻿ x 45 public sessions
