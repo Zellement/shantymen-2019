@@ -1,8 +1,10 @@
 ---
 templateKey: gig-listing
-location: 'Sheringham Lifeboat Station ~ Lifeboat Day '
-datetime: '1691928000'
+location: 'Westacre Theatre, River Road, West Acre, Norfolk PE32 1UA'
+datetime: '1692529200'
 ---
-S﻿heringham LIfeboaat Day ~ Sunday 13th August 
+Westacre Theatre, River Road, West Acre, Norfolk PE32 1UA
 
-1﻿ x 60 min public session
+2﻿ x 45 public Sessions 
+
+01760 755 800 Box Office
