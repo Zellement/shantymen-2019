@@ -1,10 +1,8 @@
 ---
 templateKey: gig-listing
-location: 'Sheringham ''Potty'' Morris & Folk Festival '
-datetime: '1688212800'
+location: 'Lobster PH Garden ~ Potty Festival Event in Sheringham '
+datetime: '1688238000'
 ---
-M﻿anaged by the Sheringham' Lobster Potties' - 
+Shantymen perform in the Lobster PH Garden for the M﻿orris & Folk Festival 
 
-M﻿orris & Folk Festival where the Shantymen perform in Lifeboat Plain 
-
-1﻿ x 60 public session
+2 x 45 min public sessions
