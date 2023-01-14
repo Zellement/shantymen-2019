@@ -1,7 +1,7 @@
 ---
 templateKey: gig-listing
-location: Private Wedding at 'Voewood' near Holt
-datetime: '1676462400'
+location: Private Wedding @ Worstead
+datetime: '1680359400'
 ---
 P﻿rivate Wedding -
 
