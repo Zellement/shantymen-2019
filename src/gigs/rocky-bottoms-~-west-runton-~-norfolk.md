@@ -1,10 +1,8 @@
 ---
 templateKey: gig-listing
-location: Rocky Bottoms ~ West Runton ~ Norfolk
-datetime: '1683383400'
+location: St. Marys Church Stalham
+datetime: '1684607400'
 ---
-Rocky Bottoms ~ Private gig
+St. Marys Church  Stalham~
 
-Wedding Venue
-
-2﻿ x 45 min sessions
+2﻿ x 45 min public sessions
