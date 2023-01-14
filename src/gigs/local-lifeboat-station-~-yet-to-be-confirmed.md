@@ -1,8 +1,8 @@
 ---
 templateKey: gig-listing
-location: 'Local Lifeboat Station ~ Yet to be confirmed '
-datetime: '1691312400'
+location: Kelling Heath Holiday Park ~Evening performance
+datetime: '1691690400'
 ---
-Local Lifeboat Station ~ Yet to be confirmed 
+Kelling Heath Holiday Park 
 
-1﻿ x 60 min public session
+2﻿ x 45 min public sessions
