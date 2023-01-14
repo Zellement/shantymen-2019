@@ -1,8 +1,8 @@
 ---
 templateKey: gig-listing
-location: Kelling Heath Holiday Park ~ Norfolk
-datetime: '1685815200'
+location: St. Marys Church ~ Hickling
+datetime: '1686421800'
 ---
-Kelling Heath Holiday Park ~ Norfolk 
+St. Marys Church ~ Hickling 
 
 2﻿ x 45 min public sessions
