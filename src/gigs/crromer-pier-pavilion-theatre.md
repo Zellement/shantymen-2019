@@ -1,10 +1,8 @@
 ---
 templateKey: gig-listing
-location: Crromer Pier Pavilion Theatre
-datetime: '1699212600'
+location: Hanson Travel ~ Knights Hill Hotel Kings Lynn
+datetime: '1700856000'
 ---
-A﻿nnual Gig at Cromer Pier Pavilion Theatre 
+Hanson Travel ~ Knights Hill Hotel, Kings Lynn
 
-Sunday 5th November 2023 
-
-2﻿ x 60 mins sessions
+P﻿rivate Gig  1 x 60 min session
