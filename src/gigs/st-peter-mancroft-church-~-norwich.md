@@ -1,9 +1,11 @@
 ---
 templateKey: gig-listing
-location: 'St. Peter Mancroft Church ~ Norwich '
-datetime: '1688839238'
+location: 'Cromer Pier Pavilion Theatre ~ Annual Concert for 2023 '
+datetime: '1699212600'
 featuredGig: false
 ---
-S﻿t. Peter Mancroft Church Norwich
+Cromer Pier Pavilion Theatre ~ Annual Concert for 2023 
 
-2﻿ x 45 min sessions
+S﻿pecial Concert at the Pavilion Theatre
+
+2﻿ x 60 min sessions
