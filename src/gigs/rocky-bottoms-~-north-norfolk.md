@@ -1,10 +1,10 @@
 ---
 templateKey: gig-listing
-location: 'Rocky Bottoms ~ North Norfolk '
-datetime: '1683383433'
+location: "K\uFEFFelling Heath Holiday Park"
+datetime: '1685815233'
 ---
-P﻿rivare wedding function @ Rocky Bottoms
+K﻿elling Heath Holiday Park ~ North Norfolk
 
-B﻿est wishes to the happy couple
+P﻿ublic Event
 
-1﻿ x 60 min private session
+2﻿  x 45 min public sessions
