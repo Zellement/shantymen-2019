@@ -1,10 +1,10 @@
 ---
 templateKey: gig-listing
-location: Falmouth Sea Shanty weekend Festival ~ 16th to 19th June
-datetime: '1686913225'
+location: 'Annual ''Potty'' Morris & Folk Festival '
+datetime: '1688212825'
 ---
-F﻿almouth Annual Sea Shanty Festival ~ 16th to 19th June
+Annual 'Potty' Morris & Folk Festival with
 
-T﻿hree days of singing sea shanties at numerous gigs
+S﻿hantymen singing @ midday in Lifeboat Plain 
 
-P﻿ublic events
+1﻿ x 60 min public session
