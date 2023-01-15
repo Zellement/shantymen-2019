@@ -1,10 +1,10 @@
 ---
 templateKey: gig-listing
-location: 'Cromer Pier Pavilion Theatre  - Annual Concert '
-datetime: '1699212633'
+location: 'Rocky Bottoms ~ private wedding '
+datetime: '1683383433'
 ---
- Special Annual Concert at Cromer Pier Pavilon Theatre
+ Special Concert at Rocky Botttoms in north Norfolk
 
-P﻿ublic performance  - Box Office 01263 512 495 
+C﻿ongratulations to happy couple 
 
-2﻿ x 1 hour sessions
+1﻿ x 60 mi private session
