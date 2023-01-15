@@ -1,10 +1,10 @@
 ---
 templateKey: gig-listing
-location: 'St. Peter Mancroft Church ~ in the centre of Norwich '
-datetime: '1688839228'
+location: 'Sheringhham LIfeboat Station ~ Annual LIfeboat Day '
+datetime: '1691928028'
 ---
-St. Peter Mancroft Church ~ in the centre of Norwich 
+S﻿herngham Lifeboat Day 
 
-T﻿el 01603 610 443 or email to : s*ecretary@stpetermancroft.org.uk* 
+P﻿ublic performance at the Lifeboat Station @ 13.00 hrs
 
-2﻿ x 45 min public sessions
+1﻿ x 60 min public session
