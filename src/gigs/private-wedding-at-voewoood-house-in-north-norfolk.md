@@ -1,10 +1,8 @@
 ---
 templateKey: gig-listing
-location: Private Wedding at Voewoood House in North Norfolk
-datetime: '1676462400'
+location: Ely Maltings in Cambridgeshire
+datetime: '1681563600'
 ---
-P﻿rivate Wedding at 'Voewood'  House
+The Maltings, Ship Lane, Ely, Cambridgeshire, CB7 4BB
 
-B﻿est wishes to the lucky couple
-
-2﻿ x 45  private sessionsmin
+2﻿ x 45 public sessions \~ Tel 01353 662 633 \~ email ***[maltings@cityofelycouncil.org.uk](mailto:maltings@cityofelycouncil.org.uk)***
