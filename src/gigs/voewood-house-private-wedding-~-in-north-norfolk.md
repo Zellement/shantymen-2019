@@ -1,10 +1,8 @@
 ---
 templateKey: gig-listing
-location: '''Voewood'' House Private Wedding ~ in North Norfolk'
-datetime: '1676462439'
+location: 40's weekend in north Norfolk
+datetime: '1694862039'
 ---
-P﻿rivate Wedding at Voewood House
+4﻿0's weekend 
 
-C﻿ongratulations to the Happy Couple
-
-2﻿ x 45  min private sessions
+Location of gigs yet to be decided.
