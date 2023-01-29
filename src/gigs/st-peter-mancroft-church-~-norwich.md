@@ -2,7 +2,7 @@
 templateKey: gig-listing
 location: 'Cromer Pier Pavilion Theatre ~ Annual Concert for 2023 '
 datetime: '1699212600'
-featuredGig: false
+featuredGig: true
 ---
 Cromer Pier Pavilion Theatre ~ Annual Concert for 2023 
 
