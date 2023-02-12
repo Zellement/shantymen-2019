@@ -1,8 +1,8 @@
 ---
 templateKey: gig-listing
-location: Horning Sailing Club
-datetime: '1690038048'
+location: Sheringham LIttle Theatre
+datetime: '1690741848'
 ---
-H﻿orning Sailing Club 
+S﻿heringham LIttle Theatre
 
 2﻿ x 45 min sessions
