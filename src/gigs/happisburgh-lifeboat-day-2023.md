@@ -1,8 +1,8 @@
 ---
 templateKey: gig-listing
-location: Happisburgh Lifeboat Day 2023
-datetime: '1691325000'
+location: 'Brancaster Staithe ~ Shanty Festival '
+datetime: '1694862000'
 ---
-H﻿appisburgh LIfeboat Day 2023 
+B﻿rancaster Staithe Shanty Festival 
 
-1﻿ x 60 min Public Session
+S﻿everal public Sessions
