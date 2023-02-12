@@ -1,8 +1,6 @@
 ---
 templateKey: gig-listing
-location: John of Gaunt Infant School
-datetime: '1679061606'
+location: Upper Sheringham Parish Hall
+datetime: '1683464466'
 ---
-John of Gaunt Infant School
-
-1﻿ x 60 min private session
+2﻿ x 45 min public sessions
