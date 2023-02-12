@@ -1,8 +1,8 @@
 ---
 templateKey: gig-listing
-location: Sheringham LIttle Theatre
-datetime: '1690741848'
+location: Cromer Lifeboat Day 2023
+datetime: '1691314248'
 ---
-S﻿heringham LIttle Theatre
+C﻿romer LIfeboat Day 2023
 
-2﻿ x 45 min sessions
+1﻿ x 60 min public session
