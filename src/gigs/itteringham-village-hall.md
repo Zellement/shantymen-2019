@@ -1,8 +1,8 @@
 ---
 templateKey: gig-listing
-location: 'Itteringham Village Hall '
-datetime: '1680287457'
+location: North Sea Coffee ~ Cromer Prom
+datetime: '1687458657'
 ---
-L﻿ocal gig to support Itteringham Village Shop run by Volunteers 
+L﻿ocal gig at North Sea Coffee on Cromer Promenade
 
-1﻿ x 30 min session
+Lots of fun \~ Mufti \~ and 1 x 60 min session
