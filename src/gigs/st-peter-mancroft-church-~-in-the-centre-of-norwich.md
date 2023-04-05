@@ -1,6 +1,6 @@
 ---
 templateKey: gig-listing
-location: 'Sheringhham LIfeboat Station ~ Annual LIfeboat Day '
+location: 'Sheringham LIfeboat Station ~ Annual LIfeboat Day '
 datetime: '1691928028'
 ---
 S﻿herngham Lifeboat Day 
