@@ -9,4 +9,4 @@ Mobile: 07833 655854 - Doors Open 12.15
 
 H﻿olt Festival
 
-2﻿ x 60 min Public Session
+1x 60 min Public Session
