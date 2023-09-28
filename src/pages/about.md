@@ -40,14 +40,12 @@ Although 2020 was the Shantymen's 30th Anniversary year and somewhat special the
 
 In May 2021the group picked up the threads and eventually completed about 10 gigs through to the end of November 2021. They completed their special gig at the Cromer Pier Pavilion Theatre on Sunday 14th November.   Unfortunately their good friend Mr Keith Skipper was indisposed but his colleague and all round entertainer Olly Day took his place and the gig was enormously successful allowing the Shantymen to donate all the gig profits to Sir Norman Lamb Mental Health Charity as well as Comer & Sheringham RNLI's.
 
-In March 2022 the Shantymen decided to perform a charity concert for the people of Ukraine , The concert which was on Saturday 26th March at St. Peters Church Sheringham raised over £5,000 all of which was donated to the Disasters Emergency Fund (DEF).  Entry was free but there was a retiring collection.  The Shantymen were privileged to welcome Michael Gurney DL, The High Sheriff of Norfolk who introduced the event and Duncan Baker MP who summed up at the end of the concert. A great night was had by all.
+In March 2022 the Shantymen decided to perform a charity concert for the people of Ukraine , The concert which was on Saturday 26th March at St. Peters Church Sheringham raised over £5,000 all of which was donated to the Disasters Emergency Fund (DEF).  Entry was free but there was a retiring collection.  The Shantymen were privileged to welcome Michael Gurney DL, The High Sheriff of Norfolk who introduced the event and Duncan Baker MP who summed up at the end of the concert. A great night was had by all. I﻿n later November 2022 we performed our annual gig on the Pier which was well received by our public.   
 
-A﻿s we now approach the autumn we are preparing for our annual Pier show this year and the all-round entertainer Mr Olly Day has been invited to compare our show and bring his own brand of music and comedy to make a wonderful evening of entertainment.  
+S﻿ince then we have had an extremely busy 11 months completing numerous gigs mainly across East Anglia but including our annual trip to Falmouth which was busier than ever. We are now preparing for our annual gig at the Pavilion Theatre on Cromer Pier.
 
-Brian J Farrow
-
-Musical Director -21st October 2022 
+Musical Director -28th September 2023
 
 ![ ](/img/poster-2023.jpeg "Cromer Pier Pavilion Theatre Gig ~ Sunday 5th November 2023")
 
-Brian J Farrow Musical Director 21st October 2022
+Musical Director 28th Sptember 2023
