@@ -2,7 +2,7 @@
 templateKey: standard-page
 title: Gallery
 subtitle: See some of our historical photos.
-image: /img/pier-22.jpg
+image: /img/2023.jpg
 ---
 Have a browse through some of our historical photos.
 
