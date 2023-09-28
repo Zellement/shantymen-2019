@@ -48,6 +48,6 @@ Brian J Farrow
 
 Musical Director -21st October 2022 
 
-![ ](/img/poster-2023.jpeg "Cromer Pier Pavilion Theatre Gig ~ Sunday 13th November 2022")
+![ ](/img/poster-2023.jpeg "Cromer Pier Pavilion Theatre Gig ~ Sunday 5th November 2023")
 
 Brian J Farrow Musical Director 21st October 2022
