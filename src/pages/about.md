@@ -48,4 +48,4 @@ Musical Director -28th September 2023
 
 ![ ](/img/poster-2023.jpeg "Cromer Pier Pavilion Theatre Gig ~ Sunday 5th November 2023")
 
-Musical Director 28th Sptember 2023
+Musical Director 28th September 2023
