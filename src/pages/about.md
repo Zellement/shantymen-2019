@@ -30,7 +30,7 @@ In 2011 they performed two festivals in quick succession, in France at the St Va
 
 In March of 2014 the Shantymen made their 6th CD in St Peters Church Sheringham and enjoyed another great season.
 
-In 2015 they celebrated their 25th anniversary and completed three special concerts, two in Sheringham and one in Cromer Pavilion Theatre. It was a great year which they enjoyed immensely and they gave their profound thanks to the people of Norfolk who have supported them throughout.  2016 was another great year for the Shantymen as they welcomed some new younger blood into their midst and these will help develop new ideas and new ways for the future.  They also made their 7th CD at St Peters Church which comprised a selection of their favourite songs.
+In 2015 they celebrated their 25th anniversary and completed three special concerts, two in Sheringham and one in Cromer Pavilion Theatre.  2016 was another great year for the Shantymen as they made their 7th CD at St Peters Church which comprised a selection of their favourite songs. 
 
 In 2017 the Shantymen did over thirty gigs and their very first gig at Folk East which was a lot of fun and a new venue for them.  2018 was again a very busy year with thirty odd gigs including major performances at International Sea Festivals at Falmouth and Great Yarmouth.
 
@@ -38,13 +38,17 @@ In 2017 the Shantymen did over thirty gigs and their very first gig at Folk East
 
 Although 2020 was the Shantymen's 30th Anniversary year and somewhat special they were left in a very surreal situation with the impacts of Covid19. They had been planning a series of local gigs at local Theatres but that was not to be thus they put a series of virtual songs together for the Sheringham Carnival which were aired on their Facebook page and the Carnival Facebook page on Thursday 6th August at 7.30 pm. 
 
-In May 2021the group picked up the threads and eventually completed about 10 gigs through to the end of November 2021. They completed their special gig at the Cromer Pier Pavilion Theatre on Sunday 14th November.   Unfortunately their good friend Mr Keith Skipper was indisposed but his colleague and all round entertainer Olly Day took his place and the gig was enormously successful allowing the Shantymen to donate all the gig profits to Sir Norman Lamb Mental Health Charity as well as Comer & Sheringham RNLI's.
+In May 2021the group picked up the threads and completed 10 gigs through to the end of November 2021. They completed their special gig at the Cromer Pier Pavilion Theatre on Sunday 14th November.   Unfortunately their good friend Mr Keith Skipper was indisposed but his colleague and all round entertainer Olly Day took his place and the gig was enormously successful allowing the Shantymen to donate all the gig profits to Sir Norman Lamb Mental Health Charity as well as Comer & Sheringham RNLI's.
 
-In March 2022 the Shantymen decided to perform a charity concert for the people of Ukraine , The concert which was on Saturday 26th March at St. Peters Church Sheringham raised over £5,000 all of which was donated to the Disasters Emergency Fund (DEF).  Entry was free but there was a retiring collection.  The Shantymen were privileged to welcome Michael Gurney DL, The High Sheriff of Norfolk who introduced the event and Duncan Baker MP who summed up at the end of the concert. A great night was had by all. I﻿n later November 2022 we performed our annual gig on the Pier which was well received by our public.   
+In March 2022 the Shantymen decided to perform a charity concert for the people of Ukraine , The concert raised over £5,000 all of which was donated to the Disasters Emergency Fund (DEF).  The Shantymen were privileged to welcome Michael Gurney DL, The High Sheriff of Norfolk who introduced the event and Duncan Baker MP who summed up at the end of the concert. A great night was had by all. 
 
-S﻿ince then we have had an extremely busy 11 months completing numerous gigs mainly across East Anglia but including our annual trip to Falmouth which was busier than ever. We are now preparing for our annual gig at the Pavilion Theatre on Cromer Pier.
+S﻿ince then we have had an extremely busy year completing numerous gigs mainly across East Anglia but including our annual trip to Falmouth which was busier than ever. We completed our annual gig at Cromer Pier donating all the £6,000 profits to local charities including Sheringham & Cromer RNLI
 
-Musical Director -28th September 2023
+2024 promises to be an extraordinary year celebrating the 200th Anniversary of the RNLI, where we will be celebrating the 200th anniversary at a number of Theare venues acoss the UK. 
+
+Watch this space.
+
+
 
 ![ ](/img/poster-2023.jpeg "Cromer Pier Pavilion Theatre Gig ~ Sunday 5th November 2023")
 
