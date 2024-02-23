@@ -1,6 +1,6 @@
 ---
 templateKey: gig-listing
-location: St. Peters Church Sheringhjam
+location: St. Peters Church Sheringham
 datetime: '1709407819'
 ---
 R﻿NLI 200 Year celebration
