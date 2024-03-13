@@ -1,8 +1,10 @@
 ---
 templateKey: gig-listing
-location: 'Sheringham '
-datetime: '1715004022'
+location: 'Cromer '
+datetime: '1715970622'
 ---
-Fishmongers Tavern 
+Cromer Pier Pavilion Theatre
 
-Sheringham 2 x 45 sessions
+Crab & Lobster Festival 
+
+1 x  40 Session
