@@ -1,10 +1,8 @@
 ---
 templateKey: gig-listing
-location: Westacre
-datetime: '1724583619'
+location: Kelling Heath Holiday Park
+datetime: '1725710419'
 ---
-Westacre Theatre
+Beer Festival
 
-2 x 60 min sessions 
-
-Under cover In a beautiful outside setting
+2 x 60 min sessions
