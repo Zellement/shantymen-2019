@@ -1,12 +1,10 @@
 ---
 templateKey: gig-listing
-location: Gravesend
-datetime: '1722103224'
+location: Chatham ~ Historic Dockyard
+datetime: '1722159024'
 ---
-W﻿oodville Theatre
+A﻿ sail of two centuries tour
 
-'A﻿ sail of two centuries' Show
+C﻿elebrating 200 years of the RNLI
 
-c﻿elebrating 200th Annivertsary of the RNLI
-
-2﻿ x 45 min sessions
+1﻿ x 60 min session
