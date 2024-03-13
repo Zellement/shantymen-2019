@@ -1,8 +1,8 @@
 ---
 templateKey: gig-listing
-location: Downham Market ~ Town Hall
-datetime: '1717093820'
+location: Wissonsett
+datetime: '1717785020'
 ---
-D﻿ownham Market Festival 
+St. Marys Church
 
-T﻿own Hall 2 x 45 min sessions
+2﻿ x 45 min sessions
