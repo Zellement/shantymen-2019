@@ -1,10 +1,10 @@
 ---
 templateKey: gig-listing
-location: Cromer RNLI
-datetime: '1722762048'
+location: Sheringham RNLI
+datetime: '1723377648'
 ---
-C﻿romer RNLI Lifeboat Day
+S﻿heringham RNLI Lifeboat Day - Celebrating 200 years of the RNLI
 
-At the O﻿ld Boathouse 
+O﻿utside the Lifeboat Station
 
-2﻿ x 45 min sessions
+1﻿ x 60 min session
