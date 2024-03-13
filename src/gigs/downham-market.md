@@ -1,8 +1,10 @@
 ---
 templateKey: gig-listing
-location: Kelling Heath Holiday Park
-datetime: '1719748852'
+location: Sheringham - Potty Festival
+datetime: '1720274452'
 ---
-Beer Festival 
+Lifeboat Plain 
 
-2﻿ x 45 min sessions
+Outside Oddfellows Hall 
+
+1 x 60 min session
