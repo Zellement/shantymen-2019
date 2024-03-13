@@ -1,12 +1,10 @@
 ---
 templateKey: gig-listing
-location: Chatham ~ Historic Dockyard
-datetime: '1722159052'
+location: 'Cromer Lifeboat Day '
+datetime: '1722762052'
 ---
-Chatham ~ Historic Dockyard
-
-'A﻿ sail of two centuries tour'
+Cromer RNLI
 
 Celebrating 200 years of the RNLI
 
-1﻿ x 60 min session
+2 x 45 min sessions
