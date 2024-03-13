@@ -1,10 +1,10 @@
 ---
 templateKey: gig-listing
-location: Westacre
-datetime: '1724583613'
+location: 'Kelling Heath Holiday Park '
+datetime: '1725710413'
 ---
-W﻿estacre Theatre
+K﻿elling Heath HolIday Park
 
-B﻿eatiful outside under cover auditorium
+B﻿eer FEstical 
 
 2﻿ x 45 min sessions
