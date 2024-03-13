@@ -1,8 +1,8 @@
 ---
 templateKey: gig-listing
-location: Hickling
-datetime: '1713033003'
+location: 'Besthorpe ~ All Saints Church '
+datetime: '1714933803'
 ---
-H﻿ickling Church 
+ALL Saints Church 
 
-2﻿ x 45 mins sessions
+2﻿ x 45 mins Public Sessions
