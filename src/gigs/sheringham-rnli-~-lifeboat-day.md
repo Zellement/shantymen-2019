@@ -1,8 +1,10 @@
 ---
 templateKey: gig-listing
-location: 'Brancaster Shanty Festival '
-datetime: '1726311619'
+location: 'Cromer Pier '
+datetime: '1730662219'
 ---
-Brancaster Shanty Festival 
+Cromer Pier Pavilion Theatre
 
-Various public locations throughout the day
+Annual Pier Show
+
+2﻿ x 45 min sessions
