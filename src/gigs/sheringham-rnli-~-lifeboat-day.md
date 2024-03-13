@@ -1,10 +1,10 @@
 ---
 templateKey: gig-listing
-location: 'Cromer Pier '
-datetime: '1730662219'
+location: Great Massingham
+datetime: '1731783619'
 ---
-Cromer Pier Pavilion Theatre
+Great Massingham ~ Dabbling Duck PH
 
-Annual Pier Show
+Seafood Festival 
 
-2﻿ x 45 min sessions
+2﻿ x 45 sessions
