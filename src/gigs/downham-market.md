@@ -1,10 +1,10 @@
 ---
 templateKey: gig-listing
-location: Sheringham - Potty Festival
-datetime: '1720274452'
+location: Gravesend ~ Woodville Theatre
+datetime: '1722103252'
 ---
-Lifeboat Plain 
+'A﻿ sail of two centuries tour'
 
-Outside Oddfellows Hall 
+Celebrating 200 years of the RNLI
 
-1 x 60 min session
+2﻿ x 45 min sessions
