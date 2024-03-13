@@ -1,8 +1,8 @@
 ---
 templateKey: gig-listing
-location: Kelling Heath Holiday Park
-datetime: '1725710419'
+location: 'Brancaster Shanty Festival '
+datetime: '1726311619'
 ---
-Beer Festival
+Brancaster Shanty Festival 
 
-2 x 60 min sessions
+Various public locations throughout the day
