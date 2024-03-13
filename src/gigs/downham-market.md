@@ -1,8 +1,8 @@
 ---
 templateKey: gig-listing
-location: Wissonsett St. Marys Church
-datetime: '1717785052'
+location: High Kelling
+datetime: '1719682252'
 ---
-St. Marys Church
+All Saints Church 
 
 2﻿ x 45 min sessions
