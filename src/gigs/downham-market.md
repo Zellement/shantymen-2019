@@ -1,10 +1,10 @@
 ---
 templateKey: gig-listing
-location: 'Cromer Lifeboat Day '
-datetime: '1722762052'
+location: 'Sheringham '
+datetime: '1723141852'
 ---
-Cromer RNLI
+Sheringham Carnival 
 
-Celebrating 200 years of the RNLI
+Lifeboat Plain outside Oddfellows Hall
 
-2 x 45 min sessions
+2﻿ x 45 min sessions
