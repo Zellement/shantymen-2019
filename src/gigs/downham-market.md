@@ -1,8 +1,8 @@
 ---
 templateKey: gig-listing
-location: High Kelling
-datetime: '1719682252'
+location: Kelling Heath Holiday Park
+datetime: '1719748852'
 ---
-All Saints Church 
+Beer Festival 
 
 2﻿ x 45 min sessions
