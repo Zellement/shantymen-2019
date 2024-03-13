@@ -1,10 +1,10 @@
 ---
 templateKey: gig-listing
-location: Sheringham RNLI ~ Lifeboat Day
-datetime: '1723377619'
+location: Westacre
+datetime: '1724583619'
 ---
-Outside the Lifeboat Station
+Westacre Theatre
 
-Celebrating 200 years of the RNLI
+2 x 60 min sessions 
 
-1﻿ x 60 min session
+Under cover In a beautiful outside setting
