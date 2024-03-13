@@ -1,8 +1,8 @@
 ---
 templateKey: gig-listing
-location: Besthorpe
-datetime: '1714847425'
+location: 'Sheringham '
+datetime: '1715004025'
 ---
-A﻿ll Saints Church ~ Besthorpe
+F﻿ishmongers Tavern
 
-2﻿ x 45 min sessions
+2﻿ x 45 min sessions in the Garden
