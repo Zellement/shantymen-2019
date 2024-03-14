@@ -1,10 +1,10 @@
 ---
 templateKey: gig-listing
-location: 'Cromer '
-datetime: '1722762042'
+location: Westacre
+datetime: '1724583642'
 ---
-C﻿romer LIfeboat Day 
+W﻿estacre Theatre
 
-I﻿n the old boatshed near the gangway
+O﻿utside venue undercover
 
-2﻿ x 45 min public sessions
+2﻿ x 45 min sessions
