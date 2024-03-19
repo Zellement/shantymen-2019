@@ -1,6 +1,6 @@
 ---
 templateKey: gig-listing
-location: 'Cromer '
+location: 'Cromer ~ Crab & Lobster Festival '
 datetime: '1715970622'
 ---
 Cromer Pier Pavilion Theatre
