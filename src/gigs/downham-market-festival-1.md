@@ -1,8 +1,10 @@
 ---
 templateKey: gig-listing
 location: 'Downham Market Festival '
-datetime: '1685557832'
+datetime: '1717093832'
 ---
- Wednesday 31st May 19.30
+Thrsday 30th May 2024 
+
+@﻿ 7.30 pm
 
  2 x 45 min sets
