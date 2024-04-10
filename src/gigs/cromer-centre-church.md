@@ -1,8 +1,8 @@
 ---
 templateKey: gig-listing
-location: 'Brancaster Session '
-datetime: '1716649214'
+location: Sheringham ~ St. Peters Church
+datetime: '1726943414'
 ---
-2﻿ x 45 min sessions at Brancaster
+2﻿ x 45 min sessions in support of 
 
-T﻿ime and location yet to be agreed,
+S﻿t. Peters and the 200th Anniversary of the RNLI
