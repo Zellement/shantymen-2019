@@ -44,11 +44,11 @@ In March 2022 the Shantymen decided to perform a charity concert for the people 
 
 S﻿ince then we have had an extremely busy year completing numerous gigs mainly across East Anglia but including our annual trip to Falmouth which was busier than ever. We completed our annual gig at Cromer Pier donating all the £6,000 profits to local charities including Sheringham & Cromer RNLI
 
-2024 promises to be an extraordinary year celebrating the 200th Anniversary of the RNLI, where we will be celebrating the 200th anniversary at a number of Theare venues acoss the UK. 
+2024 promises to be an extraordinary year celebrating the 200th Anniversary of the RNLI, where we will be celebrating the 200th anniversary at a number of Theatres venues acoss the UK. 
 
-Watch this space.
+In fact ea﻿lier this year we tried to do some gigs on the South Coast to celebrate the 200th Anniversary of the RNLI in particualr at Gravesend. Unfortunately we had to cancel the event not least because we did not sell enough tickets. But unbeknown to us we then found out that many of our supporters turned up anyway and were dissappointed.  So may I take this opportunity to offer our profuse apologies to one and all and make sure that in future we publisise everything even our cancellations.  
 
-
+R﻿egards
 
 ![ ](/img/poster-2023.jpeg "Cromer Pier Pavilion Theatre Gig ~ Sunday 5th November 2023")
 
