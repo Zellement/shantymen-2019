@@ -10,7 +10,9 @@ Available for hire @ http://www.oddfellowshall.co.uk/
 
 This is the home of the Sheringham Shantymen.  We practice here every Thursday evening  from 8.15 pm to 9.30 pm and the public are welcome to attend.  
 
-The Hall is a stunning place to hold meetings and functions venue in the heart of Sheringham.  Winner of three architectural awards, this 140 year old, brick and flint former lifeboat house was sympathetically rebuilt and restored in 2007 and is currently managed by The Sheringham Shantymen on a totally voluntary basis, on behalf of the community.  The name, Oddfellows Hall, reflects a long and continuing relationship between the town of Sheringham and the Manchester Unity Independent Order of Oddfellows, a charitable institution that has provided financial support to the Sheringham RNLI Lifeboat Station for over a Century.
+The Hall is a stunning place to hold meetings and functions venue in the heart of Sheringham.  Winner of three architectural awards, this 140 year old, brick and flint former lifeboat house was sympathetically rebuilt and restored in 2007. Although it is no longer managed by The Sheringham Shantymen it is still available for hire. 
+
+The name, Oddfellows Hall, reflects a long and continuing relationship between the town of Sheringham and the Manchester Unity Independent Order of Oddfellows, a charitable institution that has provided financial support to the Sheringham RNLI Lifeboat Station for over a Century. 
 
 > The new Oddfellows Hall features an impressive timber framed glass and steel entrance in the shape of the prow of a lifeboat.  The Hall, all parts of which are accessible for wheelchair users, is available for hire to any person, organisation or company and offers the following features:
 
@@ -43,36 +45,28 @@ The hall is available seven days a week for hire and can be used as a venue for:
 
 … as well as many other uses: just ask!
 
-**_The Purpose of Life_**
+***The Purpose of Life***
 
-_Imagine, as I start this rhyme,
-That there is neither space nor time,_
+*Imagine, as I start this rhyme, That there is neither space nor time,*
 
-_And then, for better or for worse,
- Something begins the universe._
+*And then, for better or for worse,  Something begins the universe.*
 
-_The Big bang happened loud and then,
- There passed nine billion years, or ten,_
+*The Big bang happened loud and then,  There passed nine billion years, or ten,*
 
-_Stars formed and galaxies, and then the birth
-Of this small planet we call earth._
+*Stars formed and galaxies, and then the birth Of this small planet we call earth.*
 
-_Somewhere beneath the murky ocean
-, A few cells seemed to get the notion_
+*Somewhere beneath the murky ocean , A few cells seemed to get the notion*
 
-_That they could be like man and wife
-, And, having fun created life._
+*That they could be like man and wife , And, having fun created life.*
 
-_The evolution, without pause	Brought mammoths, after dinosaurs,_
+*The evolution, without pause	Brought mammoths, after dinosaurs,*
 
-_And frogs and apes – at last came man
-,For that is how our race began._
+*And frogs and apes – at last came man ,For that is how our race began.*
 
-_And what was all this progress for?
- That took ten billion years or more?_
+*And what was all this progress for?  That took ten billion years or more?*
 
-_Creation reached its climax when;_
+*Creation reached its climax when;*
 
-Evolved – **_THE SHERINGHAM SHANTYMEN!_**
+Evolved – ***THE SHERINGHAM SHANTYMEN!***
 
-_**Author: Peter Page circa 2001**_
+***Author: Peter Page circa 2001***
