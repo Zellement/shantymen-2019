@@ -1,6 +1,6 @@
 ---
 templateKey: gig-listing
-location: 'Colitishall ~ Norfolk Mead Hotal '
+location: 'Colitishall ~ Private Gig  '
 datetime: '1727202650'
 ---
 A﻿mber @ Golf Club
