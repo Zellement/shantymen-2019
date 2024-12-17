@@ -1,9 +1,9 @@
 ---
 templateKey: gigs-page
-title: Gig List for 2024
+title: Gig List for 2025
 subtitle: See when and where we're playing next
 image: /img/141005-shantymen-014.jpg
 ---
-Hello all, its time to start aranging our gigs for 2024 whuch will be a terriffic year celebrating the 200th anniversary of the RNLI  Look out for our Sail of two centuries tour, that will be fun.
+Hello everyone! Let’s kick off the planning for our 2025 gigs, which is shaping up to be an exciting year for the Sheringham Shantymen. Join us as we continue to grow and share our music. Don’t miss out on our upcoming performance in 2025.
 
-Sheringham Shantymen, 18th January 2024.
+1﻿7th December 2024
