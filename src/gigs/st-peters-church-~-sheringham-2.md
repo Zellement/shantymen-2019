@@ -1,10 +1,8 @@
 ---
 templateKey: gig-listing
-location: St Peters Church ~ Sheringham
-datetime: '1742652000'
+location: All Saints Church ~ Carleton Rode
+datetime: '1743877800'
 ---
-St Peters Church ~Sheringham  
+All Saints Church ~ Carleton Rode 
 
-Supporting the local group of Age Concern
-
-2 session of 45 min each
+2 sessions of 45 min each
